@@ -3,8 +3,8 @@ title = "Disability Spot, Actually Using a Disabled Person"
 date = "2010-02-03T07:36:00+00:00"
 slug = "disability-spot-actually-using-a-disabled-person"
 categories = ["Uncategorized"]
-agency = "Unknown"
-brand = "Disability"
+agency = "Wirestone"
+brand = "Health & Disability Advocates"
 [cover]
   image = "/img/default-post.jpg"
 +++

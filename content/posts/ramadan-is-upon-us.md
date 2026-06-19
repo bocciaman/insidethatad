@@ -5,6 +5,7 @@ slug = "ramadan-is-upon-us"
 categories = ["marketing", "Print"]
 tags = ["marketing list", "postcard", "Ramadan"]
 agency = "Unknown"
+brand = "Life"
 [cover]
   image = "/img/2022/04/ramadan-card1-1-scaled.jpeg"
 +++

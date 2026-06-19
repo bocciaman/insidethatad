@@ -4,6 +4,7 @@ date = "2010-09-13T00:10:00+00:00"
 slug = "espn-and-wk-team-up"
 categories = ["Uncategorized"]
 agency = "Wieden+Kennedy"
+brand = "ESPN"
 [cover]
   image = "/img/default-post.jpg"
 +++

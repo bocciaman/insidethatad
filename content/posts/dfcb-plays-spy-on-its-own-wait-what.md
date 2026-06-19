@@ -4,6 +4,7 @@ date = "2012-06-16T15:33:00+00:00"
 slug = "dfcb-plays-spy-on-its-own-wait-what"
 categories = ["Uncategorized"]
 agency = "fcb"
+brand = "FCB"
 [cover]
   image = "http://4.bp.blogspot.com/-56LtWnwCwF4/T9ylF-q1--I/AAAAAAAAAeE/mKlOycXMMW8/s640/dfcbspy.png"
 +++

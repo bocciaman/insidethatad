@@ -4,6 +4,7 @@ date = "2011-05-02T04:30:00+00:00"
 slug = "att-ski-lift"
 categories = ["Uncategorized"]
 agency = "BBDO"
+brand = "AT&T"
 [cover]
   image = "/img/default-post.jpg"
 +++

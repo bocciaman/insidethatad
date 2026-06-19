@@ -4,6 +4,7 @@ date = "2010-11-16T16:06:00+00:00"
 slug = "microsoft-tries-to-one-up-apple"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Microsoft"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2020-10-09T09:32:53+00:00"
 slug = "diet-pepsi-shrank-the-cat"
 categories = ["Advertising", "Art", "Creative", "Print"]
 agency = "Unknown"
+brand = "Diet Pepsi"
 [cover]
   image = "/img/2020/10/diet_pepsi_cat.jpg"
 +++

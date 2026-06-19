@@ -4,6 +4,7 @@ date = "2009-01-20T22:55:00+00:00"
 slug = "better-results"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Apple"
 [cover]
   image = "/img/default-post.jpg"
 +++

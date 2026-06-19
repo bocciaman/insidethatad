@@ -4,6 +4,7 @@ date = "2012-09-17T03:20:00+00:00"
 slug = "bic-for-her-flooded-with-sarcastic-opinions"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "BIC"
 [cover]
   image = "http://1.bp.blogspot.com/-xIdfLygW1OU/UFaWsy2p_7I/AAAAAAAAAg0/qJSE60kx_Mg/s1600/41cVW31yoaL._SL500_AA300_.jpg"
 +++

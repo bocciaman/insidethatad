@@ -4,6 +4,7 @@ date = "2009-05-14T22:38:00+00:00"
 slug = "mac-hits-back"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Apple"
 [cover]
   image = "/img/default-post.jpg"
 +++

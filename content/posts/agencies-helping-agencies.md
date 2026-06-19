@@ -5,6 +5,7 @@ slug = "agencies-helping-agencies"
 categories = ["agencies"]
 tags = ["advertising", "Agency", "helping hand", "work"]
 agency = "Wieden + Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/2017/10/HelpingHands.jpg"
 +++

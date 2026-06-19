@@ -4,6 +4,7 @@ date = "2009-05-12T21:25:00+00:00"
 slug = "lebron-kobe-just-do-it-puppet-style"
 categories = ["Uncategorized"]
 agency = "Wieden+Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/default-post.jpg"
 +++

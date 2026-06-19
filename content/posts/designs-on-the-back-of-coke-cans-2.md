@@ -4,6 +4,7 @@ date = "2010-09-19T07:21:00+00:00"
 slug = "designs-on-the-back-of-coke-cans-2"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Coca-Cola"
 [cover]
   image = "/img/default-post.jpg"
 +++

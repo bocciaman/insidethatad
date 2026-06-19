@@ -3,7 +3,8 @@ title = "Bud Ice Penguins"
 date = "2010-11-19T18:05:00+00:00"
 slug = "bud-ice-penguins"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Goodby, Silverstein & Partners"
+brand = "Bud Ice"
 [cover]
   image = "/img/default-post.jpg"
 +++

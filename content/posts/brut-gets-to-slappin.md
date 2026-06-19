@@ -4,6 +4,7 @@ date = "2010-11-12T18:03:00+00:00"
 slug = "brut-gets-to-slappin"
 categories = ["Uncategorized"]
 agency = "Wieden + Kennedy"
+brand = "Brut"
 [cover]
   image = "http://i940.photobucket.com/albums/ad248/bocciaman/brut.jpg%20"
 +++

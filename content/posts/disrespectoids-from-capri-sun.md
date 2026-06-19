@@ -4,6 +4,7 @@ date = "2010-05-07T15:08:00+00:00"
 slug = "disrespectoids-from-capri-sun"
 categories = ["Uncategorized"]
 agency = "Ogilvy"
+brand = "Capri Sun"
 [cover]
   image = "/img/default-post.jpg"
 +++

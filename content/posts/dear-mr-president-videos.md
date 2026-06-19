@@ -4,6 +4,7 @@ date = "2009-01-19T06:00:00+00:00"
 slug = "dear-mr-president-videos"
 categories = ["Uncategorized"]
 agency = "R/GA"
+brand = "MoveOn.org"
 [cover]
   image = "/img/default-post.jpg"
 +++

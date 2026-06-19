@@ -4,6 +4,7 @@ date = "2010-09-14T20:50:00+00:00"
 slug = "dirty-dirty-dishes"
 categories = ["Uncategorized"]
 agency = "DDB"
+brand = "Cascade"
 [cover]
   image = "/img/default-post.jpg"
 +++

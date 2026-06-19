@@ -4,6 +4,7 @@ date = "2009-05-05T19:28:00+00:00"
 slug = "dream-job-in-the-ad-business"
 categories = ["Uncategorized"]
 agency = "Saatchi & Saatchi"
+brand = "D&AD"
 [cover]
   image = "/img/default-post.jpg"
 +++

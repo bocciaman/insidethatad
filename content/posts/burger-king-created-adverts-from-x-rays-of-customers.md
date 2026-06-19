@@ -4,7 +4,8 @@ date = "2019-04-28T17:39:49+00:00"
 slug = "burger-king-created-adverts-from-x-rays-of-customers"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["BK injuries", "Burger King", "injury", "x-rays"]
-agency = "Unknown"
+agency = "David São Paulo"
+brand = "Burger King"
 [cover]
   image = "/img/2019/04/BK-Injuries-1.jpg"
 +++

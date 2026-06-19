@@ -4,6 +4,7 @@ date = "2009-04-24T18:30:00+00:00"
 slug = "cavs-playoff-proposal"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Foot Locker"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-03-12T22:38:00+00:00"
 slug = "disabled-dancer"
 categories = ["Uncategorized"]
 agency = "Saatchi & Saatchi"
+brand = "Rexona"
 [cover]
   image = "/img/default-post.jpg"
 +++

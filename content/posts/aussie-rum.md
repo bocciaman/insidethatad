@@ -4,6 +4,7 @@ date = "2010-10-30T05:26:00+00:00"
 slug = "aussie-rum"
 categories = ["Uncategorized"]
 agency = "Leo Burnett"
+brand = "Bundaberg Rum"
 [cover]
   image = "/img/default-post.jpg"
 +++

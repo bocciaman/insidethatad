@@ -4,6 +4,7 @@ date = "2009-02-18T06:15:00+00:00"
 slug = "good-vs-evil"
 categories = ["Uncategorized"]
 agency = "Wieden+Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/default-post.jpg"
 +++

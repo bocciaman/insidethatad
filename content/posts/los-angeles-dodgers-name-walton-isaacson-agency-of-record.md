@@ -4,7 +4,8 @@ date = "2013-02-19T16:03:47+00:00"
 slug = "los-angeles-dodgers-name-walton-isaacson-agency-of-record"
 categories = ["Advertising", "agencies"]
 tags = ["advertising", "Agency", "Dodgers"]
-agency = "Unknown"
+agency = "Walton Isaacson"
+brand = "LA Dodgers"
 [cover]
   image = "/img/2013/02/url-1.jpeg"
 +++

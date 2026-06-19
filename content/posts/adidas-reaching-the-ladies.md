@@ -4,6 +4,7 @@ date = "2009-04-29T23:27:00+00:00"
 slug = "adidas-reaching-the-ladies"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Adidas"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/SfjlO93FmhI/AAAAAAAAAJA/kRMoMGVNR_4/s320/Picture+1.png"
 +++

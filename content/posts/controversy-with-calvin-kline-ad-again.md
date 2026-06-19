@@ -4,7 +4,7 @@ date = "2010-10-24T18:00:00+00:00"
 slug = "controversy-with-calvin-kline-ad-again"
 categories = ["Uncategorized"]
 agency = "Unknown"
-brand = "Controversy with Calvin Kline"
+brand = "Calvin Klein"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/TMRuFQWXzbI/AAAAAAAAAP0/930KSqDbPWc/s320/rape+ck+ad.jpg"
 +++

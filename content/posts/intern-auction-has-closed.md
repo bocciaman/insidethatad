@@ -4,6 +4,7 @@ date = "2009-05-28T19:01:00+00:00"
 slug = "intern-auction-has-closed"
 categories = ["Uncategorized"]
 agency = "Crispin Porter"
+brand = "CP+B"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/Sh7f8Pu1r_I/AAAAAAAAAJg/_-Gh5JflTsI/s200/Picture+3.png"
 +++

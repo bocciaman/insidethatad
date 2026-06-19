@@ -4,6 +4,7 @@ date = "2010-11-20T18:54:00+00:00"
 slug = "he-is-certainly-not-a-failure"
 categories = ["Uncategorized"]
 agency = "Wieden + Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/default-post.jpg"
 +++

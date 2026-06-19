@@ -5,7 +5,7 @@ slug = "honest-ipad-ad"
 categories = ["Advertising", "Creative"]
 tags = ["advertising", "Conan", "Creative", "inside that ad", "ipad"]
 agency = "Unknown"
-brand = "Honest iPad"
+brand = "Apple"
 [cover]
   image = "/img/2013/03/Screen-Shot-2013-02-28-at-11.06.46-PM.png"
 +++

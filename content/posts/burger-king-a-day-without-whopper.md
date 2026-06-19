@@ -5,6 +5,7 @@ slug = "burger-king-a-day-without-whopper"
 categories = ["Advertising", "Campaigns"]
 tags = ["Burger King", "charity", "competitors", "McDonald's"]
 agency = "Unknown"
+brand = "Burger King"
 [cover]
   image = "/img/2019/09/A-day-without-whopper-Ad.jpeg"
 +++

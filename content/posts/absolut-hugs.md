@@ -4,6 +4,7 @@ date = "2009-04-27T19:08:00+00:00"
 slug = "absolut-hugs"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Absolut"
 [cover]
   image = "/img/default-post.jpg"
 +++

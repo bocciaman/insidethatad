@@ -3,7 +3,8 @@ title = "A Fiat Seduction"
 date = "2012-02-27T04:15:00+00:00"
 slug = "a-fiat-seduction"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "The Richards Group"
+brand = "Fiat"
 [cover]
   image = "/img/default-post.jpg"
 +++

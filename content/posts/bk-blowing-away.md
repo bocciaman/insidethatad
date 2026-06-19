@@ -4,6 +4,7 @@ date = "2009-06-25T04:59:00+00:00"
 slug = "bk-blowing-away"
 categories = ["Uncategorized"]
 agency = "CP+B"
+brand = "Burger King"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SkMFFors0xI/AAAAAAAAAJ4/FmjN7t83_g8/s320/BKsevenincher.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-02-04T20:44:00+00:00"
 slug = "best-buy"
 categories = ["Uncategorized"]
 agency = "BBDO"
+brand = "Best Buy"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/SYpjiboZhLI/AAAAAAAAADw/KhhQX9Ma-dk/s400/BestBuy.jpg"
 +++

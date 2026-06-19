@@ -5,6 +5,7 @@ slug = "acura-takes-road-less-traveled-with-anime-product-integration"
 categories = ["product intgration", "short films"]
 tags = ["Acura", "Anime", "car culture", "performance vehicals", "product placement"]
 agency = "Unknown"
+brand = "Acura"
 [cover]
   image = "/img/2022/03/car_film_anime_3D_2D.jpg"
 +++

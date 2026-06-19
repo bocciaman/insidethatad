@@ -4,6 +4,7 @@ date = "2010-10-14T15:00:00+00:00"
 slug = "chalupas-and-yankees"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Taco Bell"
 [cover]
   image = "/img/default-post.jpg"
 +++

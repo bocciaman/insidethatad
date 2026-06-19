@@ -5,7 +5,7 @@ slug = "nissan-saudi-national-day-ad"
 categories = ["Advertising", "Art"]
 tags = ["Ad", "National Day", "Nissan", "Saudi"]
 agency = "Unknown"
-brand = "Nissan Saudi National Day"
+brand = "Nissan"
 [cover]
   image = "/img/2019/09/nissan.jpg"
 +++

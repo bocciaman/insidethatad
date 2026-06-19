@@ -4,6 +4,7 @@ date = "2009-06-14T04:53:00+00:00"
 slug = "bing-keeps-you-from-looking-like-a-moron-or-does-it"
 categories = ["Uncategorized"]
 agency = "JWT"
+brand = "Microsoft Bing"
 [cover]
   image = "/img/default-post.jpg"
 +++

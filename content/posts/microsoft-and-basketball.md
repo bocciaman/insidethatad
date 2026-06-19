@@ -4,6 +4,7 @@ date = "2009-04-02T22:17:00+00:00"
 slug = "microsoft-and-basketball"
 categories = ["Uncategorized"]
 agency = "Crispin Porter"
+brand = "Microsoft"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/SdU61jVb-5I/AAAAAAAAAH4/1tuO7Pmcy3c/s320/MSFT+Monsters.jpg"
 +++

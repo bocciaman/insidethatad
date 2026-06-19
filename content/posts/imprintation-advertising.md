@@ -4,6 +4,7 @@ date = "2011-02-26T19:32:00+00:00"
 slug = "imprintation-advertising"
 categories = ["Uncategorized"]
 agency = "DDB"
+brand = "Johnnie Walker"
 [cover]
   image = "http://3.bp.blogspot.com/-mYHpZDbSQlI/TWZJ4UFlwyI/AAAAAAAAMyU/FsM1HnPxd-s/s400/Superette_Short_Shorts.jpg"
 +++

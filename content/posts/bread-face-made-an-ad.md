@@ -5,6 +5,7 @@ slug = "bread-face-made-an-ad"
 categories = ["Advertising", "Creative"]
 tags = ["advertising", "bread", "Creative", "jewelry", "mashing"]
 agency = "Unknown"
+brand = "Sydney Garber"
 [cover]
   image = "/img/2017/10/mashed-face.png"
 +++

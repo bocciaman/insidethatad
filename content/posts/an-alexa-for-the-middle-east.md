@@ -5,6 +5,7 @@ slug = "an-alexa-for-the-middle-east"
 categories = ["marketing", "video"]
 tags = ["Alexa", "Amazon", "middle east"]
 agency = "Unknown"
+brand = "Amazon"
 [cover]
   image = "/img/2022/03/Alexa.jpg"
 +++

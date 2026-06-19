@@ -4,6 +4,7 @@ date = "2010-10-28T06:05:00+00:00"
 slug = "lebron-what-should-i-do"
 categories = ["Uncategorized"]
 agency = "Wieden + Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/default-post.jpg"
 +++

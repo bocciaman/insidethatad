@@ -5,6 +5,7 @@ slug = "conspiracy-behind-elevator-super-bowl-ad"
 categories = ["agencies", "Campaigns", "Creative", "Super Bowl"]
 tags = ["Agency", "campaign", "Creative", "elevator super bowl", "Hyundai", "Jason Bateman", "Saatva"]
 agency = "Innocean"
+brand = "Hyundai"
 [cover]
   image = "/img/2019/02/Screen-Shot-2019-02-10-at-5.31.46-PM.png"
 +++

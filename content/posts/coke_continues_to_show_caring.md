@@ -5,6 +5,7 @@ slug = "coke_continues_to_show_caring"
 categories = ["Art", "Campaigns", "Creative"]
 tags = ["CAMPAIGNS", "coke", "friend"]
 agency = "Unknown"
+brand = "Coca-Cola"
 [cover]
   image = "/img/2015/06/coca-cola-braille-hed-2015.jpg"
 +++

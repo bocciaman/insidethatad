@@ -4,6 +4,7 @@ date = "2013-01-03T07:04:00+00:00"
 slug = "motherhood-and-the-fiat-500l"
 categories = ["Uncategorized"]
 agency = "Krow Communications, London, UK"
+brand = "Fiat 500L"
 [cover]
   image = "/img/default-post.jpg"
 +++

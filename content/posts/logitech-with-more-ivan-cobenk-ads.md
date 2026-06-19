@@ -4,7 +4,7 @@ date = "2011-03-13T07:58:00+00:00"
 slug = "logitech-with-more-ivan-cobenk-ads"
 categories = ["TV spot"]
 agency = "Unknown"
-brand = "Logitech with more Ivan Cobenk"
+brand = "Logitech"
 [cover]
   image = "/img/default-post.jpg"
 +++

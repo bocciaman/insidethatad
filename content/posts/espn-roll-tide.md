@@ -4,6 +4,7 @@ date = "2012-12-03T05:12:00+00:00"
 slug = "espn-roll-tide"
 categories = ["Uncategorized"]
 agency = "Wieden + Kennedy"
+brand = "ESPN"
 [cover]
   image = "/img/default-post.jpg"
 +++

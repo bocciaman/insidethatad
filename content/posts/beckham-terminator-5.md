@@ -4,6 +4,7 @@ date = "2009-04-22T04:02:00+00:00"
 slug = "beckham-terminator-5"
 categories = ["Uncategorized"]
 agency = "Ogilvy Advertising"
+brand = "Adidas"
 [cover]
   image = "/img/default-post.jpg"
 +++

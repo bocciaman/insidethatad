@@ -5,6 +5,7 @@ slug = "google-pixel-ad-on-nba-court"
 categories = ["Advertising", "Out of Home"]
 tags = ["advertising", "court", "google", "NBA", "subliminal"]
 agency = "Unknown"
+brand = "Google Pixel"
 [cover]
   image = "/img/2022/04/court-post-ita-1.jpg"
 +++

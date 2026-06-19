@@ -6,6 +6,7 @@ categories = ["TV Commercials"]
 tags = ["Chevrolet", "commercial", "holiday ad", "TV"]
 description = "This commercial from Chevrolet is one of the best ones I've seen in 2023."
 agency = "Commonwealth/McCann"
+brand = "Chevrolet"
 [cover]
   image = "/img/2023/12/A-Holiday-to-Remember-Chevrolet.jpeg"
 +++

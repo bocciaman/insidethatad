@@ -4,7 +4,8 @@ date = "2023-12-28T18:23:32+00:00"
 slug = "nissans-groundbreaking-4-hour-animated-ev-ad-captivates-millions"
 categories = ["Advertising", "agencies", "Art"]
 tags = ["animated advertisement engagement", "electric vehicle promotion", "innovative advertising techniques", "instrumental music channels", "Lofi Girl YouTube channel", "long-duration commercials", "Nissan brand marketing", "therapeutic animation benefits", "Titmouse visual art", "viewer relaxation strategies"]
-agency = "Unknown"
+agency = "Titmouse"
+brand = "Nissan"
 [cover]
   image = "/img/2023/12/c449f8_59488693cd8148798cf71033a920b285-mv2.jpg.gif"
 +++

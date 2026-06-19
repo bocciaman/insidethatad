@@ -4,6 +4,7 @@ date = "2009-06-01T02:02:00+00:00"
 slug = "puppets-got-jokes"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Nike"
 [cover]
   image = "/img/default-post.jpg"
 +++

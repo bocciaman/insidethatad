@@ -5,6 +5,7 @@ slug = "some-of-the-most-patriotic-ads"
 categories = ["Advertising", "agencies", "Art", "Creative"]
 tags = ["4th of July", "advertising", "America", "Patriotic", "tardy"]
 agency = "Unknown"
+brand = "Various Brands"
 [cover]
   image = "/img/2015/07/flag-grab.jpg"
 +++

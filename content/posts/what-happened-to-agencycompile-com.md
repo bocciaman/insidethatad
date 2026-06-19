@@ -5,6 +5,7 @@ slug = "what-happened-to-agencycompile-com"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["advertising", "advertising research", "Agency", "Creative", "job search", "jobs", "research", "resource"]
 agency = "Unknown"
+brand = "AgencyCompile"
 [cover]
   image = "/img/2015/06/AgencyCompile.jpg"
 +++

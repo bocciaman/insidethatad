@@ -4,6 +4,7 @@ date = "2010-03-12T21:26:00+00:00"
 slug = "our-very-own-domain"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/S5q_M-7bN-I/AAAAAAAAAMA/IbImZVtpC5g/s320/own-dowmain.jpg"
 +++

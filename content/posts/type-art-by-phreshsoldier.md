@@ -5,6 +5,7 @@ slug = "type-art-by-phreshsoldier"
 categories = ["Art", "Creative"]
 tags = ["art", "Creative", "Jordan", "PhreshSoldier"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2014/04/michael_jordan_typeface_by_phreshsoldier-d2zejma.jpg"
 +++

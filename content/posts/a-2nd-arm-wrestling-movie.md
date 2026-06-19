@@ -4,6 +4,7 @@ date = "2009-02-23T23:50:00+00:00"
 slug = "a-2nd-arm-wrestling-movie"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Pulling John Film"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/SaNNwBXXUVI/AAAAAAAAAE4/FwJGNm4pPtg/s320/pulling_john.jpg"
 +++

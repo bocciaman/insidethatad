@@ -5,6 +5,7 @@ slug = "mariner-watch-under-fire"
 categories = ["Advertising", "Creative"]
 tags = ["ads", "sex", "violence", "watches"]
 agency = "Unknown"
+brand = "Mariner Watch"
 [cover]
   image = "/img/2019/03/mariner-watches-ads-hed-page-2019.jpg"
 +++

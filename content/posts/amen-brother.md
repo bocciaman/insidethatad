@@ -4,6 +4,7 @@ date = "2010-09-23T04:07:00+00:00"
 slug = "amen-brother"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Kiss My Black Ads"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/TJrRt0qvFOI/AAAAAAAAAOQ/2FW-p19koRo/s400/kmba-create.jpg"
 +++

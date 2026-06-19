@@ -4,6 +4,7 @@ date = "2009-05-11T21:48:00+00:00"
 slug = "increase-currency-by-making-love"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Bontrust Bank"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-05-06T20:19:00+00:00"
 slug = "a-look-at-the-birds-and-the-bees"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Trojan"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/SgHxFoVb9iI/AAAAAAAAAJI/MhhqYnhkcM8/s320/birds+bees.jpg"
 +++

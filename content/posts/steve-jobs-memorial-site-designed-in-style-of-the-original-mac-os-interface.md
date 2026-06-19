@@ -5,6 +5,7 @@ slug = "steve-jobs-memorial-site-designed-in-style-of-the-original-mac-os-interf
 categories = ["agencies", "Creative"]
 tags = ["inside that ad", "memorial", "promotional", "rememberum", "steve jobs"]
 agency = "Rememberum"
+brand = "Rememberum"
 [cover]
   image = "/img/default-post.jpg"
 +++

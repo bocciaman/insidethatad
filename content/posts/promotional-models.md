@@ -4,6 +4,7 @@ date = "2009-07-29T06:00:00+00:00"
 slug = "promotional-models"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/Sm_mBflJFCI/AAAAAAAAAKA/_SPx9PBGl5w/s320/Picture+1.png"
 +++

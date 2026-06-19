@@ -4,6 +4,7 @@ date = "2012-11-17T09:19:00+00:00"
 slug = "the-everyday-side-of-design-expertise"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/default-post.jpg"
 +++

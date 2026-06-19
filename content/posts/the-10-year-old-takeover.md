@@ -5,6 +5,7 @@ slug = "the-10-year-old-takeover"
 categories = ["Creative"]
 tags = ["10 year old", "Creative", "kids"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2013/02/cropped-ITA-Site-image-011513.jpg"
 +++

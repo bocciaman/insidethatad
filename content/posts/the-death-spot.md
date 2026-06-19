@@ -4,6 +4,7 @@ date = "2010-09-14T17:28:00+00:00"
 slug = "the-death-spot"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Exit International"
 [cover]
   image = "/img/default-post.jpg"
 +++

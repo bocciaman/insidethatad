@@ -4,6 +4,7 @@ date = "2011-12-16T07:16:00+00:00"
 slug = "vintage-computer-ads"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Various Brands"
 [cover]
   image = "http://3.bp.blogspot.com/-DnlPEIsI2gE/TurrbgLQ2WI/AAAAAAAAAVg/iMmnKi1B6pA/s320/albert.jpg"
 +++

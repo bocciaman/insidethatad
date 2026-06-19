@@ -4,6 +4,7 @@ date = "2009-01-06T20:46:00+00:00"
 slug = "3d-ads-on-super-sunday"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "SoBe Lifewater"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/SWP452XRssI/AAAAAAAAACA/HxTKKMg950E/s320/Intel-3Dglasses2.jpg"
 +++

@@ -5,6 +5,7 @@ slug = "trump-pence-logo-design-quickly-replaced"
 categories = ["Advertising", "Campaigns", "Creative", "Logo"]
 tags = ["advertising", "CAMPAIGNS", "logo", "pence", "trump"]
 agency = "Unknown"
+brand = "Trump-Pence Campaign"
 [cover]
   image = "/img/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png"
 +++

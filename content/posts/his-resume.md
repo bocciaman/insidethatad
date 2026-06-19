@@ -5,6 +5,7 @@ slug = "his-resume"
 categories = ["agencies", "Art", "Print"]
 tags = ["BIG ADS", "FASHION", "Print", "PRISON BLUES", "UNITED STATES"]
 agency = "Unknown"
+brand = "Oregon State Penitentiary"
 [cover]
   image = "/img/2017/11/his_resume_1.jpg"
 +++

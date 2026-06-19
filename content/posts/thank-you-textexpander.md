@@ -5,6 +5,7 @@ slug = "thank-you-textexpander"
 categories = ["Sponsors"]
 tags = ["advertising", "affiliate marketing", "marketing"]
 agency = "Unknown"
+brand = "TextExpander"
 [cover]
   image = "/img/2020/05/icon_TextExpander512.png"
 +++

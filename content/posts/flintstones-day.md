@@ -4,6 +4,7 @@ date = "2010-10-02T06:34:00+00:00"
 slug = "flintstones-day"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Google"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/TKaq2a-9QPI/AAAAAAAAAPA/MEhcqnh7iVA/s320/google+flinstones+9-30.jpg"
 +++

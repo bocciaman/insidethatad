@@ -4,6 +4,7 @@ date = "2009-02-28T21:21:00+00:00"
 slug = "no-not-another-poker-show"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "CNBC"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/Sams2Cs7aeI/AAAAAAAAAFo/NZJq1AJzueI/s200/CNBC_Ads_House_of_Cards-small.jpg"
 +++

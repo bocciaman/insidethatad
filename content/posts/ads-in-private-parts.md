@@ -4,6 +4,7 @@ date = "2009-04-22T19:06:00+00:00"
 slug = "ads-in-private-parts"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/Se9q-qsApNI/AAAAAAAAAI4/yvKt_H6Vxbo/s400/toilet.jpg"
 +++

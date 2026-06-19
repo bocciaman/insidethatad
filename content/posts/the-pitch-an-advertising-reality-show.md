@@ -4,6 +4,7 @@ date = "2012-05-28T21:58:00+00:00"
 slug = "the-pitch-an-advertising-reality-show"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "AMC"
 [cover]
   image = "http://3.bp.blogspot.com/-uHS9d9S_dZI/T8P0ASIcASI/AAAAAAAAAdQ/adHLs_2fZAU/s320/thepitch.jpg"
 +++

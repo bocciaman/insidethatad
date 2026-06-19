@@ -5,6 +5,7 @@ slug = "ita-getting-into-movie-trailers"
 categories = ["Advertising", "Art", "movies"]
 tags = ["advertising", "art", "Creative", "movie", "trailer"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2015/06/Screen-Shot-2015-06-09-at-1.53.40-AM.png"
 +++

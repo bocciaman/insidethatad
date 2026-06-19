@@ -4,6 +4,7 @@ date = "2009-06-26T04:28:00+00:00"
 slug = "rip-goes-out-to-the-king-of-pop"
 categories = ["Uncategorized"]
 agency = "BBDO"
+brand = "Inside That Ad"
 [cover]
   image = "/img/default-post.jpg"
 +++

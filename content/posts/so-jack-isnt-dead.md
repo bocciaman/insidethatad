@@ -4,6 +4,7 @@ date = "2009-03-06T00:39:00+00:00"
 slug = "so-jack-isnt-dead"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Jack in the Box"
 [cover]
   image = "/img/default-post.jpg"
 +++

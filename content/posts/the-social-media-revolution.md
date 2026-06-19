@@ -4,6 +4,7 @@ date = "2013-01-01T06:02:00+00:00"
 slug = "the-social-media-revolution"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/default-post.jpg"
 +++

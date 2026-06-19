@@ -5,6 +5,7 @@ slug = "provoking_images"
 categories = ["Creative", "Magazine"]
 tags = ["Creative", "images", "news", "Saudi Arabia"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2015/06/IMG_1844.jpg"
 +++

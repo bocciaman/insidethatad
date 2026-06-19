@@ -4,6 +4,7 @@ date = "2010-03-28T07:36:00+00:00"
 slug = "where-have-all-the-ass-models-gone"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/S68LFrIbu3I/AAAAAAAAAMg/GSncpvIi4ME/s320/Screen+shot+2010-03-28+at+12.46.23+AM.png"
 +++

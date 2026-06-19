@@ -4,6 +4,7 @@ date = "2009-04-19T00:55:00+00:00"
 slug = "team-hoyt-billboard"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Team Hoyt"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/Sep9vrHyZ8I/AAAAAAAAAIw/d2dWz_v5odE/s400/Hoyt.jpg"
 +++

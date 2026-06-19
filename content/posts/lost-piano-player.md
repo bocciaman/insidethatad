@@ -4,6 +4,7 @@ date = "2010-03-15T06:23:00+00:00"
 slug = "lost-piano-player"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Foundation For a Better Life"
 [cover]
   image = "/img/default-post.jpg"
 +++

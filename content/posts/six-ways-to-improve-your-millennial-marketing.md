@@ -5,6 +5,7 @@ slug = "six-ways-to-improve-your-millennial-marketing"
 categories = ["Advertising", "marketing"]
 tags = ["advertising", "marketing", "Millennials", "opinion"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2017/10/Millennial-thumb.jpg"
 +++

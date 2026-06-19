@@ -5,6 +5,7 @@ slug = "and-now-your-weekly-video-miscellany"
 categories = ["Creative"]
 tags = ["CAMPAIGNS", "CELEBRITY", "HA!", "ONLINE", "POLITICAL"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2013/02/Screen-Shot-2013-02-18-at-7.53.59-PM.png"
 +++

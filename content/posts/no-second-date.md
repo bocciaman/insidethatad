@@ -4,6 +4,7 @@ date = "2009-01-05T22:15:00+00:00"
 slug = "no-second-date"
 categories = ["Uncategorized"]
 agency = "DDB"
+brand = "Levi's"
 [cover]
   image = "/img/default-post.jpg"
 +++

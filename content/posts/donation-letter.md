@@ -4,6 +4,7 @@ date = "2009-04-09T16:30:00+00:00"
 slug = "donation-letter"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "https://www.paypal.com/en_US/i/scr/pixel.gif"
 +++

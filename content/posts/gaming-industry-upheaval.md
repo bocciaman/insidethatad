@@ -4,6 +4,7 @@ date = "2009-03-23T19:39:00+00:00"
 slug = "gaming-industry-upheaval"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Change for Life"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/ScflwflJ8SI/AAAAAAAAAG4/a_d_ku9dAqA/s320/video+game.jpg"
 +++

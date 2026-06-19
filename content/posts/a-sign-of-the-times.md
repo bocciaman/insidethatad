@@ -4,6 +4,7 @@ date = "2009-02-05T19:29:00+00:00"
 slug = "a-sign-of-the-times"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Various Brands"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SYtWG4jL9hI/AAAAAAAAAD4/N7z4MgxbQjo/s400/Picture+2.png"
 +++

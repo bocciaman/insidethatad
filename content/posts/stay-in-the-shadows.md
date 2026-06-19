@@ -5,6 +5,7 @@ slug = "stay-in-the-shadows"
 categories = ["agencies", "Art", "Creative", "marketing", "Print"]
 tags = ["Bleublancrouge", "Canada", "Electronics", "Print", "Sherlock", "Technology"]
 agency = "Unknown"
+brand = "Sherlock Holmes Film"
 [cover]
   image = "/img/2018/02/sherlock_stayintheshadows_03.jpg"
 +++

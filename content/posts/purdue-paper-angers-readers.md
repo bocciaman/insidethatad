@@ -4,6 +4,7 @@ date = "2010-09-25T07:24:00+00:00"
 slug = "purdue-paper-angers-readers"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Purdue Exponent"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/TJ2jRnBPcZI/AAAAAAAAAOg/tHYH5dz5iJQ/s320/purdue.jpg"
 +++

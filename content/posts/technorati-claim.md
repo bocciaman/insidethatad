@@ -4,6 +4,7 @@ date = "2010-10-11T21:37:00+00:00"
 slug = "technorati-claim"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Technorati"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/TLOEoROXTCI/AAAAAAAAAPU/sh2vS05FJT8/s320/claimed.jpg"
 +++

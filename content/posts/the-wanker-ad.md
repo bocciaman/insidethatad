@@ -4,6 +4,7 @@ date = "2010-10-08T09:30:00+00:00"
 slug = "the-wanker-ad"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Rich Will Wanket Real Estate"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/TK7jOD4CXxI/AAAAAAAAAPI/tBxTy0lDh70/s320/wanket+ad.jpg"
 +++

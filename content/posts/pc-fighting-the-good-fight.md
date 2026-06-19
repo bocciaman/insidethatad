@@ -4,6 +4,7 @@ date = "2009-04-14T23:20:00+00:00"
 slug = "pc-fighting-the-good-fight"
 categories = ["Uncategorized"]
 agency = "Crispin Porter"
+brand = "Microsoft"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -5,6 +5,7 @@ slug = "add-value-labeled-advertiser-not-good-way"
 categories = ["Advertising", "Art", "Campaigns"]
 tags = ["Agency Business", "Branded Utility", "Industry Analysis", "Management Theory", "Media Trends"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2017/10/end-of-advertising.jpg"
 +++

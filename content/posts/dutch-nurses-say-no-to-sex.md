@@ -4,6 +4,7 @@ date = "2010-03-16T06:25:00+00:00"
 slug = "dutch-nurses-say-no-to-sex"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "NU'91 Dutch Nurses Union"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/S58knQPS2tI/AAAAAAAAAMI/B_zF0XwyV2Y/s320/6a00d8341c51c053ef01310f9472fa970c.jpg"
 +++

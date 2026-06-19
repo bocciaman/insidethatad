@@ -4,6 +4,7 @@ date = "2009-01-09T07:20:00+00:00"
 slug = "hillbilly-herald"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Hillbilly Herald"
 [cover]
   image = "/img/default-post.jpg"
 +++

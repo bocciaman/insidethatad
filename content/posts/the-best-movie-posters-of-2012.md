@@ -4,6 +4,7 @@ date = "2013-01-17T05:30:00+00:00"
 slug = "the-best-movie-posters-of-2012"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Various Studios"
 [cover]
   image = "http://s3.amazonaws.com/auteurs_production/post_images/12962/Wreckit_Lorax_Pi.jpg?1356722512"
 +++

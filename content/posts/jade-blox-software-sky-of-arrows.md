@@ -4,6 +4,7 @@ date = "2012-05-28T22:32:00+00:00"
 slug = "jade-blox-software-sky-of-arrows"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Jade Blox Software"
 [cover]
   image = "/img/default-post.jpg"
 +++

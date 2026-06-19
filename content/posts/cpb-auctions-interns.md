@@ -4,6 +4,7 @@ date = "2009-05-21T20:12:00+00:00"
 slug = "cpb-auctions-interns"
 categories = ["Uncategorized"]
 agency = "Crispin Porter"
+brand = "Crispin Porter + Bogusky"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/ShW1y8C_QGI/AAAAAAAAAJY/-SF5BvF8N9o/s320/Picture+1.png"
 +++

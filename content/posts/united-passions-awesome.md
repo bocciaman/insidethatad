@@ -5,6 +5,7 @@ slug = "united-passions-awesome"
 categories = ["Advertising", "movies", "Sports"]
 tags = ["advertising United Passions", "movie", "soccer"]
 agency = "Unknown"
+brand = "FIFA"
 [cover]
   image = "/img/2015/06/Screen-Shot-2015-06-11-at-4.37.08-PM.png"
 +++

@@ -5,6 +5,7 @@ slug = "agency-love-letter"
 categories = ["Advertising", "agencies", "Art", "Creative"]
 tags = ["advertising", "Agency", "anonymous", "client", "funny", "Glow", "love letter", "relationship", "social media", "twitter"]
 agency = "Unknown"
+brand = "GLOW"
 [cover]
   image = "/img/2019/03/love1-agency.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2012-09-27T04:27:00+00:00"
 slug = "hip-hop-super-heroes"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "http://2.bp.blogspot.com/-l0euTQcxHnw/UGO_6ofFp1I/AAAAAAAALkA/3qORHhyryCU/s400/tumblr_m3vfoeOXu51qg8i80o2_1280.jpeg"
 +++

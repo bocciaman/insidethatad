@@ -5,6 +5,7 @@ slug = "ass-models-have-arrived"
 categories = ["Creative", "Out of Home"]
 tags = ["ads", "models", "out of home"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2013/02/assvertisingitalia.jpg"
 +++

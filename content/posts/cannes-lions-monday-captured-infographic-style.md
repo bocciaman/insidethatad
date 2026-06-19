@@ -4,6 +4,7 @@ date = "2012-06-20T04:59:00+00:00"
 slug = "cannes-lions-monday-captured-infographic-style"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Cannes Lions"
 [cover]
   image = "http://www.adrants.com/images/Cannes_Lions_Infographic_Monday-thumb.jpeg"
 +++

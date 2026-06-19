@@ -4,6 +4,7 @@ date = "2010-09-20T04:54:00+00:00"
 slug = "social-links-on-bench-ads"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That Ad"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/TJbxHCOICVI/AAAAAAAAAN4/xtHQzIzw2YM/s320/bench+ad.jpg"
 +++

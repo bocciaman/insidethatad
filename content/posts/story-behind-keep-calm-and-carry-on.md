@@ -5,6 +5,7 @@ slug = "story-behind-keep-calm-and-carry-on"
 categories = ["Advertising", "Campaigns"]
 tags = ["Barter Books", "best", "Keep Calm and Carry On", "meme digital", "promo &amp; activation"]
 agency = "Unknown"
+brand = "British Government"
 [cover]
   image = "/img/2013/03/Screen-Shot-2013-03-09-at-9.08.33-AM.png"
 +++

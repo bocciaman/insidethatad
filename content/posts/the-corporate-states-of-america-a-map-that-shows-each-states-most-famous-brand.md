@@ -5,6 +5,7 @@ slug = "the-corporate-states-of-america-a-map-that-shows-each-states-most-famous
 categories = ["Creative"]
 tags = ["BRANDS", "Creative"]
 agency = "Unknown"
+brand = "Various Brands"
 [cover]
   image = "/img/2013/07/brand-map-hed-2013.jpg"
 +++

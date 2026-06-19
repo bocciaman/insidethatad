@@ -4,6 +4,7 @@ date = "2010-09-23T03:48:00+00:00"
 slug = "promoting-south-bends-pubic-schools"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "South Bend Community School Corp"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/TJrL9FxVY6I/AAAAAAAAAOI/cPonqvc5fgI/s400/pubic+schools.jpg"
 +++

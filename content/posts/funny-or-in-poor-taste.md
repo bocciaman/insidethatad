@@ -4,6 +4,7 @@ date = "2009-01-24T23:23:00+00:00"
 slug = "funny-or-in-poor-taste"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Kenneth Cole"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SXujDpiUnyI/AAAAAAAAADI/X7qh9yG-HLQ/s400/kenneth+cole.jpg"
 +++

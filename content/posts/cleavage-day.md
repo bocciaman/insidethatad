@@ -4,6 +4,7 @@ date = "2009-04-05T06:17:00+00:00"
 slug = "cleavage-day"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Wonderbra"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/SdhN6VBOSfI/AAAAAAAAAIA/k42KyM5PIjQ/s320/cleavage.jpg"
 +++

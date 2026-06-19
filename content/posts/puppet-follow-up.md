@@ -4,6 +4,7 @@ date = "2009-05-26T18:54:00+00:00"
 slug = "puppet-follow-up"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Nike"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -1,0 +1,15 @@
++++
+title = "Dirty, Dirty Dishes"
+date = "2010-09-14T20:50:00+00:00"
+slug = "dirty-dirty-dishes"
+categories = ["Uncategorized"]
++++
+
+It must be celebrate Australia day here at Inside That Ad. The ad above is a creative attempt to promote dishwashing soap. The reason I felt I did to write a post on this ad by [DDB Group Melbourne](http://www.blogger.com/www.ddb.com.au/) is because I had to watch the commercial a couple of times before I figured out what they were selling. The spot is selling dishwashing soap but first thought they were selling male adult services for the ladies, then I thought maybe they are promoting an adoption agency, and finally the soap.
+
+Oh, and I also thought they making fun of the man’s sexual orientation but no they were just trying to sell soap. But it took a couple of times watching the spot to understand what they were selling.
+
+What do you guys think? Also, the product also has a funny site propping it up, click [here](http://www.dirtydishes.com.au/).
+
+Best,
+A.B.

@@ -1,0 +1,129 @@
+/* Inside That Ad — custom overrides to match original dark-header design */
+
+/* ── Header: black background with banner image ── */
+.header {
+  background-color: #000;
+  padding: 0;
+  border-bottom: 3px solid #c0392b;
+}
+
+.header__inner {
+  padding: 0;
+  max-width: 100%;
+}
+
+/* Replace text logo with banner image */
+.logo {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.logo__img {
+  display: block;
+  width: 100%;
+  max-height: 200px;
+  object-fit: contain;
+  object-position: left center;
+}
+
+.logo__text {
+  display: none; /* hidden: image banner is used */
+}
+
+/* ── Navigation bar ── */
+.nav {
+  background-color: #111;
+  border-top: 1px solid #333;
+}
+
+.nav__list {
+  display: flex;
+  gap: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav__list li a {
+  display: block;
+  padding: 12px 20px;
+  color: #ccc;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s, background 0.2s;
+}
+
+.nav__list li a:hover,
+.nav__list li a.active {
+  color: #fff;
+  background-color: #c0392b;
+}
+
+/* ── Body & typography ── */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #222;
+  background: #f5f5f5;
+}
+
+.post__title {
+  font-size: 1.6rem;
+}
+
+/* Drop cap on first paragraph of posts */
+.post__content > p:first-of-type::first-letter {
+  float: left;
+  font-size: 3.5em;
+  line-height: 0.8;
+  margin: 0.05em 0.1em 0 0;
+  color: #c0392b;
+  font-weight: bold;
+  font-family: Georgia, serif;
+}
+
+/* ── Sidebar ── */
+.widget__title {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  border-bottom: 2px solid #c0392b;
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+}
+
+/* ── Footer ── */
+.footer {
+  background-color: #111;
+  color: #888;
+  font-size: 0.8rem;
+}
+
+.footer a {
+  color: #aaa;
+}
+
+/* ── Links ── */
+a {
+  color: #c0392b;
+}
+
+a:hover {
+  color: #922b21;
+}
+
+/* ── Post images: full width inside content ── */
+.post__content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
+
+/* ── Giscus comments spacing ── */
+.giscus {
+  margin-top: 2rem;
+}

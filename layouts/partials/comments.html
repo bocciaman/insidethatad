@@ -1,0 +1,20 @@
+{{- if .Params.comments | default (.Site.Params.comments) }}
+<div class="giscus">
+  <script src="https://giscus.app/client.js"
+    data-repo="GITHUB_USERNAME/insidethatad"
+    data-repo-id="GISCUS_REPO_ID"
+    data-category="Comments"
+    data-category-id="GISCUS_CATEGORY_ID"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="light"
+    data-lang="en"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async>
+  </script>
+</div>
+{{- end }}

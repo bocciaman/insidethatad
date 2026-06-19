@@ -1,0 +1,31 @@
+[build]
+  publish = "public"
+  command = "hugo --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.161.1"
+  HUGO_ENV = "production"
+
+[[redirects]]
+  from = "/wp-content/uploads/*"
+  to = "/uploads/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://insidethatad.net/*"
+  to = "https://www.insidethatad.net/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.insidethatad.net/*"
+  to = "https://www.insidethatad.net/:splat"
+  status = 301
+  force = true
+
+[context.production]
+  command = "hugo --minify"
+
+[context.deploy-preview]
+  command = "hugo --buildDrafts --minify"

@@ -1,0 +1,54 @@
+baseURL = "https://www.insidethatad.net"
+locale = "en-US"
+title = "Inside That Ad"
+theme = "mainroad"
+paginate = 10
+enableRobotsTXT = true
+summaryLength = 70
+
+[params]
+  description = "Have you ever walked by, driven past, or seen an advertisement and wondered who done it? I know I have. So please enjoy the answers right here at Inside That Ad."
+  opengraph = true
+  twitter_cards = true
+  readmore = true
+  authorbox = false
+  pager = true
+  post_meta = ["date", "categories"]
+  dateformat = "January 2, 2006"
+  toc = false
+  comments = true
+  customCSS = ["/css/custom.css"]
+
+  [params.logo]
+    image = "/images/banner.png"
+    title = "Inside That Ad"
+    subtitle = "Have you ever wondered who made that ad?"
+
+  [params.sidebar]
+    home = "right"
+    list = "right"
+    single = "right"
+    widgets = ["recent", "categories", "taglist"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Submit an Ad"
+    url = "/submit-an-ad/"
+    weight = 2
+  [[menu.main]]
+    name = "Contact Me"
+    url = "/contact-me/"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

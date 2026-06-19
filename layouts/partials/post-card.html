@@ -5,19 +5,21 @@
       src="{{ .Params.cover.image | default "/img/default-post.jpg" }}"
       alt="{{ .Title }}"
       loading="lazy">
+    <span class="post-card__bookmark" aria-hidden="true"><i class="fa-regular fa-bookmark"></i></span>
   </a>
   <div class="post-card__body">
-    {{- with .Params.categories }}
-    <p class="post-card__category">{{ index . 0 }}</p>
+    {{- with .Params.brand }}
+    <p class="post-card__brand">{{ . }}</p>
     {{- end }}
     <h2 class="post-card__title">
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h2>
     {{- $agency := .Params.agency | default "Unknown" }}
-    {{- if ne $agency "Unknown" }}
-    <p class="post-card__agency">{{ $agency }}</p>
+    {{- if findRE "(?i)super.?bowl" .Title }}
+      {{- $agency = "Various Agencies" }}
     {{- end }}
-    <p class="post-card__excerpt">{{ .Summary | plainify | truncate 160 }}</p>
-    <p class="post-card__date">{{ .Date.Format "January 2, 2006" }}</p>
+    {{- if ne $agency "Unknown" }}
+    <p class="post-card__agency">Agency: {{ $agency }}</p>
+    {{- end }}
   </div>
 </article>

@@ -1,5 +1,7 @@
-{{- $p := .Paginator }}
-{{- if gt $p.TotalPages 1 }}
+{{- if not (in (slice "page" "home_page") .Kind) }}{{- end }}
+{{- $p := "" }}
+{{- if in (slice "home" "section" "taxonomy" "term") .Kind }}{{- $p = .Paginator }}{{- end }}
+{{- if and $p (gt $p.TotalPages 1) }}
 <nav class="pagination" aria-label="Page navigation">
   {{- if $p.HasPrev }}
   <a class="pagination__btn" href="{{ $p.Prev.URL }}" rel="prev">

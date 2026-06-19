@@ -1,0 +1,21 @@
+{{- $tags := .Site.Taxonomies.tags }}
+{{- if gt (len $tags) 0 }}
+<div class="widget-taglist widget">
+  <h4 class="widget__title">Tags</h4>
+  <div class="widget__content">
+    {{- $sorted := slice }}
+    {{- range $name, $taxonomy := $tags }}
+      {{- $sorted = $sorted | append (dict "name" $name "count" $taxonomy.Count) }}
+    {{- end }}
+    {{- $sorted = sort $sorted "count" "desc" }}
+    {{- range first 30 $sorted }}
+      {{- with $.Site.GetPage (printf "/tags/%s" .name) }}
+      <a class="widget-taglist__link widget__link btn" href="{{ .RelPermalink }}" title="{{ .Title }}">
+        {{- .Title -}}
+      </a>
+      {{- end }}
+    {{- end }}
+    <p class="taglist-more"><a href="/tags/">View all tags →</a></p>
+  </div>
+</div>
+{{- end }}

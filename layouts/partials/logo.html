@@ -1,0 +1,12 @@
+<div class="logo">
+  <a class="logo__link" href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
+    <img class="logo__img" src="{{ .Site.Params.logo.image | relURL }}" alt="{{ .Site.Title }}">
+  </a>
+  <div class="logo__social">
+    {{- range .Site.Params.social }}
+    <a href="{{ .link }}" title="{{ .name }}" target="_blank" rel="noopener noreferrer" class="logo__social-link">
+      <i class="{{ .icon }}"></i>
+    </a>
+    {{- end }}
+  </div>
+</div>

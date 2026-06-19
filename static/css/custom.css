@@ -12,24 +12,54 @@
   max-width: 100%;
 }
 
-/* Replace text logo with banner image */
+/* ── Banner + social icons ── */
 .logo {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
   padding: 0;
   margin: 0;
+}
+
+.logo__link {
+  display: block;
   width: 100%;
+  text-align: center;
 }
 
 .logo__img {
   display: block;
   width: 100%;
-  height: 220px;
-  object-fit: cover;
+  max-width: 900px;
+  height: 200px;
+  object-fit: contain;
   object-position: center center;
+  margin: 0 auto;
 }
 
 .logo__text {
-  display: none; /* hidden: image banner is used */
+  display: none;
+}
+
+.logo__social {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  padding: 10px 0 12px;
+  background-color: #000;
+  width: 100%;
+}
+
+.logo__social-link {
+  color: #aaa;
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.logo__social-link:hover {
+  color: #c0392b;
 }
 
 .header__inner {

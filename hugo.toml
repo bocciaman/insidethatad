@@ -47,6 +47,46 @@ summaryLength = 70
     url = "/contact-me/"
     weight = 3
 
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter"
+  link = "https://x.com/bocciaman"
+
+[[params.social]]
+  name = "Facebook"
+  icon = "fa-brands fa-facebook"
+  link = "https://www.facebook.com/anwar.abdallah1"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin"
+  link = "https://www.linkedin.com/in/abdallahanwar/"
+
+[[params.social]]
+  name = "YouTube"
+  icon = "fa-brands fa-youtube"
+  link = "https://www.youtube.com/@AutomationMaestro"
+
+[[params.social]]
+  name = "Instagram"
+  icon = "fa-brands fa-instagram"
+  link = "https://www.instagram.com/bocciaman/"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github"
+  link = "https://github.com/bocciaman"
+
+[[params.social]]
+  name = "Reddit"
+  icon = "fa-brands fa-reddit"
+  link = "https://www.reddit.com/user/bocciaman"
+
+[[params.social]]
+  name = "Bluesky"
+  icon = "fa-brands fa-bluesky"
+  link = "https://bsky.app/profile/bocciaman.bsky.social"
+
 [taxonomies]
   category = "categories"
   tag = "tags"

@@ -134,6 +134,27 @@ a:hover {
   vertical-align: middle;
 }
 
+/* The toggle button looks like a regular nav link */
+.menu__dropdown-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: block;
+  padding: 12px 20px;
+  color: #ccc;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  font-family: inherit;
+  transition: color 0.2s, background 0.2s;
+}
+
+.menu__dropdown-toggle:hover {
+  color: #fff;
+  background-color: #c0392b;
+}
+
 .menu__dropdown {
   display: none;
   position: absolute;
@@ -144,12 +165,12 @@ a:hover {
   list-style: none;
   margin: 0;
   padding: 0;
-  min-width: 160px;
+  min-width: 180px;
   z-index: 100;
   box-shadow: 0 4px 8px rgba(0,0,0,0.4);
 }
 
-.menu__item--dropdown:hover .menu__dropdown {
+.menu__dropdown--open {
   display: block;
 }
 

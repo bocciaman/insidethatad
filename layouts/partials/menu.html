@@ -9,24 +9,56 @@
     {{- if not .Parent }}
     {{- $children := .Children }}
     <li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}{{ if $children }} menu__item--dropdown{{ end }}">
-      <a class="menu__link" href="{{ .URL }}"{{ if $children }} aria-haspopup="true"{{ end }}>
-        <span class="menu__text">{{ .Name }}</span>
-        {{- if $children }}<span class="menu__arrow">&#9660;</span>{{ end }}
-      </a>
       {{- if $children }}
-      <ul class="menu__dropdown">
+      <button class="menu__link menu__dropdown-toggle" aria-haspopup="true" aria-expanded="false" type="button">
+        <span class="menu__text">{{ .Name }}</span>
+        <span class="menu__arrow">&#9660;</span>
+      </button>
+      <ul class="menu__dropdown" aria-hidden="true">
         {{- range $children }}
         <li class="menu__dropdown-item">
           <a class="menu__dropdown-link" href="{{ .URL }}">{{ .Name }}</a>
         </li>
         {{- end }}
       </ul>
+      {{- else }}
+      <a class="menu__link" href="{{ .URL }}">
+        <span class="menu__text">{{ .Name }}</span>
+      </a>
       {{- end }}
     </li>
     {{- end }}
     {{- end }}
   </ul>
 </nav>
+<script>
+  document.querySelectorAll('.menu__dropdown-toggle').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      // Close all other dropdowns first
+      document.querySelectorAll('.menu__dropdown-toggle').forEach(function(b) {
+        b.setAttribute('aria-expanded', 'false');
+        b.nextElementSibling.setAttribute('aria-hidden', 'true');
+        b.nextElementSibling.classList.remove('menu__dropdown--open');
+      });
+      // Toggle this one
+      if (!expanded) {
+        this.setAttribute('aria-expanded', 'true');
+        this.nextElementSibling.setAttribute('aria-hidden', 'false');
+        this.nextElementSibling.classList.add('menu__dropdown--open');
+      }
+    });
+  });
+  // Close dropdown when clicking outside
+  document.addEventListener('click', function() {
+    document.querySelectorAll('.menu__dropdown-toggle').forEach(function(btn) {
+      btn.setAttribute('aria-expanded', 'false');
+      btn.nextElementSibling.setAttribute('aria-hidden', 'true');
+      btn.nextElementSibling.classList.remove('menu__dropdown--open');
+    });
+  });
+</script>
 {{ else -}}
 <div class="divider"></div>
 {{- end }}

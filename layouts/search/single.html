@@ -1,0 +1,73 @@
+{{ define "main" }}
+<main class="main" role="main">
+  <h1 class="search-page__title">Search Results</h1>
+  <div id="search-box" class="search-page__box">
+    <input id="search-input" class="search-page__input" type="search" placeholder="Search posts…" autofocus>
+  </div>
+  <div id="search-results" class="search-page__results"></div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+(function () {
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('search-results');
+
+  // Pre-fill from URL ?q=
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('q') || '';
+  if (q) input.value = q;
+
+  let fuse;
+  fetch('/index.json')
+    .then(r => r.json())
+    .then(data => {
+      fuse = new Fuse(data, {
+        keys: [
+          { name: 'title',   weight: 3 },
+          { name: 'agency',  weight: 2 },
+          { name: 'brand',   weight: 2 },
+          { name: 'summary', weight: 1 }
+        ],
+        threshold: 0.35,
+        includeScore: true
+      });
+      if (q) runSearch(q);
+    });
+
+  input.addEventListener('input', () => {
+    const val = input.value.trim();
+    const url = new URL(window.location);
+    if (val) url.searchParams.set('q', val);
+    else url.searchParams.delete('q');
+    history.replaceState(null, '', url);
+    runSearch(val);
+  });
+
+  function runSearch(query) {
+    if (!fuse || !query) {
+      results.innerHTML = '';
+      return;
+    }
+    const hits = fuse.search(query).slice(0, 20);
+    if (!hits.length) {
+      results.innerHTML = '<p class="search-page__none">No results found.</p>';
+      return;
+    }
+    results.innerHTML = hits.map(({ item: p }) => `
+      <article class="post-card">
+        <a href="${p.url}" class="post-card__img-link">
+          <img class="post-card__img" src="${p.cover}" alt="${p.title}" loading="lazy">
+        </a>
+        <div class="post-card__body">
+          ${p.brand ? `<p class="post-card__brand">${p.brand}</p>` : ''}
+          <h2 class="post-card__title"><a href="${p.url}">${p.title}</a></h2>
+          <p class="post-card__agency">Agency: ${p.agency || 'Unknown'}</p>
+          <p class="post-card__date">${p.date}</p>
+        </div>
+      </article>
+    `).join('');
+  }
+})();
+</script>
+{{ end }}

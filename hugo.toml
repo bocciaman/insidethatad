@@ -87,6 +87,9 @@ summaryLength = 70
   icon = "fa-brands fa-bluesky"
   link = "https://bsky.app/profile/bocciaman.bsky.social"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [taxonomies]
   category = "categories"
   tag = "tags"

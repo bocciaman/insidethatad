@@ -1,0 +1,15 @@
+{{- $pages := where .Site.RegularPages "Type" "posts" -}}
+[
+  {{- range $i, $p := $pages -}}
+  {{- if $i }},{{ end -}}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "url": {{ $p.RelPermalink | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 200 | jsonify }},
+    "agency": {{ $p.Params.agency | default "" | jsonify }},
+    "brand": {{ $p.Params.brand | default "" | jsonify }},
+    "cover": {{ $p.Params.cover.image | default "/img/default-post.jpg" | jsonify }},
+    "date": {{ $p.Date.Format "January 2, 2006" | jsonify }}
+  }
+  {{- end -}}
+]

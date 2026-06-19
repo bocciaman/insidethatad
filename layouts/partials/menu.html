@@ -17,9 +17,8 @@
 
     <!-- Search -->
     <li class="menu__item menu__item--search">
-      <form class="nav-search" role="search" method="get" action="https://google.com/search">
-        <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
-        <input class="nav-search__input" type="search" name="q" placeholder="Type &amp; Hit Enter..." aria-label="Search">
+      <form class="nav-search" role="search" method="get" action="/search/">
+        <input class="nav-search__input" type="search" name="q" placeholder="Search posts…" aria-label="Search">
         <button class="nav-search__btn" type="submit" aria-label="Search">
           <i class="fa fa-search"></i>
         </button>

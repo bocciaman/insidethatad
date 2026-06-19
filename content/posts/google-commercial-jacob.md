@@ -5,6 +5,7 @@ slug = "google-commercial-jacob"
 categories = ["Advertising", "Creative", "TV spot", "YouTube Videos"]
 tags = ["advertising", "ESPY awards", "google"]
 agency = "Unknown"
+brand = "Google Commercial"
 [cover]
   image = "/img/2015/07/Screen-Shot-2015-07-15-at-9.28.55-PM.png"
 +++

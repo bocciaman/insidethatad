@@ -4,6 +4,7 @@ date = "2010-11-14T04:05:00+00:00"
 slug = "immigrant-spot"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Immigrant"
 [cover]
   image = "/img/default-post.jpg"
 +++

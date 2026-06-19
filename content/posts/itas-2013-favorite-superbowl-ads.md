@@ -5,7 +5,7 @@ slug = "itas-2013-favorite-superbowl-ads"
 categories = ["agencies", "Super Bowl", "TV spot"]
 tags = ["Agency", "BRANDS", "football", "Super Bowl"]
 agency = "Red Tettemer and Partners, Philadelphia"
-brand = "Centuary 21"
+brand = "ITA"
 [cover]
   image = "/img/2013/02/ITA-Super-Bowl.jpg"
 +++

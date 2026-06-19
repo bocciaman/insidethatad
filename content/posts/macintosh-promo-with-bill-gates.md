@@ -5,6 +5,7 @@ slug = "macintosh-promo-with-bill-gates"
 categories = ["Advertising", "Creative", "marketing", "Uncategorized"]
 tags = ["Apple", "Bill Gates", "Macintosh", "Microsoft"]
 agency = "Unknown"
+brand = "Macintosh"
 [cover]
   image = "/img/2019/11/Mac-1984.jpg"
 +++

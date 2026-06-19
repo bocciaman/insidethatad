@@ -5,6 +5,7 @@ slug = "inside-ads-top-10-super-bowl-52-commercials"
 categories = ["Advertising", "agencies", "Sports", "Super Bowl", "TV spot"]
 tags = ["advertising", "ispot", "nfl", "spots", "Super Bowl", "touchdown"]
 agency = "BBDO"
+brand = "Inside That Ad"
 [cover]
   image = "/img/2018/02/ITA-Super-Bowl.jpg"
 +++

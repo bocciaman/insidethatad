@@ -5,6 +5,7 @@ slug = "microsoft-we-will-continue-our-scroogled-campaign-as-long-as-google-keep
 categories = ["Creative", "online advertising"]
 tags = ["google", "Microsoft", "scroogled"]
 agency = "Unknown"
+brand = "Microsoft"
 [cover]
   image = "/img/2013/03/scroogled.png"
 +++

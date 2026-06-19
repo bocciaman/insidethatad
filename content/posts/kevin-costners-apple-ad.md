@@ -4,6 +4,7 @@ date = "2012-03-31T07:54:00+00:00"
 slug = "kevin-costners-apple-ad"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Kevin Costner"
 [cover]
   image = "/img/default-post.jpg"
 +++

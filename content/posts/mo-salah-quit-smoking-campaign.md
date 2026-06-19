@@ -5,6 +5,7 @@ slug = "mo-salah-quit-smoking-campaign"
 draft = true
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Mo Salah Quit Smoking"
 [cover]
   image = "/img/default-post.jpg"
 +++

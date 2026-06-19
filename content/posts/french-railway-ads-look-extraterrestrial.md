@@ -5,6 +5,7 @@ slug = "french-railway-ads-look-extraterrestrial"
 categories = ["Advertising", "agencies", "Art", "Campaigns", "Creative"]
 tags = ["France", "Print", "SNCF", "TBWA", "transport"]
 agency = "TBWA"
+brand = "French Railway"
 [cover]
   image = "/img/2019/03/01.train-station.jpg"
 +++

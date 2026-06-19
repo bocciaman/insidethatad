@@ -4,6 +4,7 @@ date = "2009-04-07T21:56:00+00:00"
 slug = "bk-dwarf-ad"
 categories = ["Uncategorized"]
 agency = "Crispin Porter"
+brand = "BK Dwarf"
 [cover]
   image = "/img/default-post.jpg"
 +++

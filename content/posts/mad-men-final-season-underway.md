@@ -5,6 +5,7 @@ slug = "mad-men-final-season-underway"
 categories = ["Advertising", "Campaigns", "Out of Home"]
 tags = ["Creative", "don draper", "mad men", "out of home"]
 agency = "Unknown"
+brand = "Mad Men"
 [cover]
   image = "/img/2014/04/Madmen.png"
 +++

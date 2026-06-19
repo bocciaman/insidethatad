@@ -5,6 +5,7 @@ slug = "better-late-than-never-itas-super-bowl-commercial-list"
 categories = ["Advertising", "agencies", "Super Bowl"]
 tags = ["football", "sports", "Sunday", "Super Bowl"]
 agency = "Unknown"
+brand = "Better Late than Never"
 [cover]
   image = "/img/2020/04/ITA-Super-Bowl.png"
 +++

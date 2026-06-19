@@ -5,6 +5,7 @@ slug = "photoshopped-ads-for-fun"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["ad agency", "ads", "baseball", "funny", "social media"]
 agency = "Unknown"
+brand = "Photoshopped"
 [cover]
   image = "/img/2021/11/baseball-joke-1.jpg"
 +++

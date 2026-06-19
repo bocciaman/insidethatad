@@ -5,6 +5,7 @@ slug = "nikes-dream-crazier-ad-teaches-us-to-strive-for-more"
 categories = ["Advertising", "Campaigns", "Creative"]
 tags = ["emotion", "nike", "sports", "women"]
 agency = "Wieden + Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/2019/02/McfaddenNikeAd.jpg"
 +++

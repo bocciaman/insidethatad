@@ -4,6 +4,7 @@ date = "2009-02-02T04:19:00+00:00"
 slug = "super-bowl-xliii-commercial-2009"
 categories = ["Uncategorized"]
 agency = "Grey, New"
+brand = "Super Bowl XLIII"
 [cover]
   image = "/img/default-post.jpg"
 +++

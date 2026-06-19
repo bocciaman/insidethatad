@@ -4,6 +4,7 @@ date = "2009-02-09T23:49:00+00:00"
 slug = "here-comes-windvertising"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Here Comes"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/SZDDc8wTPkI/AAAAAAAAAEY/rPz_QPG4DFM/s400/s-WINDVERTISE-large.jpg"
 +++

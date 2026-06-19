@@ -4,6 +4,7 @@ date = "2011-01-16T20:01:00+00:00"
 slug = "captain-morgans-sexy-first-mate"
 categories = ["Uncategorized"]
 agency = "Anomaly"
+brand = "Captain Morgan"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/TQV9b9wvqlI/AAAAAAAAARM/Z2XJQXfmVEI/s320/captain-Morgan-post-image.jpg"
 +++

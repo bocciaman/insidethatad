@@ -5,6 +5,7 @@ slug = "google-coda"
 categories = ["Advertising", "Creative"]
 tags = ["Apple", "AppleTV plus", "CODA", "disability", "google", "Oscar"]
 agency = "Unknown"
+brand = "Google CODA"
 [cover]
   image = "/img/2022/04/coda-1.jpg"
 +++

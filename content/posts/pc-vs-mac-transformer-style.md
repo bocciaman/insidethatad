@@ -4,6 +4,7 @@ date = "2009-01-13T06:04:00+00:00"
 slug = "pc-vs-mac-transformer-style"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "PC vs MAC"
 [cover]
   image = "/img/default-post.jpg"
 +++

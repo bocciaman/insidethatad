@@ -4,6 +4,7 @@ date = "2016-12-30T15:42:02+00:00"
 slug = "adult-onesie"
 categories = ["Campaigns", "Creative"]
 agency = "Unknown"
+brand = "Domino"
 [cover]
   image = "/img/2016/12/Dominos-onezee.png"
 +++

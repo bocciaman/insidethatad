@@ -4,6 +4,7 @@ date = "2012-06-28T04:55:00+00:00"
 slug = "inside-that-ad-gets-business-cards"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Inside That"
 [cover]
   image = "http://2.bp.blogspot.com/-smkVHdFygnk/T-vdvTJweDI/AAAAAAAAAfM/IxeJ7GvhMlI/s320/DSCF0014.JPG"
 +++

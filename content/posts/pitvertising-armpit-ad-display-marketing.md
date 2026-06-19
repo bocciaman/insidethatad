@@ -5,6 +5,7 @@ slug = "pitvertising-armpit-ad-display-marketing"
 categories = ["Advertising", "Creative"]
 tags = ["deodorant", "Pitvertising", "Right Guard", "stunt marketing"]
 agency = "Unknown"
+brand = "Pitvertising Armpit"
 [cover]
   image = "/img/2019/04/Screen-Shot-2019-04-21-at-12.36.32-AM.png"
 +++

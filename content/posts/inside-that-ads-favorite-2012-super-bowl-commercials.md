@@ -4,6 +4,7 @@ date = "2012-02-19T02:49:00+00:00"
 slug = "inside-that-ads-favorite-2012-super-bowl-commercials"
 categories = ["Uncategorized"]
 agency = "In-house"
+brand = "Inside That"
 [cover]
   image = "/img/default-post.jpg"
 +++

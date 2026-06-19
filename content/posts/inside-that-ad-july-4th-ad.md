@@ -4,6 +4,7 @@ date = "2012-07-06T07:03:00+00:00"
 slug = "inside-that-ad-july-4th-ad"
 categories = ["Uncategorized"]
 agency = "Wieden + Kennedy"
+brand = "Inside That"
 [cover]
   image = "/img/default-post.jpg"
 +++

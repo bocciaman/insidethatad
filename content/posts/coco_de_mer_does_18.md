@@ -5,6 +5,7 @@ slug = "coco_de_mer_does_18"
 categories = ["Advertising"]
 tags = ["advertising", "art", "Coco de Mer", "short film"]
 agency = "TBWA"
+brand = "Coco de Mer Does 18+"
 [cover]
   image = "/img/2015/06/Screen-Shot-2015-06-05-at-9.38.07-PM.png"
 +++

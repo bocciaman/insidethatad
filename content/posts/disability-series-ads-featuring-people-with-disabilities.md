@@ -4,6 +4,7 @@ date = "2011-06-06T02:49:00+00:00"
 slug = "disability-series-ads-featuring-people-with-disabilities"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Disability Series"
 [cover]
   image = "/img/default-post.jpg"
 +++

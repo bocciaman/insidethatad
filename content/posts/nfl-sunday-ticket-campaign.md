@@ -4,6 +4,7 @@ date = "2010-09-05T05:12:00+00:00"
 slug = "nfl-sunday-ticket-campaign"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "NFL Sunday Ticket"
 [cover]
   image = "/img/default-post.jpg"
 +++

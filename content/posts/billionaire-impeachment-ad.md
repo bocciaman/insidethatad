@@ -5,6 +5,7 @@ slug = "billionaire-impeachment-ad"
 categories = ["Advertising", "Campaigns", "TV spot", "Uncategorized"]
 tags = ["Ad", "advertising", "Billionaire", "Impeachment", "president", "Tom Steyer"]
 agency = "Unknown"
+brand = "Billionaires Impeachment"
 [cover]
   image = "/img/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg"
 +++

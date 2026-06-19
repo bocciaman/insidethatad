@@ -5,6 +5,7 @@ slug = "top-5-video-practices-2017"
 categories = ["video"]
 tags = ["analytics", "best", "personalize", "practices", "video", "virtual reality"]
 agency = "Unknown"
+brand = "Top 5"
 [cover]
   image = "/img/2017/10/video_marketing-thumb.jpg"
 +++

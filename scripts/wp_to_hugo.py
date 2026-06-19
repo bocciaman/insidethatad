@@ -353,7 +353,33 @@ def convert(xml_path, output_dir):
                 agency = val
                 break
 
-        brand = extract_field(r'(?:[Cc]lient|[Bb]rand)\s*:\s*([^—\n\r\[*]{2,60}?)(?=\s*(?:[A-Z][a-z]+\s*:|$|\n))', plain_content)
+        # Extract brand from the post title — three patterns in priority order:
+        # 1. "Title | Brand"  e.g. "A Holiday to Remember | Chevrolet"
+        # 2. "Brand: Title"   e.g. "Nike: XI Men"
+        # 3. "Brand's ..."    e.g. "Nissan's Groundbreaking Ad"
+        # 4. Explicit "Client: X" / "Brand: X" label in body text
+        brand = ""
+        pipe_match = re.search(r'\|\s*(.+?)\s*$', title)
+        colon_match = re.match(r'^([^:]{2,40}):\s+\S', title)
+        possessive_match = re.match(r'^([A-Z][A-Za-z0-9\s]{1,30}?)\'s\s', title)
+        if pipe_match:
+            brand = pipe_match.group(1).strip()
+        elif colon_match:
+            brand = colon_match.group(1).strip()
+        elif possessive_match:
+            brand = possessive_match.group(1).strip()
+        else:
+            brand = extract_field(r'(?:[Cc]lient|[Bb]rand)\s*:\s*([^—\n\r\[*]{2,60}?)(?=\s*(?:[A-Z][a-z]+\s*:|$|\n))', plain_content)
+        # Pattern 4: "BrandName Ad/Commercial/Campaign/Spot ..."
+        # e.g. "Google Pixel Ad On NBA Court" → "Google Pixel"
+        if not brand:
+            ad_words = r'(?:Ad|Ads|Commercial|Campaign|Spot|Spots|Video|Film|Print)\b'
+            m = re.match(rf'^([A-Z][A-Za-z0-9](?:[A-Za-z0-9\s&\+]{{0,30}}?))\s+{ad_words}', title)
+            if m:
+                brand = m.group(1).strip()
+        # Sanity check — skip if too long or looks like a sentence fragment
+        if brand and (len(brand) > 50 or re.search(r'\b(the|a|an|and|or|but|to|of|in|on)\b', brand, re.IGNORECASE)):
+            brand = ""
 
         is_draft = status == "draft"
 

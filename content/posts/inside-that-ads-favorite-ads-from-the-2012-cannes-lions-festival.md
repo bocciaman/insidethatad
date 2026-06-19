@@ -4,7 +4,7 @@ date = "2012-07-12T08:21:00+00:00"
 slug = "inside-that-ads-favorite-ads-from-the-2012-cannes-lions-festival"
 categories = ["Uncategorized"]
 agency = "JWT, Shanghai"
-brand = "Maxam, A Chinese toothpaste Brand Copy on"
+brand = "Inside That Ad"
 [cover]
   image = "http://www.adweek.com/files/adfreak/images/Cannes/Maxam%20Civilization%20Egypt.jpg"
 +++

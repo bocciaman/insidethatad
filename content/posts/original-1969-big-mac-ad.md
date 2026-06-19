@@ -4,6 +4,7 @@ date = "2012-05-14T06:07:00+00:00"
 slug = "original-1969-big-mac-ad"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Original 1969 Big Mac"
 [cover]
   image = "http://3.bp.blogspot.com/-UkmfG2mhpx4/T6NcAzyXtsI/AAAAAAAAAcY/UKZ2JcCPtQE/s400/525872_401954506493692_109482295740916_1262881_689250466_n.jpg"
 +++

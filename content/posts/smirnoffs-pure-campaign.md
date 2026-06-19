@@ -4,6 +4,7 @@ date = "2011-09-04T02:18:00+00:00"
 slug = "smirnoffs-pure-campaign"
 categories = ["Uncategorized"]
 agency = "Leo Burnett"
+brand = "Smirnoff"
 [cover]
   image = "/img/default-post.jpg"
 +++

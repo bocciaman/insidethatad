@@ -4,6 +4,7 @@ date = "2010-02-03T07:36:00+00:00"
 slug = "disability-spot-actually-using-a-disabled-person"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Disability"
 [cover]
   image = "/img/default-post.jpg"
 +++

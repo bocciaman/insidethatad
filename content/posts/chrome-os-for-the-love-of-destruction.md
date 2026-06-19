@@ -4,6 +4,7 @@ date = "2010-12-12T04:55:00+00:00"
 slug = "chrome-os-for-the-love-of-destruction"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Chrome OS"
 [cover]
   image = "/img/default-post.jpg"
 +++

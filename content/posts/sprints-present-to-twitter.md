@@ -4,6 +4,7 @@ date = "2009-04-09T17:17:00+00:00"
 slug = "sprints-present-to-twitter"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Sprint"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-07-29T11:47:00+00:00"
 slug = "gangland-bbdo-germany"
 categories = ["Uncategorized"]
 agency = "BBDO"
+brand = "Gangland"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/SnA3fhN5lfI/AAAAAAAAAKI/J31rFGAv3oc/s320/bbdojoinus1.jpg"
 +++

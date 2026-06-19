@@ -5,6 +5,7 @@ slug = "etisalat-commercial-looks-like-an-mtv-video"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["calling card", "Etisalat", "music video", "Ramadan", "Van Damme"]
 agency = "Publicis Media"
+brand = "Etisalat"
 [cover]
   image = "/img/2019/05/mohamed-ramadan-van-damme-etisalat-egypt.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2012-07-08T09:06:00+00:00"
 slug = "inside-those-tennis-ads"
 categories = ["Uncategorized"]
 agency = "Wieden + Kennedy"
+brand = "Inside Those Tennis"
 [cover]
   image = "/img/default-post.jpg"
 +++

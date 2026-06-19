@@ -4,7 +4,7 @@ date = "2011-05-23T15:08:00+00:00"
 slug = "japanese-mcdonalds-spot"
 categories = ["Uncategorized"]
 agency = "DENTSU, JAPAN"
-brand = "McDonalds, Japan"
+brand = "Japanese McDonald"
 [cover]
   image = "/img/default-post.jpg"
 +++

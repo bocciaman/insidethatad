@@ -4,6 +4,7 @@ date = "2012-06-30T01:31:00+00:00"
 slug = "empower-network-is-it-a-scam"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Empower Network"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -5,6 +5,7 @@ slug = "test-drive-canada-campaign"
 categories = ["Advertising", "agencies", "Creative", "TV spot"]
 tags = ["advertising", "Air Canada", "election", "JWT", "moving", "president", "trump"]
 agency = "JWT"
+brand = "Test Drive Canada"
 [cover]
   image = "/img/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png"
 +++

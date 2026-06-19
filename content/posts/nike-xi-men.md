@@ -4,6 +4,7 @@ date = "2011-06-02T06:31:00+00:00"
 slug = "nike-xi-men"
 categories = ["Uncategorized"]
 agency = "Giuliano Garonzi Studio, Milan, Italy"
+brand = "Nike"
 [cover]
   image = "http://2.bp.blogspot.com/-avjrxZjj48Y/TecmHyMATKI/AAAAAAAAAR0/wxTeveY1L5s/s640/nike_ximen.jpg"
 +++

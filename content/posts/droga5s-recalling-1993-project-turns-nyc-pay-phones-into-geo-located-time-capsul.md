@@ -5,6 +5,7 @@ slug = "droga5s-recalling-1993-project-turns-nyc-pay-phones-into-geo-located-tim
 categories = ["Advertising", "Campaigns", "Out of Home"]
 tags = ["Agency", "Creative", "Droga5", "New Museum", "out of home"]
 agency = "droga5"
+brand = "Droga5"
 [cover]
   image = "/img/default-post.jpg"
 +++

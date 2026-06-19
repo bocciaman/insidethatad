@@ -4,6 +4,7 @@ date = "2009-03-28T12:00:00+00:00"
 slug = "mac-vs-pc-ad-wars-continue"
 categories = ["Uncategorized"]
 agency = "Crispin Porter"
+brand = "Mac VS PC"
 [cover]
   image = "/img/default-post.jpg"
 +++

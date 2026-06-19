@@ -5,6 +5,7 @@ slug = "snowden-named-dropped-for-ads"
 categories = ["Advertising"]
 tags = ["Blush", "Germany", "Glow", "Print", "Snowden"]
 agency = "Unknown"
+brand = "Snowden Named Dropped for"
 [cover]
   image = "/img/2013/07/Snowden-Ad.jpg"
 +++

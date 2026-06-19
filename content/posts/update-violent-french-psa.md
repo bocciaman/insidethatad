@@ -4,6 +4,7 @@ date = "2011-03-13T07:57:00+00:00"
 slug = "update-violent-french-psa"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Update"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -5,6 +5,7 @@ slug = "ita-trailer-annihilation"
 categories = ["Advertising", "movies", "TV spot"]
 tags = ["advertising", "entertainment", "film", "movie", "trailer"]
 agency = "Unknown"
+brand = "Inside That"
 [cover]
   image = "/img/2018/02/AnnihilationPoster.jpeg"
 +++

@@ -5,6 +5,7 @@ slug = "toyotas-championship-game"
 categories = ["Advertising", "Campaigns", "Creative"]
 tags = ["ad agency", "advertising", "campaign", "sportsmanship", "toyota"]
 agency = "Saatchi & Saatchi"
+brand = "Toyota"
 [cover]
   image = "/img/2017/01/Screen-Shot-2017-01-09-at-12.14.52-AM.png"
 +++

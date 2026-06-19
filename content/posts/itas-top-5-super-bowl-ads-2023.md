@@ -5,6 +5,7 @@ slug = "itas-top-5-super-bowl-ads-2023"
 categories = ["Sports", "Super Bowl", "TV Commercials"]
 tags = ["Super Bowl", "tv commercial"]
 agency = "Unknown"
+brand = "ITA"
 [cover]
   image = "/img/2023/07/ITA-Super-Bowl.png"
 +++

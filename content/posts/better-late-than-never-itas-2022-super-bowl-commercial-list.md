@@ -6,6 +6,7 @@ categories = ["agencies", "Sports", "Super Bowl", "TV Commercials"]
 tags = ["7 million dollar commercials", "ad agency", "Super Bowl"]
 description = "I know I skipped the 2021 Super Bowl list and I'm a few weeks late with this one but I  think its important to keep some sort of tradition going with Inside That Ad."
 agency = "Donor Advertising 2. E-"
+brand = "Better Late Than Never"
 [cover]
   image = "/img/2022/02/2022-ITA-Super-Bowl.png"
 +++

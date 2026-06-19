@@ -3,7 +3,8 @@ title = "5 Leaked Superbowl Commercials"
 date = "2011-02-05T10:57:00+00:00"
 slug = "5-leaked-superbowl-commercials"
 categories = ["Uncategorized"]
-agency = "Deutsch"
+agency = "Deutsch, L.A. The"
+brand = "Volkswagen Ad"
 [cover]
   image = "/img/default-post.jpg"
 +++

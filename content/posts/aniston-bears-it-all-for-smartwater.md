@@ -3,7 +3,8 @@ title = "Aniston Bears it all for SmartWater"
 date = "2011-06-03T06:07:00+00:00"
 slug = "aniston-bears-it-all-for-smartwater"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Kraftworks, New"
+brand = "Glaceau SmartWater"
 [cover]
   image = "http://4.bp.blogspot.com/-lF6_a_oeTJY/Teh58l-TbHI/AAAAAAAAAR4/qw8y2zWjW80/s400/jennifer_anniston_smartwater_nude.jpg"
 +++

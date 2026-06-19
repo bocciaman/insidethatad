@@ -3,7 +3,7 @@ title = "Down But Not Out"
 date = "2009-04-12T08:39:00+00:00"
 slug = "down-but-not-out"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Young & Rubicam"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SeGo8IaQorI/AAAAAAAAAIY/gTq3fsDymcU/s320/Enfatico+logo.jpg"
 +++

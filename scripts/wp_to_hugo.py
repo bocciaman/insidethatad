@@ -302,39 +302,50 @@ def convert(xml_path, output_dir):
             if img_match:
                 featured_img = fix_image_urls(img_match.group(1))
 
-        # Extract agency and brand/client from raw content
+        # Strip HTML once for text-based extraction (so linked names like
+        # <a href="...">Giuliano Garonzi</a> are readable by the patterns)
+        plain_content = re.sub(r"<[^>]+>", " ", raw_content)
+        plain_content = html.unescape(plain_content)
+        plain_content = re.sub(r"\s{2,}", " ", plain_content)
+
         def extract_field(pattern, text):
             m = re.search(pattern, text, re.IGNORECASE)
             if m:
-                val = re.sub(r"<[^>]+>", "", m.group(1)).strip().strip("*").strip()
-                val = html.unescape(val)
+                val = m.group(1).strip().strip("*").strip()
                 return val[:100] if val else ""
             return ""
 
-        # Extract agency — label-based and well-known name patterns only
-        STOP = r'[^—\n\r<\[*]{2,70}?'
+        # Extract agency — run against plain text so hyperlinked names are visible
+        # STOP: stop before line breaks, em-dash, or a new "Word:" credit label
+        STOP = r'[^—\n\r\[*]{2,80}?'
+        CREDIT_STOP = r'(?=\s*(?:[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?\s*:|—|$|\n))'
         agency_patterns = [
-            # Explicit "Agency: Name" or "Advertising Agency: Name" label
-            rf'\*{{0,2}}(?:advertising\s+)?[Aa]gency\*{{0,2}}\s*:\s*\*{{0,2}}({STOP})(?=\s*[—\n\r]|$)',
-            rf'[Aa]dvertising\s+[Aa]gency\s*[:\-]\s*({STOP})(?=\s*[—\n\r]|$)',
-            # "appointed X as [its] [new] [advertising] agency/AOR"
-            rf"appointed\s+([A-Z][A-Za-z0-9&\+\s\-]{{3,50}}?)\s+as\s+(?:its\s+)?(?:new\s+)?(?:advertising\s+)?(?:agency|AOR|creative)",
-            # Well-known agency names appearing in the article
-            r'(Wieden\s*\+\s*Kennedy|TBWA|DDB|BBDO|McCann\s+\w+|Ogilvy(?:\s+\w+)?|Saatchi\s*&\s*Saatchi|Leo\s+Burnett|JWT|Grey\s+Global|FCB|R/GA|72andSunny|Droga5|CP\+B|Crispin\s+Porter|Arnold\s+Worldwide|Deutsch|Goodby\s+Silverstein|Young\s*&\s*Rubicam|Havas\s+\w+|Publicis\s+\w+|Anomaly|Innocean)',
+            # "Advertising Agency: Name" or "Agency: Name" explicit label
+            rf'(?:advertising\s+)?[Aa]gency\s*:\s*({STOP}){CREDIT_STOP}',
+            # "Ad Agency:" prefix
+            rf'[Aa]d\s+[Aa]gency\s*:\s*({STOP}){CREDIT_STOP}',
+            # "appointed X as [its/new] agency/AOR"
+            rf"appointed\s+([A-Z][A-Za-z0-9&\+\s\-]{{3,50}}?)\s+as\s+(?:its\s+)?(?:new\s+)?(?:advertising\s+)?(?:agency|AOR)",
+            # Well-known agency names anywhere in the article
+            r'(Wieden\s*\+\s*Kennedy|TBWA|DDB\b|BBDO\b|McCann\s+\w+|Ogilvy(?:\s+\w+)?|Saatchi\s*&\s*Saatchi|Leo\s+Burnett|JWT\b|Grey\s+Global|FCB\b|R/GA|72andSunny|Droga5|CP\+B|Crispin\s+Porter|Arnold\s+Worldwide|Deutsch\b|Goodby\s+Silverstein|Young\s*&\s*Rubicam|Havas\s+\w+|Publicis\s+\w+|Anomaly\b|Innocean\b)',
         ]
         agency = "Unknown"
         for pat in agency_patterns:
-            val = extract_field(pat, raw_content)
+            val = extract_field(pat, plain_content)
             if val and len(val) > 2:
-                val = val.split('\n')[0].split('\r')[0]  # take only first line
-                val = re.sub(r'[\.,]+$', '', val).strip()
-                # Reject if it contains sentence-level words (likely a false positive)
-                if re.search(r'\b(came|said|told|which|that|this|with|from|their|have|been)\b', val, re.IGNORECASE):
+                val = val.split('\n')[0].split('\r')[0]
+                # Cut off at navigation words that signal prose ran on
+                val = re.split(r'\s+(?:Read\s+more|Best,\s+-|Speak\s+on|E-Trade)', val, flags=re.IGNORECASE)[0]
+                val = re.sub(r'[\.,\s]+$', '', val).strip()
+                # Skip clear false positives
+                if re.search(r'\b(came|said|told|which|that|this|with|from|their|have|been|also|were|when|Here\s+it|obviously|Unknown)\b', val, re.IGNORECASE):
+                    continue
+                if len(val) > 60:  # still too long — likely noise
                     continue
                 agency = val
                 break
 
-        brand = extract_field(r'\*{0,2}(?:[Cc]lient|[Bb]rand)\*{0,2}\s*:\s*\*{0,2}([^—\n\r<\[*]{2,60}?)(?:\s*[—\n]|$)', raw_content)
+        brand = extract_field(r'(?:[Cc]lient|[Bb]rand)\s*:\s*([^—\n\r\[*]{2,60}?)(?=\s*(?:[A-Z][a-z]+\s*:|$|\n))', plain_content)
 
         is_draft = status == "draft"
 

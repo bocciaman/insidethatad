@@ -4,7 +4,8 @@ date = "2016-07-30T19:06:28+00:00"
 slug = "condom-sportswear-advertising"
 categories = ["Advertising", "agencies", "Campaigns", "online advertising", "Sports"]
 tags = ["advertising", "condom", "Sid Lee", "Skyn", "sportswear"]
-agency = "Unknown"
+agency = "Sid Lee Amsterdam"
+brand = "Skyn"
 [cover]
   image = "/img/2016/07/Screen-Shot-2016-07-30-at-6.48.07-PM.png"
 +++

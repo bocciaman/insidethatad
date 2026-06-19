@@ -3,7 +3,7 @@ title = "Smirnoff's Pure Campaign"
 date = "2011-09-04T02:18:00+00:00"
 slug = "smirnoffs-pure-campaign"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Leo Burnett"
 [cover]
   image = "/img/default-post.jpg"
 +++

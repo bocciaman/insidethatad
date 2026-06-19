@@ -4,6 +4,7 @@ date = "2013-01-15T05:31:00+00:00"
 slug = "album-cover-ad-designs"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Yeah YeahYeahs"
 [cover]
   image = "http://4.bp.blogspot.com/-fINt1-ZuSv0/UPTiDY_6FAI/AAAAAAAAAiY/75V1DEapASs/s320/yeah_yeah_yeahs.jpg"
 +++

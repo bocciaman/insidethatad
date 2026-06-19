@@ -3,7 +3,7 @@ title = "Signs TV Spot"
 date = "2010-10-14T15:01:00+00:00"
 slug = "signs-tv-spot"
 categories = ["Uncategorized"]
-agency = "ddb"
+agency = "DDB"
 [cover]
   image = "/img/default-post.jpg"
 +++

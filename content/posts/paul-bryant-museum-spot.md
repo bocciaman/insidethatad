@@ -3,7 +3,8 @@ title = "Paul Bryant Museum Spot"
 date = "2013-01-14T04:52:00+00:00"
 slug = "paul-bryant-museum-spot"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "In-house"
+brand = "University of Alabama"
 [cover]
   image = "/img/default-post.jpg"
 +++

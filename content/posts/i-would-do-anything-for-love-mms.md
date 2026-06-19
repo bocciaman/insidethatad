@@ -4,7 +4,8 @@ date = "2013-02-23T09:05:58+00:00"
 slug = "i-would-do-anything-for-love-mms"
 categories = ["Creative", "TV spot"]
 tags = ["ballad", "candy", "love", "M&amp;Ms"]
-agency = "BBDO"
+agency = "BBDO, New York"
+brand = "M&M's"
 [cover]
   image = "/img/2013/02/Screen-Shot-2013-02-23-at-1.00.58-AM.png"
 +++

@@ -294,6 +294,25 @@
   transition: transform 0.3s ease;
 }
 
+.post-card__agency-badge {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background: rgba(0, 0, 0, 0.72);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 500;
+  font-family: 'Inter', sans-serif;
+  padding: 4px 9px;
+  border-radius: 4px;
+  letter-spacing: 0.02em;
+  max-width: calc(100% - 20px);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  pointer-events: none;
+}
+
 .post-card__img-link:hover .post-card__img {
   transform: scale(1.05);
 }
@@ -347,14 +366,6 @@
   color: #c0392b !important;
 }
 
-.post-card__agency {
-  font-size: 0.8rem;
-  color: #aaa;
-  font-family: 'Inter', sans-serif;
-  margin: 0;
-  margin-top: auto;
-  padding-top: 6px;
-}
 
 /* ── Archive page title ── */
 .archive__title {

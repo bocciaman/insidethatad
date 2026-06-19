@@ -5,6 +5,7 @@ slug = "cossette-toronto-bungles-bugles-games"
 categories = ["Campaigns", "Creative"]
 tags = ["BRANDS", "CAMPAIGNS"]
 agency = "Unknown"
+brand = "Bugles"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -3,7 +3,8 @@ title = "I May Be Wrong but I Doubt It"
 date = "2011-02-27T09:46:00+00:00"
 slug = "i-may-be-wrong-but-i-doubt-it"
 categories = ["Uncategorized"]
-agency = "Publicis Seattle"
+agency = "Publicis Seattle, Pony Show Entertainment"
+brand = "T-Mobile"
 [cover]
   image = "/img/default-post.jpg"
 +++

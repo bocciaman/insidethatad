@@ -3,7 +3,7 @@ title = "Superman Elevator"
 date = "2009-01-03T06:25:00+00:00"
 slug = "superman-elevator"
 categories = ["Uncategorized"]
-agency = "jwt"
+agency = "JWT"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/SWwLCIJ2d7I/AAAAAAAAACQ/LJdP7vg6u7c/s320/Warner-Elevador-Super-Homem_preview.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2012-01-22T11:38:00+00:00"
 slug = "inside-that-ad-presents-its-top-10-ads-of-2011"
 categories = ["Uncategorized"]
 agency = "Leo Burnett"
+brand = "Weetabix Cereal"
 [cover]
   image = "/img/default-post.jpg"
 +++

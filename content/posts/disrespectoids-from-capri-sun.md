@@ -3,7 +3,7 @@ title = "Disrespectoids From Capri Sun"
 date = "2010-05-07T15:08:00+00:00"
 slug = "disrespectoids-from-capri-sun"
 categories = ["Uncategorized"]
-agency = "ogilvy"
+agency = "Ogilvy was"
 [cover]
   image = "/img/default-post.jpg"
 +++

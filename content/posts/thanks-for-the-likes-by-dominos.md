@@ -4,7 +4,8 @@ date = "2013-03-06T07:35:52+00:00"
 slug = "thanks-for-the-likes-by-dominos"
 categories = ["agencies", "Creative"]
 tags = ["Agency", "Creative", "Crispin Porter + Bogusky", "Domino's", "Facebook", "Food &amp; Beverage"]
-agency = "Crispin Porter"
+agency = "Crispin Porter + Bogusky (CP+B)"
+brand = "Domino's"
 [cover]
   image = "/img/2013/03/dominos.png"
 +++

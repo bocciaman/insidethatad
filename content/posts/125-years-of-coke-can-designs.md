@@ -3,7 +3,7 @@ title = "125 Years of Coke Can Designs"
 date = "2011-08-27T05:04:00+00:00"
 slug = "125-years-of-coke-can-designs"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Peter Gregsen"
 [cover]
   image = "http://www.adweek.com/files/imagecache/node-blog/blogs/125_coke_can_designs_0.jpg"
 +++

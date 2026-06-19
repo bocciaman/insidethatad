@@ -3,7 +3,7 @@ title = "An Absolut Short Film"
 date = "2010-11-03T15:00:00+00:00"
 slug = "an-absolut-short-film"
 categories = ["Uncategorized"]
-agency = "tbwa"
+agency = "TBWA"
 [cover]
   image = "/img/default-post.jpg"
 +++

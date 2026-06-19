@@ -4,7 +4,8 @@ date = "2013-02-24T05:09:18+00:00"
 slug = "crown-royal-lion"
 categories = ["Advertising", "Creative"]
 tags = ["alcohol", "drinks", "lion"]
-agency = "Unknown"
+agency = "Grey, New York"
+brand = "Crown Royal"
 [cover]
   image = "/img/2013/02/cropped-ITA-Site-image-011513.jpg"
 +++

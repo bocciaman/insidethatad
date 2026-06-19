@@ -4,7 +4,8 @@ date = "2013-01-15T15:18:00+00:00"
 slug = "dunder-mifflin-gets-a-super-bowl-ad"
 categories = ["TV spot"]
 tags = ["product placement", "the office", "tv show"]
-agency = "Unknown"
+agency = "Crowdsourcing & Tongal"
+brand = "Dunder Mifflin via Quill"
 [cover]
   image = "http://www.adweek.com/files/imagecache/node-blog/blogs/dunder_mifflin.jpg"
 +++

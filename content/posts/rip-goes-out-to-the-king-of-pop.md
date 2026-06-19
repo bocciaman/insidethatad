@@ -3,7 +3,7 @@ title = "RIP Goes Out to the King of POP"
 date = "2009-06-26T04:28:00+00:00"
 slug = "rip-goes-out-to-the-king-of-pop"
 categories = ["Uncategorized"]
-agency = "bbdo"
+agency = "BBDO"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -1,54 +1,5 @@
 /* Inside That Ad — custom overrides to match original dark-header design */
 
-/* ── Dark / Light mode variables ── */
-:root, [data-theme="light"] {
-  --bg: #f5f5f5;
-  --text: #222;
-  --card-bg: #fff;
-  --border: #ddd;
-  --sidebar-bg: #fff;
-  --post-bg: #fff;
-  --link: #c0392b;
-  --meta: #888;
-  --code-bg: #f4f4f4;
-}
-
-[data-theme="dark"] {
-  --bg: #1a1a1a;
-  --text: #ddd;
-  --card-bg: #242424;
-  --border: #333;
-  --sidebar-bg: #242424;
-  --post-bg: #242424;
-  --link: #e74c3c;
-  --meta: #999;
-  --code-bg: #2d2d2d;
-}
-
-body {
-  background: var(--bg) !important;
-  color: var(--text) !important;
-  transition: background 0.3s, color 0.3s;
-}
-
-.post, .post__content, article {
-  background: var(--post-bg);
-  color: var(--text);
-}
-
-.widget {
-  background: var(--sidebar-bg);
-  color: var(--text);
-}
-
-a { color: var(--link) !important; }
-
-[data-theme="dark"] .widget__title { color: #eee; }
-[data-theme="dark"] .post__title { color: #eee; }
-[data-theme="dark"] .post__meta { color: var(--meta); }
-[data-theme="dark"] .related { background: #2a2a2a; }
-[data-theme="dark"] .sidebar-dropdown-list li a { color: #ddd; background: #2a2a2a; border-color: #444; }
-[data-theme="dark"] .footer { background-color: #0d0d0d; }
 
 /* ── Header: black background with banner image ── */
 .header {
@@ -148,42 +99,6 @@ a { color: var(--link) !important; }
   color: #fff;
   background-color: #c0392b;
 }
-
-/* ── Dark/Light toggle button ── */
-.menu__item--toggle {
-  display: flex;
-  align-items: center;
-  padding: 0 8px;
-}
-
-.theme-toggle {
-  background: #333;
-  border: 2px solid #555;
-  border-radius: 999px;
-  width: 48px;
-  height: 26px;
-  cursor: pointer;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 4px;
-  transition: background 0.3s;
-}
-
-[data-theme="dark"] .theme-toggle {
-  background: #444;
-}
-
-.theme-toggle__icon {
-  font-size: 0.75rem;
-  line-height: 1;
-  transition: opacity 0.2s;
-}
-
-/* Show sun in light mode, moon in dark mode */
-[data-theme="light"] .theme-toggle__icon--moon { opacity: 0.3; }
-[data-theme="dark"]  .theme-toggle__icon--sun  { opacity: 0.3; }
 
 /* ── Nav search bar ── */
 .menu__item--search {

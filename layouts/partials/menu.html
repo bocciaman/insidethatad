@@ -14,8 +14,45 @@
     </li>
     {{- end }}
     {{- end }}
+
+    <!-- Dark/Light toggle -->
+    <li class="menu__item menu__item--toggle">
+      <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark/light mode">
+        <span class="theme-toggle__icon theme-toggle__icon--sun">☀️</span>
+        <span class="theme-toggle__icon theme-toggle__icon--moon">🌙</span>
+      </button>
+    </li>
+
+    <!-- Search -->
+    <li class="menu__item menu__item--search">
+      <form class="nav-search" role="search" method="get" action="https://google.com/search">
+        <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
+        <input class="nav-search__input" type="search" name="q" placeholder="Type &amp; Hit Enter..." aria-label="Search">
+        <button class="nav-search__btn" type="submit" aria-label="Search">
+          <i class="fa fa-search"></i>
+        </button>
+      </form>
+    </li>
   </ul>
 </nav>
+
+<script>
+(function() {
+  var toggle = document.getElementById('theme-toggle');
+  var root = document.documentElement;
+  var saved = localStorage.getItem('ita-theme') || 'light';
+  root.setAttribute('data-theme', saved);
+
+  if (toggle) {
+    toggle.addEventListener('click', function() {
+      var current = root.getAttribute('data-theme');
+      var next = current === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      localStorage.setItem('ita-theme', next);
+    });
+  }
+})();
+</script>
 {{ else -}}
 <div class="divider"></div>
 {{- end }}

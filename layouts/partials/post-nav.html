@@ -1,0 +1,21 @@
+{{- if or .PrevInSection .NextInSection }}
+<nav class="post-nav">
+  {{- if .NextInSection }}
+  <a class="post-nav__btn" href="{{ .NextInSection.RelPermalink }}" rel="prev">
+    <span>&lsaquo;</span> Previous
+  </a>
+  {{- else }}
+  <span class="post-nav__btn post-nav__btn--disabled"><span>&lsaquo;</span> Previous</span>
+  {{- end }}
+
+  <a class="post-nav__btn post-nav__btn--home" href="/">All Posts</a>
+
+  {{- if .PrevInSection }}
+  <a class="post-nav__btn" href="{{ .PrevInSection.RelPermalink }}" rel="next">
+    Next <span>&rsaquo;</span>
+  </a>
+  {{- else }}
+  <span class="post-nav__btn post-nav__btn--disabled">Next <span>&rsaquo;</span></span>
+  {{- end }}
+</nav>
+{{- end }}

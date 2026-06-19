@@ -941,6 +941,58 @@ a:hover {
   white-space: nowrap;
 }
 
+/* ── Post prev/next navigation (single posts) ── */
+.post-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  margin: 2rem 0 1rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.post-nav__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #333;
+  background: #fff;
+  border: 1px solid #ddd;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.post-nav__btn:first-child {
+  border-radius: 6px 0 0 6px;
+}
+
+.post-nav__btn:last-child {
+  border-radius: 0 6px 6px 0;
+}
+
+.post-nav__btn:hover {
+  background: #f5f5f5;
+  color: #c0392b;
+}
+
+.post-nav__btn--disabled {
+  color: #bbb;
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  cursor: default;
+}
+
+.post-nav__btn--home {
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+}
+
 /* ════════════════════════════════════════
    TABLET  (768px – 900px)
    ════════════════════════════════════════ */

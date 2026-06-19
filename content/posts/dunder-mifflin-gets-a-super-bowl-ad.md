@@ -5,9 +5,9 @@ slug = "dunder-mifflin-gets-a-super-bowl-ad"
 categories = ["TV spot"]
 tags = ["product placement", "the office", "tv show"]
 agency = "Crowdsourcing & Tongal"
-brand = "Dunder Mifflin via Quill"
+brand = "Staples"
 [cover]
-  image = "http://www.adweek.com/files/imagecache/node-blog/blogs/dunder_mifflin.jpg"
+  image = "/img/the-office-dunder-mifflin.jpg"
 +++
 
 [![](http://www.adweek.com/files/imagecache/node-blog/blogs/dunder_mifflin.jpg)](http://www.adweek.com/files/imagecache/node-blog/blogs/dunder_mifflin.jpg)

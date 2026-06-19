@@ -1,0 +1,23 @@
+{{- $id := .Get 0 | default (.Get "id") -}}
+{{- $title := .Get "title" | default "YouTube Video" -}}
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/{{ $id }}"
+    title="{{ $title }}"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "{{ $title }}",
+  "embedUrl": "https://www.youtube.com/embed/{{ $id }}",
+  "url": "https://www.youtube.com/watch?v={{ $id }}",
+  "thumbnailUrl": "https://img.youtube.com/vi/{{ $id }}/hqdefault.jpg",
+  "uploadDate": "{{ $.Page.Date.Format "2006-01-02" }}"
+}
+</script>

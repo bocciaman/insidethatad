@@ -271,18 +271,17 @@
 /* ── Post card ── */
 .post-card {
   background: #fff;
-  border-radius: 12px;
+  border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 3px 14px rgba(0,0,0,0.08);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
   display: flex;
   flex-direction: column;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  position: relative;
 }
 
 .post-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.13);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 28px rgba(0,0,0,0.12);
 }
 
 .post-card__img-link {
@@ -301,56 +300,35 @@
   transition: transform 0.3s ease;
 }
 
-.post-card__agency-badge {
-  position: absolute;
-  bottom: 12px;
-  left: 12px;
-  background: #c0392b;
-  color: #fff;
-  font-size: 0.75rem;
-  font-weight: 600;
-  font-family: 'Inter', sans-serif;
-  padding: 5px 11px;
-  border-radius: 4px;
-  letter-spacing: 0.03em;
-  max-width: calc(100% - 24px);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  pointer-events: none;
-  text-transform: uppercase;
-}
-
 .post-card__img-link:hover .post-card__img {
   transform: scale(1.03);
 }
 
 .post-card__body {
-  padding: 1.25rem 1.5rem 1.5rem;
+  padding: 1.25rem 1.4rem 1.5rem;
   display: flex;
   flex-direction: column;
-  gap: 8px;
   flex: 1;
 }
 
-.post-card__brand {
-  font-size: 0.75rem;
-  color: #c0392b;
+.post-card__category {
+  font-size: 0.68rem;
   font-family: 'Inter', sans-serif;
-  font-weight: 600;
-  margin: 0;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.1em;
+  color: #c0392b;
+  margin: 0 0 8px;
 }
 
 .post-card__title {
   font-size: 1.1rem;
   font-weight: 700;
   line-height: 1.35;
-  margin: 0;
+  margin: 0 0 6px;
   font-family: 'Inter', sans-serif;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -362,6 +340,41 @@
 
 .post-card__title a:hover {
   color: #c0392b !important;
+}
+
+.post-card__agency {
+  font-size: 0.78rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  color: #888;
+  margin: 0 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.post-card__excerpt {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  color: #555;
+  margin: 0 0 12px;
+  font-family: Georgia, serif;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+
+.post-card__date {
+  font-size: 0.72rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  color: #aaa;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  margin: 0;
+  padding-top: 10px;
+  border-top: 1px solid #f0f0f0;
 }
 
 

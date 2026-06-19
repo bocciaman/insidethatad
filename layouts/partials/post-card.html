@@ -5,17 +5,19 @@
       src="{{ .Params.cover.image | default "/img/default-post.jpg" }}"
       alt="{{ .Title }}"
       loading="lazy">
-    {{- $agency := .Params.agency | default "Unknown" }}
-    {{- if ne $agency "Unknown" }}
-    <span class="post-card__agency-badge">{{ $agency }}</span>
-    {{- end }}
   </a>
   <div class="post-card__body">
-    {{- with .Params.brand }}
-    <p class="post-card__brand">{{ . }}</p>
+    {{- with .Params.categories }}
+    <p class="post-card__category">{{ index . 0 }}</p>
     {{- end }}
     <h2 class="post-card__title">
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h2>
+    {{- $agency := .Params.agency | default "Unknown" }}
+    {{- if ne $agency "Unknown" }}
+    <p class="post-card__agency">{{ $agency }}</p>
+    {{- end }}
+    <p class="post-card__excerpt">{{ .Summary | plainify | truncate 160 }}</p>
+    <p class="post-card__date">{{ .Date.Format "January 2, 2006" }}</p>
   </div>
 </article>

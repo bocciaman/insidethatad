@@ -3,6 +3,7 @@ title = "Adidas Update"
 date = "2009-04-12T15:44:00+00:00"
 slug = "adidas-update"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SeINHxQQy6I/AAAAAAAAAIg/L_z9MJk7Qhc/s320/adidas+logo.jpg"
 +++

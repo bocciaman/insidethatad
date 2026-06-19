@@ -3,6 +3,7 @@ title = "Fashion or Computer Ad"
 date = "2009-03-31T03:59:00+00:00"
 slug = "fashion-or-computer-ad"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SdGW4ve28pI/AAAAAAAAAHw/q41mbTDI0As/s320/DellAd.jpg"
 +++

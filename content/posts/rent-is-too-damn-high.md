@@ -3,6 +3,7 @@ title = "Rent Is Too Damn High"
 date = "2010-11-03T15:13:00+00:00"
 slug = "rent-is-too-damn-high"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

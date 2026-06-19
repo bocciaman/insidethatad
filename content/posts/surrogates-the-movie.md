@@ -3,6 +3,7 @@ title = "Surrogates: The Movie"
 date = "2009-08-13T08:29:00+00:00"
 slug = "surrogates-the-movie"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/SoPRIH-3kcI/AAAAAAAAALQ/DGcjiez0bAA/s320/surrogates-booots.jpg"
 +++

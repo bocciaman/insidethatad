@@ -3,6 +3,7 @@ title = "Goodbye 1984: Making Fun of Apple"
 date = "2011-02-16T06:17:00+00:00"
 slug = "goodbye-1984-making-fun-of-apple"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

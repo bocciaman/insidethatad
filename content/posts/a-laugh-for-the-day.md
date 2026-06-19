@@ -3,6 +3,7 @@ title = "A Laugh for the Day"
 date = "2009-03-10T18:54:00+00:00"
 slug = "a-laugh-for-the-day"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SbbGwFXTG8I/AAAAAAAAAGI/IikXBwnbUUQ/s400/haha.jpg"
 +++

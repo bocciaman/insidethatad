@@ -3,6 +3,7 @@ title = "Disabled in Non Pity Ad, Success"
 date = "2010-10-20T05:54:00+00:00"
 slug = "disabled-in-non-pity-ad-success"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/TL6BSHWDPfI/AAAAAAAAAPo/2k2p0yNfPKw/s320/gimp+ad.jpg"
 +++

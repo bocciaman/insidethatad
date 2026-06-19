@@ -4,6 +4,7 @@ date = "2019-02-20T23:09:47+00:00"
 slug = "new-captain-marvel-posters-are-a-hit"
 categories = ["Art", "Creative", "movies", "Uncategorized"]
 tags = ["Annette Bening", "Ben Mendelsohn", "Brie Larson", "Captain Marvel", "Creative", "Djimon Hounsou", "Gemma Chan", "Jude Law", "marvel", "Marvel Studios", "movie", "posters", "Samuel Jackson"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

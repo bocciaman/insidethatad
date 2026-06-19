@@ -3,6 +3,7 @@ title = "Americas Cup Fundraising Page"
 date = "2013-02-03T12:22:00+00:00"
 slug = "americas-cup-fundraising-page"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

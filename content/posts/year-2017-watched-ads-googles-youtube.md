@@ -4,6 +4,7 @@ date = "2017-12-07T09:00:05+00:00"
 slug = "year-2017-watched-ads-googles-youtube"
 categories = ["Campaigns", "Creative", "video"]
 tags = ["advertising", "Creative", "video", "youtube"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/12/natalie-portman-miss-dior-final-hed-2017.jpg"
 +++

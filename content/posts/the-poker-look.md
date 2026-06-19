@@ -3,6 +3,7 @@ title = "The Poker Look"
 date = "2009-03-18T06:19:00+00:00"
 slug = "the-poker-look"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/Sb3mwqR2CsI/AAAAAAAAAGg/ul-nH9U0E1w/s320/FTPGlasses.jpg"
 +++

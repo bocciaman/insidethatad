@@ -3,6 +3,7 @@ title = "Inside That Ad July 4th ad"
 date = "2012-07-06T07:03:00+00:00"
 slug = "inside-that-ad-july-4th-ad"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

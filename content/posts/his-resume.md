@@ -4,6 +4,7 @@ date = "2017-11-03T09:00:07+00:00"
 slug = "his-resume"
 categories = ["agencies", "Art", "Print"]
 tags = ["BIG ADS", "FASHION", "Print", "PRISON BLUES", "UNITED STATES"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/11/his_resume_1.jpg"
 +++

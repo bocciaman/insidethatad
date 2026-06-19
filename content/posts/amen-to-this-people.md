@@ -3,6 +3,7 @@ title = "Amen to This People"
 date = "2010-11-22T07:13:00+00:00"
 slug = "amen-to-this-people"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/TOoVZqB-hYI/AAAAAAAAAP8/U0J_GBx1OV4/s320/rock+n+roll+ads.jpg"
 +++

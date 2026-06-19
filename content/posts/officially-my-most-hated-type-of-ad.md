@@ -3,6 +3,7 @@ title = "Officially My Most Hated Type of Ad"
 date = "2010-10-09T16:57:00+00:00"
 slug = "officially-my-most-hated-type-of-ad"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/TLCb3YV1FiI/AAAAAAAAAPM/Frhtr-EwYvw/s320/Annoying+Ad.PNG"
 +++

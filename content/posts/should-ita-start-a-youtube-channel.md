@@ -5,6 +5,7 @@ slug = "should-ita-start-a-youtube-channel"
 categories = ["Advertising", "agencies", "Creative", "marketing", "video"]
 tags = ["ad agency", "advertising", "channel", "editing software", "entertainment", "inspiration", "ITA", "marketing", "marketing firm", "passive income blog", "teespring", "video", "work", "youtube"]
 description = "I’ve been thinking about how I could possibly start an Inside That Ad (ITA) YouTube channel. Do you guys think that’s even possible?"
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

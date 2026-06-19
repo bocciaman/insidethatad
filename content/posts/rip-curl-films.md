@@ -3,6 +3,7 @@ title = "Rip Curl Films"
 date = "2010-10-22T07:17:00+00:00"
 slug = "rip-curl-films"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

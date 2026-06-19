@@ -3,6 +3,7 @@ title = "Ikea 'Regrets' Airbrushing Women out of Its Saudi Catalog Now you see h
 date = "2012-10-03T02:32:00+00:00"
 slug = "ikea-regrets-airbrushing-women-out-of-its-saudi-catalog-now-you-see-her-now-you-dont"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://www.adweek.com/files/imagecache/node-blog/blogs/ikea_3.jpg"
 +++

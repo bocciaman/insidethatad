@@ -4,6 +4,7 @@ date = "2018-02-14T10:50:44+00:00"
 slug = "stay-in-the-shadows"
 categories = ["agencies", "Art", "Creative", "marketing", "Print"]
 tags = ["Bleublancrouge", "Canada", "Electronics", "Print", "Sherlock", "Technology"]
+agency = "Unknown"
 [cover]
   image = "/img/2018/02/sherlock_stayintheshadows_02.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Pro-Atheism Ads"
 date = "2009-01-24T22:26:00+00:00"
 slug = "pro-atheism-ads"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SXobn5Yg5JI/AAAAAAAAAC4/LoH8A3477zg/s400/atheism.jpg"
 +++

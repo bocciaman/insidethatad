@@ -4,6 +4,7 @@ date = "2017-10-20T09:00:36+00:00"
 slug = "add-value-labeled-advertiser-not-good-way"
 categories = ["Advertising", "Art", "Campaigns"]
 tags = ["Agency Business", "Branded Utility", "Industry Analysis", "Management Theory", "Media Trends"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/10/end-of-advertising.jpg"
 +++

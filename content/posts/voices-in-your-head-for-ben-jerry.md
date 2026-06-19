@@ -4,6 +4,7 @@ date = "2019-05-06T16:51:10+00:00"
 slug = "voices-in-your-head-for-ben-jerry"
 categories = ["Uncategorized"]
 tags = ["Ben and Jerry", "Food", "Germany", "Miami Ad School", "Print"]
+agency = "Unknown"
 [cover]
   image = "/img/2019/05/mom_5-212x300.jpg"
 +++

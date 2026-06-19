@@ -3,6 +3,7 @@ title = "A Gifted Baby"
 date = "2009-01-02T23:01:00+00:00"
 slug = "a-gifted-baby"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

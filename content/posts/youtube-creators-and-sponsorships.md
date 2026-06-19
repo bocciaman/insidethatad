@@ -4,6 +4,7 @@ date = "2020-12-06T15:42:10+00:00"
 slug = "youtube-creators-and-sponsorships"
 categories = ["marketing", "Sponsors", "YouTube Videos"]
 tags = ["mkbhd", "online ads", "sponsprship", "wsj", "youtube"]
+agency = "Unknown"
 [cover]
   image = "/img/2020/12/Screen-Shot-2020-12-05-at-6.49.26-PM2020-12-06.png"
 +++

@@ -4,6 +4,7 @@ date = "2022-03-11T09:00:54+00:00"
 slug = "acura-takes-road-less-traveled-with-anime-product-integration"
 categories = ["product intgration", "short films"]
 tags = ["Acura", "Anime", "car culture", "performance vehicals", "product placement"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2017-10-24T09:00:08+00:00"
 slug = "six-ways-to-improve-your-millennial-marketing"
 categories = ["Advertising", "marketing"]
 tags = ["advertising", "marketing", "Millennials", "opinion"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/10/Millennial-thumb.jpg"
 +++

@@ -3,6 +3,7 @@ title = "A Consolation Ad From Nike"
 date = "2011-01-22T07:10:00+00:00"
 slug = "a-consolation-ad-from-nike"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/TTqmeOqDcNI/AAAAAAAAARg/Q_5GkzbZ5_Y/s320/Screen%2Bshot%2B2011-01-21%2Bat%2B11.09.09%2BPM.png"
 +++

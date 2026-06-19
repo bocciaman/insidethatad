@@ -4,6 +4,7 @@ date = "2013-02-19T03:58:43+00:00"
 slug = "and-now-your-weekly-video-miscellany"
 categories = ["Creative"]
 tags = ["CAMPAIGNS", "CELEBRITY", "HA!", "ONLINE", "POLITICAL"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/02/Screen-Shot-2013-02-18-at-7.53.59-PM.png"
 +++

@@ -3,6 +3,7 @@ title = "Exorcist Ad"
 date = "2011-08-08T05:35:00+00:00"
 slug = "exorcist-ad"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2019-03-10T19:41:26+00:00"
 slug = "agency-love-letter"
 categories = ["Advertising", "agencies", "Art", "Creative"]
 tags = ["advertising", "Agency", "anonymous", "client", "funny", "Glow", "love letter", "relationship", "social media", "twitter"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

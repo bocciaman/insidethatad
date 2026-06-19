@@ -4,6 +4,7 @@ date = "2017-11-06T12:34:37+00:00"
 slug = "hannibal-back-halloween"
 categories = ["Advertising", "agencies", "Art"]
 tags = ["CONFECTIONERY", "HALTER BONBONS", "KSP", "Print", "SNACKS", "SWITZERLAND"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/11/halter_halloween_hannibal.jpg"
 +++

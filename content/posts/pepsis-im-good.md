@@ -3,6 +3,7 @@ title = "Pepsi’s I’m Good"
 date = "2009-04-28T22:37:00+00:00"
 slug = "pepsis-im-good"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

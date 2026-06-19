@@ -3,6 +3,7 @@ title = "Hello world!"
 date = "2012-06-29T21:46:29+00:00"
 slug = "hello-world"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

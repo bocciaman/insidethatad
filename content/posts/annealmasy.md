@@ -4,6 +4,7 @@ date = "2013-02-22T06:18:08+00:00"
 slug = "annealmasy"
 categories = ["Creative", "Magazine Advertising"]
 tags = ["Anne Almasy", "Gay", "Magazine", "Weddings", "Weddings Unveiled"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/02/anne_almasy.jpg"
 +++

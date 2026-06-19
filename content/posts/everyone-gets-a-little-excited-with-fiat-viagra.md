@@ -4,6 +4,7 @@ date = "2015-06-21T00:16:46+00:00"
 slug = "everyone-gets-a-little-excited-with-fiat-viagra"
 categories = ["Advertising", "agencies", "Super Bowl", "TV spot"]
 tags = ["car", "commercial", "fiat", "Richards Group", "superbowl", "viagra"]
+agency = "Unknown"
 [cover]
   image = "/img/2015/06/Screen-Shot-2015-06-20-at-4.47.18-PM.png"
 +++

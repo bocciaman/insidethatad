@@ -3,6 +3,7 @@ title = "The Man Card"
 date = "2011-09-29T06:05:00+00:00"
 slug = "the-man-card"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

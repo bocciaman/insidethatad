@@ -3,6 +3,7 @@ title = "Bing Keeps you from Looking Like a Moron or Does it?"
 date = "2009-06-14T04:53:00+00:00"
 slug = "bing-keeps-you-from-looking-like-a-moron-or-does-it"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Young Creatives Win a Trip to Cannes, Are Forced to Work the Whole Time
 date = "2012-06-19T03:19:00+00:00"
 slug = "young-creatives-win-a-trip-to-cannes-are-forced-to-work-the-whole-time"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://www.mediabistro.com/agencyspy/files/2012/06/Aviary-flipflopsocks-tumblr-com-Picture-11.png"
 +++

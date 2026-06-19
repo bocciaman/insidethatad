@@ -3,6 +3,7 @@ title = "Futuristic Coke Design"
 date = "2010-10-25T03:23:00+00:00"
 slug = "futuristic-coke-design"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

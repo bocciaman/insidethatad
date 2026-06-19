@@ -3,6 +3,7 @@ title = "Guitar Hero Mania"
 date = "2009-04-01T07:20:00+00:00"
 slug = "guitar-hero-mania"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

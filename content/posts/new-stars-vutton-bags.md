@@ -3,6 +3,7 @@ title = "New Stars &amp; Vutton Bags"
 date = "2011-10-23T01:30:00+00:00"
 slug = "new-stars-vutton-bags"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://3.bp.blogspot.com/-efPrPOgmu6w/TqNs48LNNuI/AAAAAAAAAUQ/R8DCDTso-NA/s320/Connary+Vuitton2.jpeg"
 +++

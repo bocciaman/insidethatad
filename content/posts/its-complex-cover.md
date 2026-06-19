@@ -3,6 +3,7 @@ title = "It's Complex Cover"
 date = "2010-09-22T04:57:00+00:00"
 slug = "its-complex-cover"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/TJj57jVWc3I/AAAAAAAAAOA/Mh2CiQK7KNw/s320/Complex_NickiMinaj_Cover_625.jpg"
 +++

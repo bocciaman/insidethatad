@@ -3,6 +3,7 @@ title = "Y&amp;R SF and Dr Pepper Snapple Part Ways"
 date = "2010-09-15T10:23:00+00:00"
 slug = "yr-sf-and-dr-pepper-snapple-part-ways"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

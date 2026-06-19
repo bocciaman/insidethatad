@@ -5,6 +5,7 @@ slug = "apple-event-march-8"
 categories = ["Art", "Creative", "Logo"]
 tags = ["Apple", "art", "campaign", "event", "imac", "iphone"]
 description = "Yesterday Apple announced its first event of 2022, set to take place next Tuesday, March 8th, 2022. Featuring the tagline \"Peek Performance.\" Along with a newly designed image for the event, a set o"
+agency = "Unknown"
 [cover]
   image = "/img/2022/03/Apple-Event-logo.png"
 +++

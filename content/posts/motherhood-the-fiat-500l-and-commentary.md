@@ -3,6 +3,7 @@ title = "Motherhood, the Fiat 500L and Commentary"
 date = "2013-01-04T06:55:00+00:00"
 slug = "motherhood-the-fiat-500l-and-commentary"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

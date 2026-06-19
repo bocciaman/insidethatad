@@ -4,6 +4,7 @@ date = "2017-11-01T09:00:12+00:00"
 slug = "skype-banner"
 categories = ["Advertising", "Campaigns", "online advertising", "political", "YouTube Videos"]
 tags = ["Banners", "Impeachment", "skype", "Steyer"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/11/tom2.png"
 +++

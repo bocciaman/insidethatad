@@ -3,6 +3,7 @@ title = "Steelers Troy Polamalu"
 date = "2009-01-27T19:24:00+00:00"
 slug = "steelers-troy-polamalu"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/SX9obq2S2mI/AAAAAAAAADY/2TeF5sHujtY/s400/Picture+3.png"
 +++

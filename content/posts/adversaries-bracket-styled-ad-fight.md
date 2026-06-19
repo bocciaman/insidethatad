@@ -3,6 +3,7 @@ title = "ADversaries: Bracket styled ad fight"
 date = "2012-07-09T05:24:00+00:00"
 slug = "adversaries-bracket-styled-ad-fight"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://3.bp.blogspot.com/-3cIjIGGolas/T-Nr9Emw7wI/AAAAAAAALLE/u1uCsB60k3I/s640/542372_251175724990769_2068222830_n.jpg"
 +++

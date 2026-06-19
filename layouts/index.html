@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main class="main" role="main">
+
+  {{/* ── Hero: latest post ── */}}
+  {{- $posts := where .Site.RegularPages "Type" "posts" }}
+  {{- $hero := index $posts 0 }}
+  {{- $rest := after 1 $posts }}
+
+  {{- with $hero }}
+  <section class="hero">
+    <a href="{{ .RelPermalink }}" class="hero__img-link">
+      <img class="hero__img" src="{{ .Params.cover.image | default "/img/default-post.jpg" }}" alt="{{ .Title }}" loading="eager">
+    </a>
+    <div class="hero__body">
+      {{- with .Params.categories }}
+      <span class="hero__badge">{{ index . 0 }}</span>
+      {{- end }}
+      <h1 class="hero__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+      <p class="hero__meta">{{ .Date.Format "January 2, 2006" }} &nbsp;·&nbsp; Agency: {{ .Params.agency | default "Unknown" }}</p>
+      <p class="hero__excerpt">{{ .Summary | plainify | truncate 180 }}</p>
+      <a href="{{ .RelPermalink }}" class="hero__btn">Read More</a>
+    </div>
+  </section>
+  {{- end }}
+
+  {{/* ── Card grid ── */}}
+  <div class="card-grid">
+    {{- range first 11 $rest }}
+    {{ partial "post-card.html" . }}
+    {{- end }}
+  </div>
+
+  {{/* ── Pagination ── */}}
+  {{ partial "pager.html" . }}
+
+</main>
+{{ end }}

@@ -4,6 +4,7 @@ date = "2015-07-03T06:08:47+00:00"
 slug = "nike-with-the-worlds-fastest-commercial"
 categories = ["Advertising", "agencies", "Art", "Creative", "Sports"]
 tags = ["advertising", "athletes", "fast", "nike", "superstar", "zoom"]
+agency = "Unknown"
 [cover]
   image = "/img/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png"
 +++

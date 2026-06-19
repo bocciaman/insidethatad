@@ -3,6 +3,7 @@ title = "Very Angry Moms"
 date = "2009-07-02T04:12:00+00:00"
 slug = "very-angry-moms"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

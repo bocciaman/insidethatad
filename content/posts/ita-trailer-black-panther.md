@@ -4,6 +4,7 @@ date = "2018-02-19T09:00:04+00:00"
 slug = "ita-trailer-black-panther"
 categories = ["marketing", "movies"]
 tags = ["black panther", "entertainment", "marvel entertainment", "movie", "trailer"]
+agency = "Unknown"
 [cover]
   image = "/img/2018/02/Black_Panther_Poster.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Michael Jordan on LeBron James"
 date = "2010-12-13T01:07:00+00:00"
 slug = "michael-jordan-on-lebron-james"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

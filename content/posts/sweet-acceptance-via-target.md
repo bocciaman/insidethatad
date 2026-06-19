@@ -3,6 +3,7 @@ title = "Sweet Acceptance Via Target"
 date = "2012-08-02T05:06:00+00:00"
 slug = "sweet-acceptance-via-target"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

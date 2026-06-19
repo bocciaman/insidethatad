@@ -3,6 +3,7 @@ title = "Dream Job in the Ad Business"
 date = "2009-05-05T19:28:00+00:00"
 slug = "dream-job-in-the-ad-business"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

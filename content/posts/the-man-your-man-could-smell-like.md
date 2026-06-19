@@ -3,6 +3,7 @@ title = "The Man Your Man Could Smell Like"
 date = "2010-08-10T16:58:00+00:00"
 slug = "the-man-your-man-could-smell-like"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

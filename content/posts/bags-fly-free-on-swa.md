@@ -3,6 +3,7 @@ title = "Bags Fly Free on SWA"
 date = "2010-09-21T04:15:00+00:00"
 slug = "bags-fly-free-on-swa"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

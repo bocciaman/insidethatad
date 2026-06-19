@@ -4,6 +4,7 @@ date = "2014-04-25T05:03:09+00:00"
 slug = "ronald-getting-new-threads"
 categories = ["Campaigns"]
 tags = ["clothes", "designer", "McDonald's", "Ronald"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

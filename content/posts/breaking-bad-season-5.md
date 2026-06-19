@@ -3,6 +3,7 @@ title = "Breaking Bad - Season 5"
 date = "2012-06-05T06:24:00+00:00"
 slug = "breaking-bad-season-5"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://1.bp.blogspot.com/-3_neoWfl1-Q/T82lVYfd77I/AAAAAAAAAdc/KCKIx317fY4/s320/Screen+Shot+2012-06-04+at+11.20.12+PM.png"
 +++

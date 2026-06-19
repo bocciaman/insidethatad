@@ -4,6 +4,7 @@ date = "2013-03-01T07:23:19+00:00"
 slug = "honest-ipad-ad"
 categories = ["Advertising", "Creative"]
 tags = ["advertising", "Conan", "Creative", "inside that ad", "ipad"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/03/Screen-Shot-2013-02-28-at-11.06.46-PM.png"
 +++

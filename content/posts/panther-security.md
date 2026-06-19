@@ -3,6 +3,7 @@ title = "Panther Security"
 date = "2012-03-02T06:52:00+00:00"
 slug = "panther-security"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

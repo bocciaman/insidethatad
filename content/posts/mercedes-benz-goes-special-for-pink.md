@@ -3,6 +3,7 @@ title = "Mercedes-Benz Goes Special for Pink"
 date = "2010-10-10T00:12:00+00:00"
 slug = "mercedes-benz-goes-special-for-pink"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

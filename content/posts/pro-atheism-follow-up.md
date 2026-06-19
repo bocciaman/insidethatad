@@ -3,6 +3,7 @@ title = "Pro-Atheism Follow-up"
 date = "2009-01-26T01:02:00+00:00"
 slug = "pro-atheism-follow-up"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

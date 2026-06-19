@@ -4,6 +4,7 @@ date = "2019-09-28T19:38:49+00:00"
 slug = "burger-king-a-day-without-whopper"
 categories = ["Advertising", "Campaigns"]
 tags = ["Burger King", "charity", "competitors", "McDonald's"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

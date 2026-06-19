@@ -4,6 +4,7 @@ date = "2018-02-13T21:18:43+00:00"
 slug = "officially-itas-first-movie-trailers"
 categories = ["Advertising", "Art", "marketing", "movies"]
 tags = ["advertising", "Agency", "inside that ad", "ITA", "molly game", "movie", "moviepass", "trailer"]
+agency = "Unknown"
 [cover]
   image = "/img/2018/02/MGame.jpeg"
 +++

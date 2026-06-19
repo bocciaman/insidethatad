@@ -3,6 +3,7 @@ title = "Before and After Models"
 date = "2010-10-16T17:01:00+00:00"
 slug = "before-and-after-models"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

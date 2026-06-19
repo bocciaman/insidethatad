@@ -3,6 +3,7 @@ title = "Why are Ads so Awful During the NLCS?"
 date = "2017-10-17T20:54:10+00:00"
 slug = "why-are-ads-so-awful-during-the-nlcs"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/10/img_3401.jpg"
 +++

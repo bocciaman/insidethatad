@@ -4,6 +4,7 @@ date = "2017-10-18T09:00:16+00:00"
 slug = "watch-two-nfl-players-melt-down-while-trying-to-eat-paquis-hellishly-spicy-chips"
 categories = ["Advertising", "agencies"]
 tags = ["cry", "last", "nfl", "players", "spicy chips", "words"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/10/Screen-Shot-2017-10-15-at-4.55.55-PM.png"
 +++

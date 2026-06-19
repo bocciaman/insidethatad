@@ -1,0 +1,19 @@
+<article class="post-card">
+  <a href="{{ .RelPermalink }}" class="post-card__img-link">
+    <img
+      class="post-card__img"
+      src="{{ .Params.cover.image | default "/img/default-post.jpg" }}"
+      alt="{{ .Title }}"
+      loading="lazy">
+    <span class="post-card__bookmark" aria-hidden="true"><i class="fa-regular fa-bookmark"></i></span>
+  </a>
+  <div class="post-card__body">
+    {{- with .Params.brand }}
+    <p class="post-card__brand">{{ . }}</p>
+    {{- end }}
+    <h2 class="post-card__title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="post-card__agency">Agency: {{ .Params.agency | default "Unknown" }}</p>
+  </div>
+</article>

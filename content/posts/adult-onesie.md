@@ -3,6 +3,7 @@ title = "Domino's Made a 'Wipeable' Adult Onesie, So You Can Get Pizza All Over 
 date = "2016-12-30T15:42:02+00:00"
 slug = "adult-onesie"
 categories = ["Campaigns", "Creative"]
+agency = "Unknown"
 [cover]
   image = "/img/2016/12/Dominos-onezee.png"
 +++

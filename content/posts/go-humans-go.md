@@ -3,6 +3,7 @@ title = "Go Humans Go"
 date = "2009-03-18T19:36:00+00:00"
 slug = "go-humans-go"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/ScFk8emFL-I/AAAAAAAAAGo/yPEWUHpSnPY/s320/quaker.jpg"
 +++

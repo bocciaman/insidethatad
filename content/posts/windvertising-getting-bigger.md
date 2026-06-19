@@ -3,6 +3,7 @@ title = "Windvertising Getting bigger"
 date = "2009-03-11T17:28:00+00:00"
 slug = "windvertising-getting-bigger"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/SbgSA2TM6cI/AAAAAAAAAGQ/gtWj3eIhjBM/s320/ricoh.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Geico Happier with Mutombo"
 date = "2013-03-02T06:07:14+00:00"
 slug = "geico-happier-with-mutombo"
 categories = ["Advertising", "agencies", "Campaigns", "Creative", "Sports"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/03/Screen-Shot-2013-03-01-at-6.16.48-PM.png"
 +++

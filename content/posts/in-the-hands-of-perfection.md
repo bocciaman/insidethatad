@@ -3,6 +3,7 @@ title = "In the Hands of Perfection"
 date = "2009-01-29T20:02:00+00:00"
 slug = "in-the-hands-of-perfection"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

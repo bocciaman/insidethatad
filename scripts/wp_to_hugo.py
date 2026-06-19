@@ -268,8 +268,21 @@ def convert(xml_path, output_dir):
         if img_match:
             featured_img = fix_image_urls(img_match.group(1))
 
-        # Also check _thumbnail_id meta for attachment
-        # (would need second pass; skip for now)
+        # Extract agency and brand/client from raw content
+        def extract_field(pattern, text):
+            m = re.search(pattern, text, re.IGNORECASE)
+            if m:
+                val = re.sub(r"<[^>]+>", "", m.group(1)).strip().strip("*").strip()
+                val = html.unescape(val)
+                return val[:100] if val else ""
+            return ""
+
+        # Match "Agency: Name" — stop at line end, em-dash, or asterisks
+        agency = (
+            extract_field(r'\*{0,2}(?:advertising )?[Aa]gency\*{0,2}\s*:\s*\*{0,2}([^—\n\r<\[*]{2,60}?)(?:\s*[—\n]|$)', raw_content)
+            or "Unknown"
+        )
+        brand = extract_field(r'\*{0,2}(?:[Cc]lient|[Bb]rand)\*{0,2}\s*:\s*\*{0,2}([^—\n\r<\[*]{2,60}?)(?:\s*[—\n]|$)', raw_content)
 
         is_draft = status == "draft"
 
@@ -294,6 +307,11 @@ def convert(xml_path, output_dir):
         if excerpt:
             safe_excerpt = excerpt.replace('"', '\\"')[:200]
             fm_lines.append(f'description = "{safe_excerpt}"')
+        safe_agency = agency.replace("\\", "\\\\").replace('"', '\\"')
+        safe_brand = brand.replace("\\", "\\\\").replace('"', '\\"') if brand else ""
+        fm_lines.append(f'agency = "{safe_agency}"')
+        if safe_brand:
+            fm_lines.append(f'brand = "{safe_brand}"')
         fm_lines.append(f'[cover]')
         fm_lines.append(f'  image = "{featured_img}"')
         fm_lines.append("+++")

@@ -4,6 +4,7 @@ date = "2013-03-26T14:50:59+00:00"
 slug = "droga5s-recalling-1993-project-turns-nyc-pay-phones-into-geo-located-time-capsules"
 categories = ["Advertising", "Campaigns", "Out of Home"]
 tags = ["Agency", "Creative", "Droga5", "New Museum", "out of home"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

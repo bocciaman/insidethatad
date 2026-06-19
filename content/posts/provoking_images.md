@@ -4,6 +4,7 @@ date = "2015-06-19T02:27:37+00:00"
 slug = "provoking_images"
 categories = ["Creative", "Magazine"]
 tags = ["Creative", "images", "news", "Saudi Arabia"]
+agency = "Unknown"
 [cover]
   image = "/img/2015/06/IMG_1844.jpg"
 +++

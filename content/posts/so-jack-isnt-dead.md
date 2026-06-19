@@ -3,6 +3,7 @@ title = "So Jack Isn't Dead?"
 date = "2009-03-06T00:39:00+00:00"
 slug = "so-jack-isnt-dead"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

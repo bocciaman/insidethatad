@@ -4,6 +4,7 @@ date = "2013-07-04T11:58:54+00:00"
 slug = "the-corporate-states-of-america-a-map-that-shows-each-states-most-famous-brand"
 categories = ["Creative"]
 tags = ["BRANDS", "Creative"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/07/brand-map-hed-2013.jpg"
 +++

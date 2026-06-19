@@ -4,6 +4,7 @@ date = "2018-02-25T21:31:57+00:00"
 slug = "ita-trailer-annihilation"
 categories = ["Advertising", "movies", "TV spot"]
 tags = ["advertising", "entertainment", "film", "movie", "trailer"]
+agency = "Unknown"
 [cover]
   image = "/img/2018/02/AnnihilationPoster.jpeg"
 +++

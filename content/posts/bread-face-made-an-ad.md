@@ -4,6 +4,7 @@ date = "2017-10-31T09:00:08+00:00"
 slug = "bread-face-made-an-ad"
 categories = ["Advertising", "Creative"]
 tags = ["advertising", "bread", "Creative", "jewelry", "mashing"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/10/mashed-face.png"
 +++

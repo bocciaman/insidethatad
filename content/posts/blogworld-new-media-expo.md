@@ -3,6 +3,7 @@ title = "BlogWorld &amp; New Media Expo"
 date = "2011-11-13T05:59:00+00:00"
 slug = "blogworld-new-media-expo"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://3.bp.blogspot.com/-YAaIFNzVZfI/Tr9c_286NxI/AAAAAAAAAUk/s0kdqQzTYbo/s400/Screen+shot+2011-11-12+at+9.55.32+PM.png"
 +++

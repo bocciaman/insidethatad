@@ -4,6 +4,7 @@ date = "2019-04-21T17:59:41+00:00"
 slug = "pitvertising-armpit-ad-display-marketing"
 categories = ["Advertising", "Creative"]
 tags = ["deodorant", "Pitvertising", "Right Guard", "stunt marketing"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

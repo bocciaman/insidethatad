@@ -3,6 +3,7 @@ title = "The Real Wendy Thomas"
 date = "2010-11-13T23:42:00+00:00"
 slug = "the-real-wendy-thomas"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

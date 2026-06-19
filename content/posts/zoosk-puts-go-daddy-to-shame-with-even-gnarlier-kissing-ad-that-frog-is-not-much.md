@@ -4,6 +4,7 @@ date = "2013-02-18T19:56:27+00:00"
 slug = "zoosk-puts-go-daddy-to-shame-with-even-gnarlier-kissing-ad-that-frog-is-not-much-of-a-prince"
 categories = ["Creative", "TV spot"]
 tags = ["Animals", "dating sites", "Zoosk"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/02/Screen-Shot-2013-02-18-at-11.49.22-AM.png"
 +++

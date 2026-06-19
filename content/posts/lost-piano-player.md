@@ -3,6 +3,7 @@ title = "Lost Piano Player"
 date = "2010-03-15T06:23:00+00:00"
 slug = "lost-piano-player"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

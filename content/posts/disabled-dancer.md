@@ -3,6 +3,7 @@ title = "Disabled Dancer"
 date = "2009-03-12T22:38:00+00:00"
 slug = "disabled-dancer"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Samsung-Apple Throw Down"
 date = "2012-09-24T15:00:00+00:00"
 slug = "samsung-apple-throw-down"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

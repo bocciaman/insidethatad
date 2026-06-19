@@ -3,6 +3,7 @@ title = "Vandals Turned Photoshopers"
 date = "2009-01-18T02:57:00+00:00"
 slug = "vandals-turned-photoshopers"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/SXKcvF7KQ2I/AAAAAAAAACg/WTVk4dkgg-U/s400/adfreak.jpg"
 +++

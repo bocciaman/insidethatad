@@ -3,6 +3,7 @@ title = "A 30-Second Mr. Brooks"
 date = "2009-02-16T21:08:00+00:00"
 slug = "a-30-second-mr-brooks"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Phil Shifley, Guy Who Faked His Own Death for DirecTV, Pops Up on Faceb
 date = "2012-06-19T03:11:00+00:00"
 slug = "phil-shifley-guy-who-faked-his-own-death-for-directv-pops-up-on-facebook-find-out-where-he-is-and-win-bragging-rights"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://www.adweek.com/files/imagecache/node-blog/blogs/directv-3.jpg"
 +++

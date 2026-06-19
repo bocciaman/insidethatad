@@ -4,6 +4,7 @@ date = "2020-05-31T17:28:19+00:00"
 slug = "thank-you-textexpander"
 categories = ["Sponsors"]
 tags = ["advertising", "affiliate marketing", "marketing"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

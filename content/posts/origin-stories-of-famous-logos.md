@@ -4,6 +4,7 @@ date = "2019-04-07T19:05:11+00:00"
 slug = "origin-stories-of-famous-logos"
 categories = ["Art", "Logo"]
 tags = ["burberry", "locloste", "logo", "nike", "origin"]
+agency = "Unknown"
 [cover]
   image = "/img/2019/03/Screen-Shot-2019-03-31-at-1.46.05-PM-300x196.png"
 +++

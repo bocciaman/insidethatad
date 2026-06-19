@@ -4,6 +4,7 @@ date = "2013-02-24T05:31:33+00:00"
 slug = "ass-models-have-arrived"
 categories = ["Creative", "Out of Home"]
 tags = ["ads", "models", "out of home"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/02/assvertisingitalia.jpg"
 +++

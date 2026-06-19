@@ -4,6 +4,7 @@ date = "2022-04-02T23:52:03+00:00"
 slug = "ramadan-is-upon-us"
 categories = ["marketing", "Print"]
 tags = ["marketing list", "postcard", "Ramadan"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

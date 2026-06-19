@@ -3,6 +3,7 @@ title = "Heads Roll in Spartacus"
 date = "2013-01-29T09:04:00+00:00"
 slug = "heads-roll-in-spartacus"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/-MyeVr6-YZBU/UQeQXYHGpdI/AAAAAAAAAi4/Z4BScUyIhHU/s1600/Sparticus.jpg"
 +++

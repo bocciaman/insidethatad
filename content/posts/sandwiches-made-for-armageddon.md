@@ -3,6 +3,7 @@ title = "Sandwiches Made for Armageddon"
 date = "2010-07-28T08:13:00+00:00"
 slug = "sandwiches-made-for-armageddon"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/TEx6DgflVhI/AAAAAAAAAMo/HVrBrQ0E6l0/s320/candwich.jpg"
 +++

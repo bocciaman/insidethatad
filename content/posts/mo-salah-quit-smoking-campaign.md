@@ -4,6 +4,7 @@ date = "2019-06-07T16:08:10+00:00"
 slug = "mo-salah-quit-smoking-campaign"
 draft = true
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -3,6 +3,7 @@ title = "PC, Fighting The Good Fight"
 date = "2009-04-14T23:20:00+00:00"
 slug = "pc-fighting-the-good-fight"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

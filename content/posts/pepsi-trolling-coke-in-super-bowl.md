@@ -5,6 +5,7 @@ slug = "pepsi-trolling-coke-in-super-bowl"
 categories = ["Advertising", "agencies", "Campaigns", "Creative", "Super Bowl", "TV spot"]
 tags = ["Andy Warhol", "Atlanta", "coke", "football", "inside that ad", "Pepsi", "Super Bowl", "tv commercial", "tv spot", "Wieden and Kennedy"]
 description = "Pepsi is trolling Coke because they are on Coke’s home turf while they are the main sponsor for the NFL in Coke’s home city. Pepsi is demonstrating its cleverness via 350 ads on billboards, recycling "
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

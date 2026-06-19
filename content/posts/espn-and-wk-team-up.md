@@ -3,6 +3,7 @@ title = "ESPN and W+K Team Up"
 date = "2010-09-13T00:10:00+00:00"
 slug = "espn-and-wk-team-up"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2019-02-03T09:15:08+00:00"
 slug = "2019-inside-that-ads-super-bowl-central"
 categories = ["Advertising", "agencies", "Super Bowl", "TV Commercials", "TV spot"]
 tags = ["ad agencies", "BRANDS", "commercials", "inside that ad", "Super Bowl"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

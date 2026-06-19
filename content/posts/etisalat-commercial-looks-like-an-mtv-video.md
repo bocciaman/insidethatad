@@ -4,6 +4,7 @@ date = "2019-05-30T17:04:57+00:00"
 slug = "etisalat-commercial-looks-like-an-mtv-video"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["calling card", "Etisalat", "music video", "Ramadan", "Van Damme"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

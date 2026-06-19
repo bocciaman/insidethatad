@@ -4,6 +4,7 @@ date = "2021-11-09T11:09:24+00:00"
 slug = "photoshopped-ads-for-fun"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["ad agency", "ads", "baseball", "funny", "social media"]
+agency = "Unknown"
 [cover]
   image = "/img/2021/11/baseball-joke-1-286x300.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Windows 7 Phone, Really"
 date = "2010-11-07T18:54:00+00:00"
 slug = "windows-7-phone-really"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

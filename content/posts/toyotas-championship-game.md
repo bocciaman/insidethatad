@@ -4,6 +4,7 @@ date = "2017-01-09T00:19:41+00:00"
 slug = "toyotas-championship-game"
 categories = ["Advertising", "Campaigns", "Creative"]
 tags = ["ad agency", "advertising", "campaign", "sportsmanship", "toyota"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/01/Screen-Shot-2017-01-09-at-12.14.52-AM.png"
 +++

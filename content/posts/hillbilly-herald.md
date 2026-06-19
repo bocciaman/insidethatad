@@ -3,6 +3,7 @@ title = "Hillbilly Herald"
 date = "2009-01-09T07:20:00+00:00"
 slug = "hillbilly-herald"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

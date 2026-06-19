@@ -3,6 +3,7 @@ title = "BO, Disgusting yet Funny"
 date = "2009-05-05T18:08:00+00:00"
 slug = "bo-disgusting-yet-funny"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2014-04-25T07:40:56+00:00"
 slug = "type-art-by-phreshsoldier"
 categories = ["Art", "Creative"]
 tags = ["art", "Creative", "Jordan", "PhreshSoldier"]
+agency = "Unknown"
 [cover]
   image = "/img/2014/04/michael_jordan_typeface_by_phreshsoldier-d2zejma.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Another Condom Ad, or is it?"
 date = "2009-04-11T00:28:00+00:00"
 slug = "another-condom-ad-or-is-it"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://1.bp.blogspot.com/_ZrvRLk7aCg4/Sd_kyFpf2gI/AAAAAAAAAII/R8w5byWiHlU/s320/swimsuit.jpg"
 +++

@@ -3,6 +3,7 @@ title = "Spook Recruitment Ads"
 date = "2009-03-26T19:40:00+00:00"
 slug = "spook-recruitment-ads"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/ScvaXhOHFJI/AAAAAAAAAHA/B60QjjF8ovQ/s320/cia-ad032409.jpg"
 +++

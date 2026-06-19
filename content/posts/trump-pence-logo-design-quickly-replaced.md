@@ -4,6 +4,7 @@ date = "2016-08-03T22:49:37+00:00"
 slug = "trump-pence-logo-design-quickly-replaced"
 categories = ["Advertising", "Campaigns", "Creative", "Logo"]
 tags = ["advertising", "CAMPAIGNS", "logo", "pence", "trump"]
+agency = "Unknown"
 [cover]
   image = "/img/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png"
 +++

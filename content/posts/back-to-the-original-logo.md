@@ -3,6 +3,7 @@ title = "Back to the Original, Logo"
 date = "2010-10-19T06:25:00+00:00"
 slug = "back-to-the-original-logo"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://2.bp.blogspot.com/_ZrvRLk7aCg4/TL05rDKOqmI/AAAAAAAAAPk/SKjprmph2zc/s320/Gap+Logos2.jpg"
 +++

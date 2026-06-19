@@ -4,6 +4,7 @@ date = "2022-03-18T21:29:54+00:00"
 slug = "an-alexa-for-the-middle-east"
 categories = ["marketing", "video"]
 tags = ["Alexa", "Amazon", "middle east"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

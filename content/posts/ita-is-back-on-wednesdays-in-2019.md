@@ -4,6 +4,7 @@ date = "2019-01-01T22:07:21+00:00"
 slug = "ita-is-back-on-wednesdays-in-2019"
 categories = ["marketing"]
 tags = ["audience", "ITA", "money", "new year", "no revenue", "no traffic", "regular post schedule"]
+agency = "Unknown"
 [cover]
   image = "/img/2019/01/Logo_ITA_Logo-is-back.png"
 +++

@@ -3,6 +3,7 @@ title = "High on Religion"
 date = "2009-06-21T00:48:00+00:00"
 slug = "high-on-religion"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/Sj2J0YcPv-I/AAAAAAAAAJw/z2Of2dJyKdc/s320/church.jpg"
 +++

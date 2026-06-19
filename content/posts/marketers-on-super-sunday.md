@@ -3,6 +3,7 @@ title = "Marketers on Super Sunday"
 date = "2009-01-08T00:43:00+00:00"
 slug = "marketers-on-super-sunday"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

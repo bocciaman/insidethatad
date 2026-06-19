@@ -4,6 +4,7 @@ date = "2015-06-09T08:50:19+00:00"
 slug = "ita-getting-into-movie-trailers"
 categories = ["Advertising", "Art", "movies"]
 tags = ["advertising", "art", "Creative", "movie", "trailer"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

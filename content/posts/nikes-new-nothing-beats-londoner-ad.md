@@ -4,6 +4,7 @@ date = "2018-02-20T09:00:35+00:00"
 slug = "nikes-new-nothing-beats-londoner-ad"
 categories = ["Advertising", "agencies", "marketing", "TV spot"]
 tags = ["camera work", "commercials", "football", "london", "memorable", "nike", "wk london"]
+agency = "Unknown"
 [cover]
   image = "/img/2018/02/nothing-beats-a-londoner-hed-2018.jpg"
 +++

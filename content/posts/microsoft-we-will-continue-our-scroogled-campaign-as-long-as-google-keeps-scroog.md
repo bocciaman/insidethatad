@@ -4,6 +4,7 @@ date = "2013-03-05T06:53:54+00:00"
 slug = "microsoft-we-will-continue-our-scroogled-campaign-as-long-as-google-keeps-scroogling-people"
 categories = ["Creative", "online advertising"]
 tags = ["google", "Microsoft", "scroogled"]
+agency = "Unknown"
 [cover]
   image = "/img/2013/03/scroogled.png"
 +++

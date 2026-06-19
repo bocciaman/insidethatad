@@ -3,6 +3,7 @@ title = "Life After ‘The Pitch’: A Convo (Barely) with Conversation’s Foun
 date = "2012-06-16T15:57:00+00:00"
 slug = "life-after-the-pitch-a-convo-barely-with-conversations-founder"
 categories = ["Uncategorized"]
+agency = "Unknown"
 [cover]
   image = "http://www.mediabistro.com/agencyspy/files/2012/06/popchips.jpg"
 +++

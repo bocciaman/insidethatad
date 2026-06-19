@@ -4,6 +4,7 @@ date = "2017-10-24T09:00:42+00:00"
 slug = "burger-king-reveals-the-uncomfortable-truth-about-bullying-in-a-remarkable-in-store-stunt"
 categories = ["Advertising", "Campaigns"]
 tags = ["advertising", "Bullying", "Burger King", "store", "Truth"]
+agency = "Unknown"
 [cover]
   image = "/img/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png"
 +++

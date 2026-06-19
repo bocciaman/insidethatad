@@ -4,6 +4,7 @@ date = "2015-07-15T22:48:40+00:00"
 slug = "some-of-the-most-patriotic-ads"
 categories = ["Advertising", "agencies", "Art", "Creative"]
 tags = ["4th of July", "advertising", "America", "Patriotic", "tardy"]
+agency = "Unknown"
 [cover]
   image = "/img/2015/07/flag-grab.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2017-10-27T09:00:13+00:00"
 slug = "flashy-first-ad-xbox-one-x-wants-feel-4k-consoles-true-power"
 categories = ["Advertising", "agencies", "Campaigns"]
 tags = ["4k", "advertising", "first", "spot", "xbox one"]
+agency = "Ayzenberg"
 [cover]
   image = "/img/2017/10/xbox-one-x-hed-2017.jpg"
 +++

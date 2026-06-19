@@ -4,6 +4,7 @@ date = "2015-06-08T00:38:36+00:00"
 slug = "what-happened-to-agencycompile-com"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["advertising", "advertising research", "Agency", "Creative", "job search", "jobs", "research", "resource"]
+agency = "Unknown"
 [cover]
   image = "/img/2015/06/AgencyCompile.jpg"
 +++

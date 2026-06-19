@@ -4,6 +4,7 @@ date = "2014-07-04T07:56:44+00:00"
 slug = "the-friend-coke-campaign"
 categories = ["Art"]
 tags = ["ad creative", "coke", "friend"]
+agency = "Unknown"
 [cover]
   image = "/img/2014/07/FriendsOCoke_MyAd.jpg"
 +++

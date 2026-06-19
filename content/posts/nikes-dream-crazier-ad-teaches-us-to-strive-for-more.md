@@ -4,6 +4,7 @@ date = "2019-02-27T23:37:36+00:00"
 slug = "nikes-dream-crazier-ad-teaches-us-to-strive-for-more"
 categories = ["Advertising", "Campaigns", "Creative"]
 tags = ["emotion", "nike", "sports", "women"]
+agency = "Unknown"
 [cover]
   image = "/img/default-post.jpg"
 +++

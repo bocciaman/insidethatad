@@ -324,10 +324,16 @@ def convert(xml_path, output_dir):
             rf'(?:advertising\s+)?[Aa]gency\s*:\s*({STOP}){CREDIT_STOP}',
             # "Ad Agency:" prefix
             rf'[Aa]d\s+[Aa]gency\s*:\s*({STOP}){CREDIT_STOP}',
+            # "comes to us courtesy of Agency" / "spot courtesy of Agency"
+            rf'(?:comes?\s+to\s+us|spot|ad|commercial|campaign)\s+(?:is\s+)?courtesy\s+of\s+([A-Z][A-Za-z0-9&/\+\s\,\.\-]{3,55}?)(?:\.|,\s+[a-z]|\s+and\s+|\s*$)',
+            # "created by / produced by / made by Agency for Brand"
+            rf'(?:created|produced|made)\s+by\s+([A-Z][A-Za-z0-9&/\+\s\,\.\-]{3,50}?)\s+for\s+[A-Z]',
+            # "from Agency, the creative team" / "from Agency."
+            rf'from\s+([A-Z][A-Za-z0-9&/\+\s\-]{3,50}?)\s*[,\.]',
             # "appointed X as [its/new] agency/AOR"
             rf"appointed\s+([A-Z][A-Za-z0-9&\+\s\-]{{3,50}}?)\s+as\s+(?:its\s+)?(?:new\s+)?(?:advertising\s+)?(?:agency|AOR)",
             # Well-known agency names anywhere in the article
-            r'(Wieden\s*\+\s*Kennedy|TBWA|DDB\b|BBDO\b|McCann\s+\w+|Ogilvy(?:\s+\w+)?|Saatchi\s*&\s*Saatchi|Leo\s+Burnett|JWT\b|Grey\s+Global|FCB\b|R/GA|72andSunny|Droga5|CP\+B|Crispin\s+Porter|Arnold\s+Worldwide|Deutsch\b|Goodby\s+Silverstein|Young\s*&\s*Rubicam|Havas\s+\w+|Publicis\s+\w+|Anomaly\b|Innocean\b)',
+            r'(Wieden\s*\+\s*Kennedy|Commonwealth/McCann|TBWA|DDB\b|BBDO\b|McCann\s+\w+|Ogilvy(?:\s+\w+)?|Saatchi\s*&\s*Saatchi|Leo\s+Burnett|JWT\b|Grey\s+Global|FCB\b|R/GA|72andSunny|Droga5|CP\+B|Crispin\s+Porter|Arnold\s+Worldwide|Deutsch\b|Goodby\s+Silverstein|Young\s*&\s*Rubicam|Havas\s+\w+|Publicis\s+\w+|Anomaly\b|Innocean\b)',
         ]
         agency = "Unknown"
         for pat in agency_patterns:
@@ -336,6 +342,8 @@ def convert(xml_path, output_dir):
                 val = val.split('\n')[0].split('\r')[0]
                 # Cut off at navigation words that signal prose ran on
                 val = re.split(r'\s+(?:Read\s+more|Best,\s+-|Speak\s+on|E-Trade)', val, flags=re.IGNORECASE)[0]
+                # Strip trailing article words: "The", "A", "An", "This" etc.
+                val = re.sub(r'\s+(?:The|A|An|This|That|In|On|At|By|Is|Was|For|And)\s*$', '', val, flags=re.IGNORECASE)
                 val = re.sub(r'[\.,\s]+$', '', val).strip()
                 # Skip clear false positives
                 if re.search(r'\b(came|said|told|which|that|this|with|from|their|have|been|also|were|when|Here\s+it|obviously|Unknown)\b', val, re.IGNORECASE):

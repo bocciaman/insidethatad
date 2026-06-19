@@ -123,6 +123,52 @@ a:hover {
   margin: 1em auto;
 }
 
+/* ── Nav dropdown ── */
+.menu__item--dropdown {
+  position: relative;
+}
+
+.menu__arrow {
+  font-size: 0.6em;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+
+.menu__dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #1a1a1a;
+  border-top: 2px solid #c0392b;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 160px;
+  z-index: 100;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
+
+.menu__item--dropdown:hover .menu__dropdown {
+  display: block;
+}
+
+.menu__dropdown-link {
+  display: block;
+  padding: 10px 16px;
+  color: #ccc;
+  text-decoration: none;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+
+.menu__dropdown-link:hover {
+  background-color: #c0392b;
+  color: #fff;
+}
+
 /* ── Tag cloud: compact and capped ── */
 .widget-taglist .widget__content {
   display: flex;

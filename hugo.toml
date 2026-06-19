@@ -40,9 +40,35 @@ summaryLength = 70
     url = "/submit-an-ad/"
     weight = 2
   [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+    [menu.main.params]
+      dropdown = true
+  [[menu.main]]
+    name = "Advertising"
+    url = "/categories/advertising/"
+    weight = 1
+    parent = "Categories"
+  [[menu.main]]
+    name = "Campaigns"
+    url = "/categories/campaigns/"
+    weight = 2
+    parent = "Categories"
+  [[menu.main]]
+    name = "Art"
+    url = "/categories/art/"
+    weight = 3
+    parent = "Categories"
+  [[menu.main]]
+    name = "TV Commercials"
+    url = "/categories/tv-commercials/"
+    weight = 4
+    parent = "Categories"
+  [[menu.main]]
     name = "Contact Me"
     url = "/contact-me/"
-    weight = 3
+    weight = 4
 
 [taxonomies]
   category = "categories"

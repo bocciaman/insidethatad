@@ -3,6 +3,8 @@ title = "Saints \"Voodoo\" Direct TV Spot"
 date = "2010-09-04T05:20:00+00:00"
 slug = "saints-voodoo-direct-tv-spot"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Direct TV has taken their NFL Sunday ticket commercials to new heights with this Voodoo practicing Saints fan in the spot above.   In the spot, the Saints fan torture a rival Atlanta Falcons supporter using a voodoo doll. What heinous crime has the Falcons fan’s only crime, you ask? He purchased a Direct TV package that will allow him to watch his team regardless of where he lives.

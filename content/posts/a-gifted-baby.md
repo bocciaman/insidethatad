@@ -3,6 +3,8 @@ title = "A Gifted Baby"
 date = "2009-01-02T23:01:00+00:00"
 slug = "a-gifted-baby"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I would first like to give you a short road map of what I'm going to share with you in my blog. I am going to share with you my insights on interesting advertising. We'll talk about what was creative about a particular message, what wasn't, and did the message resonate with its intended audience. Finally, did it accomplish its goal of standing out among the millions of ads that people see everyday. I hope that after reading this blog you feel at least a little more knowledgeable about quality advertising. But please also remember that these are simply my opinions. It is up to you to form your own opinions about what is good and not so good.

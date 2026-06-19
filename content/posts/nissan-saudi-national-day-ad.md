@@ -4,6 +4,8 @@ date = "2019-09-22T14:01:45+00:00"
 slug = "nissan-saudi-national-day-ad"
 categories = ["Advertising", "Art"]
 tags = ["Ad", "National Day", "Nissan", "Saudi"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

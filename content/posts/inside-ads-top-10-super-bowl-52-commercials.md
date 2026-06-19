@@ -5,10 +5,10 @@ slug = "inside-ads-top-10-super-bowl-52-commercials"
 categories = ["Advertising", "agencies", "Sports", "Super Bowl", "TV spot"]
 tags = ["advertising", "ispot", "nfl", "spots", "Super Bowl", "touchdown"]
 [cover]
-  image = "/uploads/2018/02/ITA-Super-Bowl.jpg"
+  image = "/img/2018/02/ITA-Super-Bowl.jpg"
 +++
 
-[![](/uploads/2018/02/ITA-Super-Bowl.jpg)](/uploads/2018/02/ITA-Super-Bowl.jpg)
+[![](/img/2018/02/ITA-Super-Bowl.jpg)](/img/2018/02/ITA-Super-Bowl.jpg)
 
 I never shared my top commercials from the 2018 Super Bowl. I had to do it after the game because I was actually crying when the Patriots lost. Therefore, without further ado here my top 10 favorite commercials from Super Bowl LII. Oh yeah, and make sure you read this article through, all the way to the end to get to the #1 commercial! Please enjoy the ads that we thought were creme dela creme.
 

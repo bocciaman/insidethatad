@@ -5,10 +5,10 @@ slug = "what-happened-to-agencycompile-com"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["advertising", "advertising research", "Agency", "Creative", "job search", "jobs", "research", "resource"]
 [cover]
-  image = "/uploads/2015/06/AgencyCompile.jpg"
+  image = "/img/2015/06/AgencyCompile.jpg"
 +++
 
-[![AgencyCompile](/uploads/2015/06/AgencyCompile.jpg)](/uploads/2015/06/AgencyCompile.jpg)[Agencycompile.com](http://Agencycompile.com) has changed significantly since the last time I tried to use it seriously back when I was living in Boston. I wanted to ask the community out there, why this change happened? What you guys think about it? Do you guys the site got better or worse since making the transformation?
+[![AgencyCompile](/img/2015/06/AgencyCompile.jpg)](/img/2015/06/AgencyCompile.jpg)[Agencycompile.com](http://Agencycompile.com) has changed significantly since the last time I tried to use it seriously back when I was living in Boston. I wanted to ask the community out there, why this change happened? What you guys think about it? Do you guys the site got better or worse since making the transformation?
 
 I remember it as being a simple website, with a plain look, feel and login that was very appealing to me. That appeal stemmed from knowing of a site where I can look up agencies based on size, specialty, billing ranges and most importantly to me location so that I can submit my resume to open positions. Now, the site doesn't appear to be so simple to navigate through. It has so many sections and functioned very poorly while I was trying to use it in Google Chrome that I'm surprised no one else has complained. Furthermore, I submitted another registration form and tried to contact some sort of support department because I wasn't getting the confirmation email to complete the registration to allow me to use the site but I haven't heard anything back. Has anyone else experienced the same type of problem?
 

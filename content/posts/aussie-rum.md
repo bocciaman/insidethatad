@@ -3,6 +3,8 @@ title = "Aussie Rum"
 date = "2010-10-30T05:26:00+00:00"
 slug = "aussie-rum"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Another weird commercial comes out of Australia.  But this time the advertiser is Bundaberg Rum.  The first weird Aussie spot I discuss was in a post titled [Dirty, Dirty Dishes](http://www.insidethatad.net/2010/09/dirty-dirty-dishes.html). In the spot in this post, a crew of sugar millers from the 19th centaury begin to heckle a modern day golfer because he chooses to shoot around the gigantic crocodile sitting in the middle of the green.

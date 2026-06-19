@@ -4,6 +4,8 @@ date = "2013-03-26T16:25:55+00:00"
 slug = "theyre-done-hes-not"
 categories = ["Advertising", "Creative", "TV spot"]
 tags = ["dexter", "trailor", "TV"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

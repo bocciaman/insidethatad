@@ -5,7 +5,7 @@ slug = "gillette-commercial-me-too"
 categories = ["Advertising", "agencies", "short films"]
 tags = ["AOR Grey bullying", "campaign", "commercial", "Gillette", "manly", "me too", "PSA", "we believe"]
 [cover]
-  image = "/uploads/2019/01/gillete-blog-post.png"
+  image = "/img/2019/01/gillete-blog-post.png"
 +++
 
 Hello
@@ -13,7 +13,7 @@ World,
 
 A few days ago I saw a Gillette commercial that I thought was about bullying at first glance. And it was, but the topic that the commercial really focused on was the #[me too movement](https://metoomvmt.org) that we all must be conscious of in a time sexual harassment and bullying is more out in the open. But grabbed my attention is that they incorporated the within the ‘The Best a Man Can Get’ campaign which has turned 30 this year.
 
-![](/uploads/2019/01/gillete-blog-post.png)
+![](/img/2019/01/gillete-blog-post.png)
 
 “The
 Best a Man Can Get” during Super Bowl XXIII in 1989 with a BBDO campaign promoting

@@ -3,6 +3,8 @@ title = "Empower Network: Is it a scam?"
 date = "2012-06-30T01:31:00+00:00"
 slug = "empower-network-is-it-a-scam"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Normal.dotm  0  0  1  127  729  Anwar & Co.  6  1  895  12.0        0  false      18 pt  18 pt  0  0    false  false  false                        

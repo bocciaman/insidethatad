@@ -3,6 +3,8 @@ title = "The Death Spot"
 date = "2010-09-14T17:28:00+00:00"
 slug = "the-death-spot"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I saw the spot above on [Adfreak](http://www.adfreak.com) and had to talk about it here because I have never seen an ad promoting euthanasia before. Now, the first thing you should know is that euthanasia is illegal in Australia, where the spot aired.

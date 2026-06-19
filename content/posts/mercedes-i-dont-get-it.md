@@ -3,6 +3,8 @@ title = "Mercedes, I Don't Get It"
 date = "2009-05-04T18:30:00+00:00"
 slug = "mercedes-i-dont-get-it"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I saw this [Mercedes Benz](http://insidethatad.blogspot.com/www.MBUSA.com) spot on one of my favorite ad blogs (besides this one of course) but I don’t get it. The main scene focuses on the car, driving at night, from the point of view of the headlights. Then the car makes a stop in the road to kick out these monsters that appear in your dreams (or did they mean nightmares). My point is, what were they trying to say with this spot?

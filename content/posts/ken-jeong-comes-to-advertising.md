@@ -3,6 +3,8 @@ title = "Ken Jeong Comes to Advertising"
 date = "2010-11-02T02:37:00+00:00"
 slug = "ken-jeong-comes-to-advertising"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [Ken Jeong](http://en.wikipedia.org/wiki/Slim_Chin), better known Leslie Chow from the extremely funny movie “The Hangover” now tries to conquer the advertising world. In the spot above he is featured in the new Adidas commercial with NBA superstar Dwight Howard. They are promoting “The Beast” the footwear giant’s new high-top sneakers. I had to blog about this spot because of the Slim Chin character Dr. Jeong brought to life in the spot.

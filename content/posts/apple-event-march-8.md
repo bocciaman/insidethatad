@@ -6,7 +6,7 @@ categories = ["Art", "Creative", "Logo"]
 tags = ["Apple", "art", "campaign", "event", "imac", "iphone"]
 description = "Yesterday Apple announced its first event of 2022, set to take place next Tuesday, March 8th, 2022. Featuring the tagline \"Peek Performance.\" Along with a newly designed image for the event, a set o"
 [cover]
-  image = "/uploads/2022/03/Apple-Event-logo.png"
+  image = "/img/2022/03/Apple-Event-logo.png"
 +++
 
 Yesterday Apple announced its first event of 2022, set to take place next Tuesday, March 8th, 2022. Featuring the tagline "Peek Performance." Along with a newly designed image for the event, a set of nested Apple icons in yellow, orange, red, pink, and purple shades. And no, that's not a typo: instead of "peak performance," which would mean something along the lines of "max performance," Apple is opting for "peek performance." This seemingly means that we'll get a "quick or furtive" look at some sort of performance technology. The video below will be an active YouTube link once the event starts streaming on Monday. 
@@ -29,7 +29,7 @@ If you want to hear more about the event itself, check out the video below.
 
 I couldn't understand what the AR view versus the object view on my iPhone should look like. As you can see below. The AR view simply shows what’s in front of my iPhone.
 
-![IMG 5247](/uploads/2022/03/Apple-Event-logo.png)
+![IMG 5247](/img/2022/03/Apple-Event-logo.png)
 
 I haven’t yet seen any good guesses as to what the colorful graphic design could represent or who even designed it. The colors could represent new iPhone or iPad colors that are coming in the pipeline but nothing as to how the event image was conceived. I did read that the [9to5 blog designed a version of their logo](https://cottonbureau.com/people/9to5mac) based on the event logo to sell on a t-shirt. I think I may actually purchase one. Are you all going to purchase one? If you do, let me know down in the comment section below.
 

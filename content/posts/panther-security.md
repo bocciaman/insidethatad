@@ -3,6 +3,8 @@ title = "Panther Security"
 date = "2012-03-02T06:52:00+00:00"
 slug = "panther-security"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Normal.dotm  0  0  1  71  407  Anwar & Co.  3  1  499  12.0        0  false      18 pt  18 pt  0  0    false  false  false                        

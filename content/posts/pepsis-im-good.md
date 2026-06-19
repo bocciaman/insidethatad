@@ -3,6 +3,8 @@ title = "Pepsi’s I’m Good"
 date = "2009-04-28T22:37:00+00:00"
 slug = "pepsis-im-good"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I saw the above Pepsi Max spot during last night’s Laker game against the Jazz and must admit I fell out of my chair because of laughing so hard. The ad is more of a slapstick comedy routine versus true promotion of a product. Several guys from the commercial would have severe brain damage if the ad was “real.” I should probably feel bad for finding humor in grown men hurting themselves and then quickly proclaiming, “I’m good.” But doesn’t our culture condone watching people hurt themselves for our amusement? I mean that why the ad above is so funny, right?

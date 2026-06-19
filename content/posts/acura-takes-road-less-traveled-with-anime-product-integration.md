@@ -4,6 +4,8 @@ date = "2022-03-11T09:00:54+00:00"
 slug = "acura-takes-road-less-traveled-with-anime-product-integration"
 categories = ["product intgration", "short films"]
 tags = ["Acura", "Anime", "car culture", "performance vehicals", "product placement"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Acura is taking the “road less traveled"d by venturing into product integration with its new Anime series promoting its luxury performance cars and the reborn Type S badge. On January 20th of this year, the brand launched Chiaki's Journey, a four-part anime series that follows an up-and-coming driver named Chiaki and her wise uncle Noboru. All the while Acura’s lineup of present and future cars are taking center stage in this anime world of car racing.

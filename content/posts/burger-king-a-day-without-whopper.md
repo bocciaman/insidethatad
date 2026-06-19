@@ -4,6 +4,8 @@ date = "2019-09-28T19:38:49+00:00"
 slug = "burger-king-a-day-without-whopper"
 categories = ["Advertising", "Campaigns"]
 tags = ["Burger King", "charity", "competitors", "McDonald's"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 If Burger King and McDonald's can work together on a humanitarian ad campaign, why can't the rest of the world? If you're a fan of burgers, it's no surprise that the competitors are often guilty of throwing serious shade towards one another in front of millions of eyeballs but for just one day they are working in unison for a common goal.

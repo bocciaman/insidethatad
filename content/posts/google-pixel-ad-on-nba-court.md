@@ -4,6 +4,8 @@ date = "2022-04-18T13:49:00+00:00"
 slug = "google-pixel-ad-on-nba-court"
 categories = ["Advertising", "Out of Home"]
 tags = ["advertising", "court", "google", "NBA", "subliminal"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 During the Bucks and Bulls NBA playoff game 1 I swear I saw Google Pixel ad flashing on the court itself? Could they be engaging in subliminal advertising? A subliminal message is a message that is meant to sort of ‘slip past your mental radar’ and embed itself deep into your subconscious mind. The word itself refers to the fact that this message should pass below (that is, sub) your normal perception, underneath its limits – therefore being liminal.

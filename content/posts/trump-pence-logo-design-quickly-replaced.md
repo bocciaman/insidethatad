@@ -5,18 +5,18 @@ slug = "trump-pence-logo-design-quickly-replaced"
 categories = ["Advertising", "Campaigns", "Creative", "Logo"]
 tags = ["advertising", "CAMPAIGNS", "logo", "pence", "trump"]
 [cover]
-  image = "/uploads/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png"
+  image = "/img/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png"
 +++
 
 Friday, July 15th, the Republican Presidential candidate Donald Trump got a new running mate and a new campaign logo. The first version of the logo received so much ridicule online and otherwise that it was quickly replaced. Take a look at version one, no wonder people thought "Hey, that logo is NSFW (Not Suitable for Work).
 
-[![Trump-Pence-logo](/uploads/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png)](/uploads/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png) First Trump-Pence logo
+[![Trump-Pence-logo](/img/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png)](/img/2016/07/Screen-Shot-2016-07-31-at-5.30.14-AM.png) First Trump-Pence logo
 
 Trump puts a square peg in a round hole with Pence. The logo comes from joint fundraising committee in the Republican National Convention (RNC). In my opinion, most people thought the TP stands for "Toilet Paper." And of course the T going into the P, well that just didn't leave anything for the imagination, so let the ridicule begin. People of course thought about anal sex, shit, ass wiping and and how much they dislike the candidate.
 
 The logo of course got so much ridicule that it was quickly changed. The new logo now focuses on text rather than trying to develop letters that fit together again. See how boring the new logo is.
 
-[![TrumpLogo_v2](/uploads/2016/07/Screen-Shot-2016-07-31-at-5.30.43-AM.png)](/uploads/2016/07/Screen-Shot-2016-07-31-at-5.30.43-AM.png)
+[![TrumpLogo_v2](/img/2016/07/Screen-Shot-2016-07-31-at-5.30.43-AM.png)](/img/2016/07/Screen-Shot-2016-07-31-at-5.30.43-AM.png)
 
 The logo makes no attempt at a creative graphic whatsoever. It is simply three lines of text, designed by someone who is afraid of being criticized by an entire nation. Let's face it whoever designed the logo for the Trump campaign had no experience in design. This is why organizations pay big money to reputable design firms for their creative work that will be visible to millions of people.
 

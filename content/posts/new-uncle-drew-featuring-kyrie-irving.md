@@ -5,10 +5,10 @@ slug = "new-uncle-drew-featuring-kyrie-irving"
 categories = ["Advertising", "Campaigns"]
 tags = ["advertising", "basketball", "CAMPAIGNS", "Creative"]
 [cover]
-  image = "/uploads/2016/07/Screen-Shot-2016-07-26-at-9.48.00-PM.png"
+  image = "/img/2016/07/Screen-Shot-2016-07-26-at-9.48.00-PM.png"
 +++
 
-[![New Uncle Drew Featuring Kyrie Irving](/uploads/2016/07/Screen-Shot-2016-07-26-at-9.48.00-PM.png)](/uploads/2016/07/Screen-Shot-2016-07-26-at-9.48.00-PM.png)
+[![New Uncle Drew Featuring Kyrie Irving](/img/2016/07/Screen-Shot-2016-07-26-at-9.48.00-PM.png)](/img/2016/07/Screen-Shot-2016-07-26-at-9.48.00-PM.png)
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/r_gu72nKlWM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

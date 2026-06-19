@@ -3,6 +3,8 @@ title = "The Man Your Man Could Smell Like"
 date = "2010-08-10T16:58:00+00:00"
 slug = "the-man-your-man-could-smell-like"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 So, [Wieden + Kennedy](http://www.wk.com) truly believes that their “The Man Your Man Could Smell Like” campaign worked and I think I am in agreement. W+K released a video demonstrating their results visually, a video case study if you will. The video above is mostly clips of various spots.  Some of the stats that W+K mentioned include:

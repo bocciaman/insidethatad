@@ -3,6 +3,8 @@ title = "Better Results"
 date = "2009-01-20T22:55:00+00:00"
 slug = "better-results"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Yes this is another [Mac VS PC commercial](http://www.apple.com/getamac/ads/). In this Mac ad, the Mac compares its and PC's movie making abilities. They demonstrate the Mac's movie making superiority by presenting the movie as a beautiful woman while PC has a man dressed as an ugly woman as the movie they produced.

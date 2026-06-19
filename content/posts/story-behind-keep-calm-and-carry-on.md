@@ -5,13 +5,13 @@ slug = "story-behind-keep-calm-and-carry-on"
 categories = ["Advertising", "Campaigns"]
 tags = ["Barter Books", "best", "Keep Calm and Carry On", "meme digital", "promo &amp; activation"]
 [cover]
-  image = "/uploads/2013/03/Screen-Shot-2013-03-09-at-9.08.33-AM.png"
+  image = "/img/2013/03/Screen-Shot-2013-03-09-at-9.08.33-AM.png"
 +++
 
 Apparently, there is an amazing story behind the “Keep Calm and Carry On” campaign. And that’s what I want the stories on Inside That Ad to be. To give you, the reader, the background story behind the campaign, advertisement, and/or agency.
 
 The image below is courtesy of [Adverblog](http://www.adverblog.com/2013/03/09/the-story-behind-keep-calm-and-carry-on/).
-[![](/uploads/2013/03/Screen-Shot-2013-03-09-at-9.08.33-AM.png)](/uploads/2013/03/Screen-Shot-2013-03-09-at-9.08.33-AM.png)
+[![](/img/2013/03/Screen-Shot-2013-03-09-at-9.08.33-AM.png)](/img/2013/03/Screen-Shot-2013-03-09-at-9.08.33-AM.png)
 
 Check out the video below for the full details.
 

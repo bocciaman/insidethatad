@@ -3,6 +3,8 @@ title = "Inside Those Tennis Ads"
 date = "2012-07-08T09:06:00+00:00"
 slug = "inside-those-tennis-ads"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 On the eve of the [Wimbledon](http://en.wikipedia.org/wiki/The_Championships,_Wimbledon) mens final I thought I would share with you some tennis ads that are considered to be some of the "most viral" spots on the net.

@@ -4,6 +4,8 @@ date = "2019-02-13T09:00:32+00:00"
 slug = "conspiracy-behind-elevator-super-bowl-ad"
 categories = ["agencies", "Campaigns", "Creative", "Super Bowl"]
 tags = ["Agency", "campaign", "Creative", "elevator super bowl", "Hyundai", "Jason Bateman", "Saatva"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Every year a week after the Super Bowl there seems to be some controversy with a commercial that turns into an advertising industry conspiracy theory. This year is no exception. We are all familiar with the Hyundai commercial created by [Innocean](https://adage.com/amp/agency/innocean-usa) where Jason Bateman, the star of Netflix original show "[Ozarks](https://en.wikipedia.org/wiki/Ozarks)" plays the operator of an elevator from hell, taking unfortunate passengers to all sorts of awful places like jury duty and a vegan dinner party before they saw the white light in the form of Hyundai’s Shopper Assurance service. See the ad below, it was featured in [Inside That Ad's 2019 Super Bowl Central](https://www.insidethatad.net/2019-inside-that-ads-super-bowl-central/).

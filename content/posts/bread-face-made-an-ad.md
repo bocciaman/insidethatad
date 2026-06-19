@@ -5,10 +5,10 @@ slug = "bread-face-made-an-ad"
 categories = ["Advertising", "Creative"]
 tags = ["advertising", "bread", "Creative", "jewelry", "mashing"]
 [cover]
-  image = "/uploads/2017/10/mashed-face.png"
+  image = "/img/2017/10/mashed-face.png"
 +++
 
-[![](/uploads/2017/10/mashed-face.png)](/uploads/2017/10/mashed-face.png)You know you love yourself some ASMR content, that stuff of [soft sounds](https://www.youtube.com/user/GentleWhispering) that apparently result in [ticklish little braingasms.](https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response) But the cottage industry goes way further than mere whispers.
+[![](/img/2017/10/mashed-face.png)](/img/2017/10/mashed-face.png)You know you love yourself some ASMR content, that stuff of [soft sounds](https://www.youtube.com/user/GentleWhispering) that apparently result in [ticklish little braingasms.](https://en.wikipedia.org/wiki/Autonomous_sensory_meridian_response) But the cottage industry goes way further than mere whispers.
 
 Have you met [Bread Face?](https://www.instagram.com/breadfaceblog/)
 

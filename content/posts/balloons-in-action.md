@@ -3,6 +3,8 @@ title = "Balloons in Action"
 date = "2009-01-18T04:26:00+00:00"
 slug = "balloons-in-action"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I found this TV spot for [Durex condoms](http://www.durexworld.com/default.asp) on a friends' blog. The creative execution was absolutely hilarious in an adult sort of way. I am not going to describe the spot when you can simply watch it below. From what I've read about the commercial is that it has caused some controversy. The spot may have been too explicit for TV viewers. I am betting that it went over well with the 18 to 28 male demographic.

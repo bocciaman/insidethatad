@@ -3,6 +3,8 @@ title = "Absolut Hugs"
 date = "2009-04-27T19:08:00+00:00"
 slug = "absolut-hugs"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Several months ago, on [February 10th to be exact I wrote about Absolut](http://insidethatad.blogspot.com/2009/02/absolut-tolerant.html) and how it became the first distilled spirits company to have a commercial appear on prime time CBS owned station. The above spot is another commercial in the “Absolut World” campaign. In an “Absolut World” hugs and kisses are the currency of choice traded for real world items.  The spot above is the UK version of the ad.

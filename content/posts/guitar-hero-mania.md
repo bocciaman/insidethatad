@@ -3,6 +3,8 @@ title = "Guitar Hero Mania"
 date = "2009-04-01T07:20:00+00:00"
 slug = "guitar-hero-mania"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I’ve been here quite a lot about the game [Guitar Hero](http://insidethatad.blogspot.com/www.guitarhero.com) on TV and other media. Apparently the game is all the rave. Well the game has a new television commercial that feature big time college-basketball coaches. The A-list of coaches includes: Bob Knight, Rick Pitino, Roy Williams and Mike Krzyzewski. I don’t think they were doing to well playing along with [Metallica](http://en.wikipedia.org/wiki/Metallica).

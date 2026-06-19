@@ -3,6 +3,8 @@ title = "PC vs MAC: Transformer Style"
 date = "2009-01-13T06:04:00+00:00"
 slug = "pc-vs-mac-transformer-style"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I found this video, initially on [creativebits.org](http://www.creativebits.org) an [Apple](http://www.apple.com) oriented design community but it is a [YouTube](http://www.youtube.com) video. This piece of creative was created by [Nick Greenlee](http://www.nickgreenlee.com%20), a digital media designer. The piece is an absolute mastery of digital computer-generated imagery.

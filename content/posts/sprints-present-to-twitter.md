@@ -3,6 +3,8 @@ title = "Sprint's Present to Twitter"
 date = "2009-04-09T17:17:00+00:00"
 slug = "sprints-present-to-twitter"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The spot above created by [Goodby, Silverstein & Partners](http://www.goodbysilverstein.com/main_site/main.html) must have been [Sprint’s](http://insidethatad.blogspot.com/www.Sprint.com/NowNetwork) gift to [Twitter](http://insidethatad.blogspot.com/www.twitter.com). What other reason could they have for giving them free product placement in their television spot that I believe is airing nationally. The spot gives a shout out to several [Web 2.0](http://insidethatad.blogspot.com/en.wikipedia.org/wiki/Web_2.0) product and services such as [YouTube](http://www.youtube.com) and [Google](http://www.google.com). The question is why are they doing this in a nationally aired spot? Are these other Internet companies helping pay for the spot? 

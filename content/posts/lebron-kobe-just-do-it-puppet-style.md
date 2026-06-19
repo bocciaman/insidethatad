@@ -3,6 +3,8 @@ title = "LeBron, Kobe \"Just Do It\" Puppet Style"
 date = "2009-05-12T21:25:00+00:00"
 slug = "lebron-kobe-just-do-it-puppet-style"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 A friend of mine from work showed me the new Nike commercial above. According to a few other blogs these new puppet commercials are part of a new Nike ad campaign being rolled out during the playoffs. They create puppets that resemble the two top players in the NBA. LeBron puppet is so excited about the upcoming playoffs and he cannot hide it while Kobe is the more stoic of the two.

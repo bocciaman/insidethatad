@@ -5,10 +5,10 @@ slug = "burger-king-reveals-the-uncomfortable-truth-about-bullying-in-a-remarkab
 categories = ["Advertising", "Campaigns"]
 tags = ["advertising", "Bullying", "Burger King", "store", "Truth"]
 [cover]
-  image = "/uploads/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png"
+  image = "/img/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png"
 +++
 
-[![](/uploads/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png)](/uploads/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png)Bullying is a seemingly intractable problem, but there is one simple thing you can do about it. If you see it happening, you can step in and try to stop it.
+[![](/img/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png)](/img/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png)Bullying is a seemingly intractable problem, but there is one simple thing you can do about it. If you see it happening, you can step in and try to stop it.
 
 Burger King, of all brands, makes that point saliently in a new ad from David Miami timed to National Bullying Prevention Month. Released this morning, the three-minute video features an interesting social experiment filmed by hidden cameras recently in a Los Angeles-area BK.
 

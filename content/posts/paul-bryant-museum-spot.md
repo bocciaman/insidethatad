@@ -3,6 +3,8 @@ title = "Paul Bryant Museum Spot"
 date = "2013-01-14T04:52:00+00:00"
 slug = "paul-bryant-museum-spot"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 0  0  1  101  577  Inside That Ad  4  1  677  14.0         Normal  0          false  false  false    EN-US  JA  X-NONE                                                                                                                                                                                                                                                                                                                                                                **

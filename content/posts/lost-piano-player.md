@@ -3,6 +3,8 @@ title = "Lost Piano Player"
 date = "2010-03-15T06:23:00+00:00"
 slug = "lost-piano-player"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I saw the ad above on a DVR recording of the Godfather, I thought it was one of the most heart warming spot I’ve ever seen, it was a spot for [The Foundation For a Better Life](http://www.values.com). A boy gets separated from his parents and finds a piano so he proceeds to play Twinkle, Twinkle Little Star. Little did the boy know that the piano he discovered was the piano for the concert he and his parents were attending. He quickly realizes he was in front of a large audience and panics. The main performer comes up to the stage and helps him play the song he attempted but with more elegance.

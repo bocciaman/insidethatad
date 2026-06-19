@@ -3,6 +3,8 @@ title = "Arby's Sweet Cherry Pie"
 date = "2009-05-04T19:02:00+00:00"
 slug = "arbys-sweet-cherry-pie"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I wanted to discuss the T.V. spot above for [Arby](http://en.wikipedia.org/wiki/Arby%27s)’s bacon cheddar roast burger in comparison to the [Mercedes Benz post](http://insidethatad.blogspot.com/2009/05/mercedes-i-dont-get-it.html) I wrote about earlier. Simply put the spot above is funny, it makes sense, and it’s memorable. In this spot it is easy to make the connection between the greasy burger and the missing four digits of the phone number. In the Mercedes spot what’s the connection between the monsters and the car itself? There may have been a connection I just couldn’t see it.

@@ -3,6 +3,8 @@ title = "RIP Goes Out to the King of POP"
 date = "2009-06-26T04:28:00+00:00"
 slug = "rip-goes-out-to-the-king-of-pop"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I am sure you all know by now that [Michael Jackson](http://en.wikipedia.org/wiki/Michael_Jackson), the king of pop died today at [UCLA Medical Center](http://insidethatad.blogspot.com/www.uclahealth.org) in Los Angeles. The news of the tragedy caused some site to temporarily crash due to so many people logging on to read about the tragedy. A lot of famous people have been dying off recently and I don’t know what its all about.

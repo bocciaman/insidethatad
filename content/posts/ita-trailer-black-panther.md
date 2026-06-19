@@ -5,10 +5,10 @@ slug = "ita-trailer-black-panther"
 categories = ["marketing", "movies"]
 tags = ["black panther", "entertainment", "marvel entertainment", "movie", "trailer"]
 [cover]
-  image = "/uploads/2018/02/Black_Panther_Poster.jpg"
+  image = "/img/2018/02/Black_Panther_Poster.jpg"
 +++
 
-[![](/uploads/2018/02/Black_Panther_Poster.jpg)](/uploads/2018/02/Black_Panther_Poster.jpg)
+[![](/img/2018/02/Black_Panther_Poster.jpg)](/img/2018/02/Black_Panther_Poster.jpg)
 
 This week's movie that I saw was black Panther and it was amazing. Well worth the price of admission. I really liked the movie because it didn't follow the same theme that most Marvel movies seem to follow these days which is everything gets destroyed. Furthermore, the movie had a real positive message of always following your dreams and goals and never giving up on them, even if you face hardships. *Black Panther* functions like the best superhero comics, drawing on the history and context of what’s come before while filling in backstory as needed. It totally works as a standalone adventure. Enjoy the movie trailer below!
 

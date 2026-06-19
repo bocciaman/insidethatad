@@ -5,10 +5,10 @@ slug = "condom-sportswear-advertising"
 categories = ["Advertising", "agencies", "Campaigns", "online advertising", "Sports"]
 tags = ["advertising", "condom", "Sid Lee", "Skyn", "sportswear"]
 [cover]
-  image = "/uploads/2016/07/Screen-Shot-2016-07-30-at-6.48.07-PM.png"
+  image = "/img/2016/07/Screen-Shot-2016-07-30-at-6.48.07-PM.png"
 +++
 
-[![Condom sportswear](/uploads/2016/07/Screen-Shot-2016-07-30-at-6.48.07-PM.png)](/uploads/2016/07/Screen-Shot-2016-07-30-at-6.48.07-PM.png) Condom sportswear
+[![Condom sportswear](/img/2016/07/Screen-Shot-2016-07-30-at-6.48.07-PM.png)](/img/2016/07/Screen-Shot-2016-07-30-at-6.48.07-PM.png) Condom sportswear
 A new fashion-flavored campaign is putting a new spin on the idea of a full-body condom.
 
 To prove how comfortable its proprietary non-latex material really is, condom brand Skyn decided to create a line of athletic wear, and put it to the test.

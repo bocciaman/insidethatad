@@ -3,6 +3,8 @@ title = "Japanese McDonald's Spot"
 date = "2011-05-23T15:08:00+00:00"
 slug = "japanese-mcdonalds-spot"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 **

@@ -3,6 +3,8 @@ title = "In the Hands of Perfection"
 date = "2009-01-29T20:02:00+00:00"
 slug = "in-the-hands-of-perfection"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I know that because of my physical disability I could probably never be a card stacker. After seeing the Lexus spot above my feelings were confirmed. Not only does stacking cards take extraordinarily steady hands but it also takes the patience of a saint. The fact that patience is even required automatically disqualifies me.

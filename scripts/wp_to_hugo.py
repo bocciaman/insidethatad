@@ -30,12 +30,14 @@ def slugify(text):
 
 
 def fix_image_urls(content):
-    """Rewrite wp-content/uploads URLs to /uploads/ for Hugo static serving."""
+    """Rewrite wp-content/uploads URLs to /img/ for Hugo static serving."""
     content = re.sub(
-        r'https?://(?:www\.)?insidethatad\.net/wp-content/uploads/',
-        '/uploads/',
+        r'https?://(?:www\.)?insidethatad\.(?:net|com)/wp-content/uploads/',
+        '/img/',
         content
     )
+    # Also handle bare /wp-content/uploads/ paths
+    content = re.sub(r'/wp-content/uploads/', '/img/', content)
     return content
 
 
@@ -259,8 +261,9 @@ def convert(xml_path, output_dir):
         excerpt = (excerpt_el.text or "").strip() if excerpt_el is not None else ""
         excerpt = re.sub(r"<[^>]+>", "", excerpt).strip()
 
-        # Extract first image for featured image
-        featured_img = ""
+        # Extract first image for featured image; fall back to default
+        DEFAULT_IMG = "/img/default-post.jpg"
+        featured_img = DEFAULT_IMG
         img_match = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', raw_content, re.IGNORECASE)
         if img_match:
             featured_img = fix_image_urls(img_match.group(1))
@@ -291,9 +294,8 @@ def convert(xml_path, output_dir):
         if excerpt:
             safe_excerpt = excerpt.replace('"', '\\"')[:200]
             fm_lines.append(f'description = "{safe_excerpt}"')
-        if featured_img:
-            fm_lines.append(f'[cover]')
-            fm_lines.append(f'  image = "{featured_img}"')
+        fm_lines.append(f'[cover]')
+        fm_lines.append(f'  image = "{featured_img}"')
         fm_lines.append("+++")
 
         front_matter = "\n".join(fm_lines)

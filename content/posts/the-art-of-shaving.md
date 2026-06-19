@@ -3,6 +3,8 @@ title = "The Art of Shaving"
 date = "2009-05-28T06:29:00+00:00"
 slug = "the-art-of-shaving"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [Gillette](http://en.wikipedia.org/wiki/Global_Gillette) has posted a set of instructional videos for it customers. In one particular video they give the “men” instructions on how to safely shave the male region. The ad uses phrases like when you have no bush it makes your tree look bigger. I don’t think this video will go over well in this part of the world because guys usually view the shaving of that region as something they won’t share with the rest of the planet.

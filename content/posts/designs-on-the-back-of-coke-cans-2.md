@@ -3,6 +3,8 @@ title = "Designs on the Back of Coke Cans"
 date = "2010-09-19T07:21:00+00:00"
 slug = "designs-on-the-back-of-coke-cans-2"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 When I first started this blog about two years ago I wanted to share with people more information about the people that actually created the ad. I am finding that the traditional T.V. spots and print ads are relatively easy to find who created them. It’s the more obscure forms of advertising that I am struggling to find details on the creators.

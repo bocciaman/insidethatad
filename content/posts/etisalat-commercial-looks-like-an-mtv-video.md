@@ -4,6 +4,8 @@ date = "2019-05-30T17:04:57+00:00"
 slug = "etisalat-commercial-looks-like-an-mtv-video"
 categories = ["Advertising", "agencies", "Creative"]
 tags = ["calling card", "Etisalat", "music video", "Ramadan", "Van Damme"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 My wonderful wife turned me on to this ad for Etisalat. Etisalat is a multinational Emirati based telecommunications services provider, currently operating in 15 countries across Asia, the Middle East, and Africa. I wanted to discuss the ad here on Inside That Ad because I believe it's my first time seeing an ad that I confused with a music video. You don't find out that it is actually advertising a product until the end of the commercial. All the scenes are not in any sort of sequence, there is a slogan and everyone in the commercial is dancing in some fashion.

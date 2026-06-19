@@ -5,7 +5,7 @@ slug = "untitled"
 draft = true
 categories = ["Uncategorized"]
 [cover]
-  image = "/uploads/2013/08/IMG_0873.jpg"
+  image = "/img/2013/08/IMG_0873.jpg"
 +++
 
-[![](/uploads/2013/08/IMG_0873.jpg)](/uploads/2013/08/IMG_0873.jpg)
+[![](/img/2013/08/IMG_0873.jpg)](/img/2013/08/IMG_0873.jpg)

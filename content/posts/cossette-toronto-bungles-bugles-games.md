@@ -4,6 +4,8 @@ date = "2013-02-10T19:31:44+00:00"
 slug = "cossette-toronto-bungles-bugles-games"
 categories = ["Campaigns", "Creative"]
 tags = ["BRANDS", "CAMPAIGNS"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

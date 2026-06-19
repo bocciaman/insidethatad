@@ -3,6 +3,8 @@ title = "Inside That Ad Presents its Top 10 Ads of 2011"
 date = "2012-01-22T11:38:00+00:00"
 slug = "inside-that-ad-presents-its-top-10-ads-of-2011"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 It is finally here! Inside That Ad’s top 10 ads for 2011. I realize that it is almost the end of January 2012 but it took me a while to create the list. I also needed to plan out how to display the ads a bit more then usual because there are 10 of them and the list begins in descending order. **

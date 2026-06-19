@@ -3,6 +3,8 @@ title = "Sex with a Guy With a Mustache"
 date = "2010-11-21T07:45:00+00:00"
 slug = "sex-with-a-guy-with-a-mustache"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Apparently, the Asylum and the American Mustache Institute have declared November 18th “Have Sex With A Guy With A Mustache Day.” During the month of November men are encouraged to grow their mustache to show their support and raise awareness about prostate cancer.

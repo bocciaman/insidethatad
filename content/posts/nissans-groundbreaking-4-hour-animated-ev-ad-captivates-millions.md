@@ -4,6 +4,8 @@ date = "2023-12-28T18:23:32+00:00"
 slug = "nissans-groundbreaking-4-hour-animated-ev-ad-captivates-millions"
 categories = ["Advertising", "agencies", "Art"]
 tags = ["animated advertisement engagement", "electric vehicle promotion", "innovative advertising techniques", "instrumental music channels", "Lofi Girl YouTube channel", "long-duration commercials", "Nissan brand marketing", "therapeutic animation benefits", "Titmouse visual art", "viewer relaxation strategies"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Eight million people actually enjoyed an animated advertisement for an electric vehicle. I wouldn't believe it unless I saw it.

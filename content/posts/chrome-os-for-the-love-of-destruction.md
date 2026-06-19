@@ -3,6 +3,8 @@ title = "Chrome OS: For the Love of Destruction"
 date = "2010-12-12T04:55:00+00:00"
 slug = "chrome-os-for-the-love-of-destruction"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 In the spot above, a guy named Glen tries to create a flyer for a lost cat for his friend but he getting interrupted and his laptop smashed beyond repair. The point of this exercise is to demonstrate how safe the new Chrome OS is because it stores everything in the cloud (online) for those of you non-techies. During the course of the video guys in biohazard suits take pleasure in destroying his Chrome Laptop about for times in several ways.

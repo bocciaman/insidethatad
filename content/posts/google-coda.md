@@ -4,6 +4,8 @@ date = "2022-04-09T04:04:12+00:00"
 slug = "google-coda"
 categories = ["Advertising", "Creative"]
 tags = ["Apple", "AppleTV plus", "CODA", "disability", "google", "Oscar"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

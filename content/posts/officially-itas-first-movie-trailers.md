@@ -5,10 +5,10 @@ slug = "officially-itas-first-movie-trailers"
 categories = ["Advertising", "Art", "marketing", "movies"]
 tags = ["advertising", "Agency", "inside that ad", "ITA", "molly game", "movie", "moviepass", "trailer"]
 [cover]
-  image = "/uploads/2018/02/MGame.jpeg"
+  image = "/img/2018/02/MGame.jpeg"
 +++
 
-[![](/uploads/2018/02/MGame.jpeg)](/uploads/2018/02/MGame.jpeg)Back in 2015, I announced that I would like ITA to get into movie trailers but after that post, which you can read right [here](http://www.insidethatad.net/ita-getting-into-movie-trailers/), I dropped the subject. I haven't thought about it again until I received my new [MoviePass card](https://www.moviepass.com) last week. Therefore, I want to try again. Without further ado, the first trailer I want to share with you is for Molly's Game.
+[![](/img/2018/02/MGame.jpeg)](/img/2018/02/MGame.jpeg)Back in 2015, I announced that I would like ITA to get into movie trailers but after that post, which you can read right [here](http://www.insidethatad.net/ita-getting-into-movie-trailers/), I dropped the subject. I haven't thought about it again until I received my new [MoviePass card](https://www.moviepass.com) last week. Therefore, I want to try again. Without further ado, the first trailer I want to share with you is for Molly's Game.
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/Vu4UPet8Nyc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

@@ -3,6 +3,8 @@ title = "No Second Date?"
 date = "2009-01-05T22:15:00+00:00"
 slug = "no-second-date"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 What do you guys think? I bet he won’t be getting a second date.

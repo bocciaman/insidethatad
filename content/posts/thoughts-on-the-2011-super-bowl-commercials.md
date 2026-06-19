@@ -3,6 +3,8 @@ title = "Thoughts on the 2011 Super bowl Commercials"
 date = "2011-02-14T06:36:00+00:00"
 slug = "thoughts-on-the-2011-super-bowl-commercials"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 **The Force****

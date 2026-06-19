@@ -3,6 +3,8 @@ title = "Thicker Hair Polamalu"
 date = "2010-10-26T14:49:00+00:00"
 slug = "thicker-hair-polamalu"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Here is another spot for Troy Polamalu but this time for P&G’s Head & Shoulders brand. In the spot Polamalu uses the above mentioned shampoo when he shouldn’t have. Why shouldn’t he have used the shampoo? Because it’s only intended for people who want thicker hair, Polamalu obviously doesn’t need it.

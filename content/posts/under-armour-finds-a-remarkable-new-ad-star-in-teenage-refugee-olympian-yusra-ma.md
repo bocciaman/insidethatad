@@ -6,10 +6,10 @@ categories = ["Advertising", "Campaigns", "Uncategorized"]
 tags = ["refugee", "star", "teenage", "Under Armour"]
 description = "She didn’t take home any medals, but her story was perhaps the most inspiring of the 2016 Rio Olympics."
 [cover]
-  image = "/uploads/2017/10/img_3406.jpg"
+  image = "/img/2017/10/img_3406.jpg"
 +++
 
-![](/uploads/2017/10/img_3406.jpg)She didn’t take home any medals, but her story was perhaps the most inspiring of the 2016 Rio Olympics.
+![](/img/2017/10/img_3406.jpg)She didn’t take home any medals, but her story was perhaps the most inspiring of the 2016 Rio Olympics.
 
 Now, 19-year-old Yusra Mardini can add
 

@@ -3,6 +3,8 @@ title = "Shake Weight For Men"
 date = "2010-09-27T06:24:00+00:00"
 slug = "shake-weight-for-men"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The Shake Weight, a dumbbell like piece of exercise equipment has enjoyed tremendous notoriety thanks to the suggestive-way the weight is held. The weight is an arm toning workout product. The way the product is held and used is very sexually suggestive. All you have to do to have a full understanding of what I am saying is watch one or both of the videos.

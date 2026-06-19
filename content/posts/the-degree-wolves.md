@@ -3,6 +3,8 @@ title = "The Degree Wolves"
 date = "2011-01-31T06:37:00+00:00"
 slug = "the-degree-wolves"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

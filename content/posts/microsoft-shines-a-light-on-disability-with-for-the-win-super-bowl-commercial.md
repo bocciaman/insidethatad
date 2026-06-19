@@ -5,7 +5,7 @@ slug = "microsoft-shines-a-light-on-disability-with-for-the-win-super-bowl-comme
 categories = ["Advertising", "Campaigns", "Creative", "TV Commercials"]
 tags = ["accessibility", "ad agency", "campaign", "commercials", "disability", "Microsoft", "rams", "Super Bowl", "the big game"]
 [cover]
-  image = "/uploads/2019/02/Screen-Shot-2019-02-06-at-10.19.58-PM-300x114.png"
+  image = "/img/2019/02/Screen-Shot-2019-02-06-at-10.19.58-PM-300x114.png"
 +++
 
 Hello World,
@@ -32,4 +32,4 @@ This spot, released last November focused more intently on the charismatic char
 
 The Super Bowl commercial, like its predecessor, came from m:united//McCann, the IPG division. Check out how cool the actual controller looks below.
 
-[![](/uploads/2019/02/Screen-Shot-2019-02-06-at-10.19.58-PM-300x114.png)](/uploads/2019/02/Screen-Shot-2019-02-06-at-10.19.58-PM.png)
+[![](/img/2019/02/Screen-Shot-2019-02-06-at-10.19.58-PM-300x114.png)](/img/2019/02/Screen-Shot-2019-02-06-at-10.19.58-PM.png)

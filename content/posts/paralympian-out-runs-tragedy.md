@@ -3,6 +3,8 @@ title = "Paralympian Out Runs Tragedy"
 date = "2012-05-28T21:13:00+00:00"
 slug = "paralympian-out-runs-tragedy"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Normal.dotm  0  0  1  116  666  Anwar & Co.  5  1  817  12.0        0  false      18 pt  18 pt  0  0    false  false  false                        

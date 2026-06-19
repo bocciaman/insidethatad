@@ -3,6 +3,8 @@ title = "A 30-Second Mr. Brooks"
 date = "2009-02-16T21:08:00+00:00"
 slug = "a-30-second-mr-brooks"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I don't about you guys but I am a huge movie buff. When I first saw the spot above for [The Lustgarten Foundation](http://insidethatad.blogspot.com/www.lustgarten.org), a PSA announcement for Pancreatic cancer it reminded me of a movie. A movie that I absolutely love titled [Mr. Brooks](http://www.imdb.com/title/tt0780571/) starring Kevin Costner. In the movie, Costner is a tortured serial killer who views his unnatural desire to kill as a disease. His disease is fueled by a hunger that is personified as a man known as "Marshal." You can see Marshal in the movie but he isn't real, he is only in Mr. Brooks's mind. Marshal is always sitting in the back seat of the car when Brooks goes on his "outings."

@@ -4,10 +4,10 @@ date = "2013-03-02T06:07:14+00:00"
 slug = "geico-happier-with-mutombo"
 categories = ["Advertising", "agencies", "Campaigns", "Creative", "Sports"]
 [cover]
-  image = "/uploads/2013/03/Screen-Shot-2013-03-01-at-6.16.48-PM.png"
+  image = "/img/2013/03/Screen-Shot-2013-03-01-at-6.16.48-PM.png"
 +++
 
-[![](/uploads/2013/03/Screen-Shot-2013-03-01-at-6.16.48-PM.png)](/uploads/2013/03/Screen-Shot-2013-03-01-at-6.16.48-PM.png)NBA legend [Dikembe Mutombo](en.wikipedia.org/wiki/Dikembe_Mutombo) joins in the fun of American commercialism. In this commercial for insurance company Geico, Mutombo does the thing that he made into an art form during his NBA career “block.” Mutombo blocks people’s shots in various real life situations. For example, he blocks a business executive’s shot away from the trash can, a college coeds laundry is on the floor instead of the laundry basket, a 10-year old kids’ cereal is swatted all over the grocery store, all because Mutombo is so enthusiastic doing what he loves, “blocking.” All the while repeating some of his more memorable catch phrases such as “Not in my house” in his very unique accent.
+[![](/img/2013/03/Screen-Shot-2013-03-01-at-6.16.48-PM.png)](/img/2013/03/Screen-Shot-2013-03-01-at-6.16.48-PM.png)NBA legend [Dikembe Mutombo](en.wikipedia.org/wiki/Dikembe_Mutombo) joins in the fun of American commercialism. In this commercial for insurance company Geico, Mutombo does the thing that he made into an art form during his NBA career “block.” Mutombo blocks people’s shots in various real life situations. For example, he blocks a business executive’s shot away from the trash can, a college coeds laundry is on the floor instead of the laundry basket, a 10-year old kids’ cereal is swatted all over the grocery store, all because Mutombo is so enthusiastic doing what he loves, “blocking.” All the while repeating some of his more memorable catch phrases such as “Not in my house” in his very unique accent.
 
 The idea behind the spot is that there is only one thing that makes people happier than sir Mutombo when he’s blocking shots and that’s saving money on their car insurance with Geico. This is why the spot is officially part of their “Happier Than” campaign.
 

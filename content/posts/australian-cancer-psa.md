@@ -3,6 +3,8 @@ title = "Australian Cancer PSA"
 date = "2009-01-10T10:17:00+00:00"
 slug = "australian-cancer-psa"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I ran across a rap music video on cancer of all things. I discovered the piece on another advertising blog and thought I should share some of my opinions on the video. Oh and by the way that other blog I follow is [adfreak](http://www.adfreak.com).

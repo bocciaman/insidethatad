@@ -3,6 +3,8 @@ title = "Exorcist Ad"
 date = "2011-08-08T05:35:00+00:00"
 slug = "exorcist-ad"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The woman featured in this ad parodying The Exorcist movie is not really possessed by the devil. The Dirt Devil Vacuum being used by the granny in the upstairs apartment is sucking the flailing girl to the ceiling.  This is of course trying to emphasize the great suction power of the Dirt Devil Vacuum.

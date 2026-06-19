@@ -3,6 +3,8 @@ title = "Inside That Ad’s Favorite 2012 Super Bowl Commercials"
 date = "2012-02-19T02:49:00+00:00"
 slug = "inside-that-ads-favorite-2012-super-bowl-commercials"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I know that this post is 13 days overdue, but better late then never, right? Every advertising blog has to discuss the commercials of the biggest advertising event of the year, the Super Bowl.  Those of us who were faithful to Patriot Nation had hoped that advertisers would have a better night. But unfortunately only a few advertisers produced anything of note, all the rest should have kept their checkbooks in their pockets. So without further ado, here are ITA’s favorite Super Bowl spots. **

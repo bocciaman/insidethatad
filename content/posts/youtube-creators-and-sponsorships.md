@@ -5,7 +5,7 @@ slug = "youtube-creators-and-sponsorships"
 categories = ["marketing", "Sponsors", "YouTube Videos"]
 tags = ["mkbhd", "online ads", "sponsprship", "wsj", "youtube"]
 [cover]
-  image = "/uploads/2020/12/Screen-Shot-2020-12-05-at-6.49.26-PM2020-12-06.png"
+  image = "/img/2020/12/Screen-Shot-2020-12-05-at-6.49.26-PM2020-12-06.png"
 +++
 
 I have to be honest and share with the two readers of this blog that I’ve recently put in a lot of time into creating  YouTube videos and trying to  build a following. A following is the audience in marketing speak. 
@@ -14,10 +14,10 @@ Anyway, creating these videos has also led me to watch more of my favorite conte
 
 Here is a the banner ad that appeared.
 
-![Screen Shot 2020 12 05 at 6 49 26 PM2020 12 06](/uploads/2020/12/Screen-Shot-2020-12-05-at-6.49.26-PM2020-12-06.png)
+![Screen Shot 2020 12 05 at 6 49 26 PM2020 12 06](/img/2020/12/Screen-Shot-2020-12-05-at-6.49.26-PM2020-12-06.png)
 
 Here is the square ad that appeared on the right
 
-![Screen Shot 2020 12 05 at 6 51 02 PM2020 12 06](/uploads/2020/12/Screen-Shot-2020-12-05-at-6.51.02-PM2020-12-06.png)
+![Screen Shot 2020 12 05 at 6 51 02 PM2020 12 06](/img/2020/12/Screen-Shot-2020-12-05-at-6.51.02-PM2020-12-06.png)
 
 These are all dbrand sponsorships, which is awesome but having your ads appear on WSJ.com, that's when you know you've made it. Again, these ads are for his products that he’s [selling](https://dbrand.com/winners/giveaway-025) through a dbrand sponsorship.

@@ -8,7 +8,7 @@
 
 [[redirects]]
   from = "/wp-content/uploads/*"
-  to = "/uploads/:splat"
+  to = "/img/:splat"
   status = 301
   force = true
 

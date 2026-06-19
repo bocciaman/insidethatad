@@ -3,6 +3,8 @@ title = "BO, Disgusting yet Funny"
 date = "2009-05-05T18:08:00+00:00"
 slug = "bo-disgusting-yet-funny"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The commercial above is one of those “it’s so disgusting it’s funny” kind of ads. It makes you wonder what kind of drugs the creative directors are on to be able to come up with stuff like this. 

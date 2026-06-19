@@ -3,6 +3,8 @@ title = "No Can For You"
 date = "2010-11-18T06:53:00+00:00"
 slug = "no-can-for-you"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 How in the world can anyone tell that this spot is advertising an airline, JetBlue. They are promoting the fact that they give customers the option of keeping the whole can of soda (Yes, it’s their only selling point in this spot).  Never mind the [problems](http://thelede.blogs.nytimes.com/2007/02/16/held-hostage-on-the-tarmac-time-for-a-passenger-bill-of-rights/) the airline had with holding customers hostage for over 11 hours on the tarmac and the [angry flight attendant (Steven Slater)](http://en.wikipedia.org/wiki/JetBlue_flight_attendant_incident) who cussed out a passenger and deployed the evacuation slide to quit his job.  No, not JetBlue they want to focus on giving out full cans of soda to their customer.

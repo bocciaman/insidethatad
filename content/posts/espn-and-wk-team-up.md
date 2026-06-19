@@ -3,6 +3,8 @@ title = "ESPN and W+K Team Up"
 date = "2010-09-13T00:10:00+00:00"
 slug = "espn-and-wk-team-up"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [Wieden+Kennedy](http://insidethatad.blogspot.com/www.wk.com) New York went to work for ESPN and created the “It’s Not Crazy, It’s Sports” brand campaign to share with the public the norms of the sports world. The only issue I have with it is that it’s like beating a dead horse. People already know that sports discussions are a normal part of American culture. The spot is funny and entertaining but it didn’t tell teach me anything I didn’t already know.

@@ -3,6 +3,8 @@ title = "BK Dwarf Ad"
 date = "2009-04-07T21:56:00+00:00"
 slug = "bk-dwarf-ad"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The Burger King ad above will undoubtedly cause some controversy because of the way the used the little person actor. Some people may take offense with the commercial because it could be perceived as making fun of the disabled. The spot is promoting the new BK breakfast shots. I think the main message of the commercial is that it is saying even though the breakfast shots are small they still do the job of filling you up. Just like the farmer, even though he is small in stature, he is still a hard worker and gets the job done.

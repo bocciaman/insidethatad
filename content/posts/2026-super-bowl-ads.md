@@ -5,10 +5,10 @@ slug = "2026-super-bowl-ads"
 categories = ["Super Bowl"]
 tags = ["Amazon", "dunkin", "Pringles", "Super Bowl", "Xfinity"]
 [cover]
-  image = "/uploads/2026/02/2026-ITA-Super-Bowl-300x138.jpg"
+  image = "/img/2026/02/2026-ITA-Super-Bowl-300x138.jpg"
 +++
 
-[![ITA Super Bowl banner](/uploads/2026/02/2026-ITA-Super-Bowl-300x138.jpg)](/uploads/2026/02/2026-ITA-Super-Bowl.jpg) ITA Super Bowl banner
+[![ITA Super Bowl banner](/img/2026/02/2026-ITA-Super-Bowl-300x138.jpg)](/img/2026/02/2026-ITA-Super-Bowl.jpg) ITA Super Bowl banner
 
 Here are my top five Super Bowl ads for 2026. I have to admit that some of them were pretty funny but the majority fell flat on their faces. This year’s game, which took place on Sunday, February 8, 2026, had no shortage of celebrity cameos, cinematic throwbacks, and big-budget spectacle. However, as always, the true test of a Super Bowl ad is whether it’s memorable beyond the night of the game.
 

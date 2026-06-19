@@ -3,6 +3,8 @@ title = "Marketers on Super Sunday"
 date = "2009-01-08T00:43:00+00:00"
 slug = "marketers-on-super-sunday"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Today, I want to give you guys a list of who will advertising during the game on Superbowl Sunday. So here goes:

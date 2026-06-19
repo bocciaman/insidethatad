@@ -5,10 +5,10 @@ slug = "coke_continues_to_show_caring"
 categories = ["Art", "Campaigns", "Creative"]
 tags = ["CAMPAIGNS", "coke", "friend"]
 [cover]
-  image = "/uploads/2015/06/coca-cola-braille-hed-2015.jpg"
+  image = "/img/2015/06/coca-cola-braille-hed-2015.jpg"
 +++
 
-[![coca-cola-braille-hed-2015](/uploads/2015/06/coca-cola-braille-hed-2015.jpg)](/uploads/2015/06/coca-cola-braille-hed-2015.jpg)Hello world,
+[![coca-cola-braille-hed-2015](/img/2015/06/coca-cola-braille-hed-2015.jpg)](/img/2015/06/coca-cola-braille-hed-2015.jpg)Hello world,
 
 I always knew that the Coca-Cola Company was one of the greatest companies in the world. The advertisement that we'll discuss today further strengthens my belief. What you see above are Coke can designs created so that blind individuals can read them. Now, here's why I believe the company is one of the greats, I think these cans were designed so that blind individuals can also be a part of the " Friend" campaign.
 

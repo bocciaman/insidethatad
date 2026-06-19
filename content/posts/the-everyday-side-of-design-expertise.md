@@ -3,6 +3,8 @@ title = "The Everyday Side of Design Expertise"
 date = "2012-11-17T09:19:00+00:00"
 slug = "the-everyday-side-of-design-expertise"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

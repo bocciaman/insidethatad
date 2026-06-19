@@ -3,6 +3,8 @@ title = "Chalupas and Yankees"
 date = "2010-10-14T15:00:00+00:00"
 slug = "chalupas-and-yankees"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 For the life of me, I can’t find out for sure who the ad agency behind the Taco Bell/ Yankees spot shown above is. I think it’s either [TBWA Chiat/Day](http://insidethatad.blogspot.com/en.wikipedia.org/wiki/TBWA%5CChiat%5CDay) or [DraftFCB](http://insidethatad.blogspot.com/en.wikipedia.org/wiki/Draftfcb) but again I am not sure. If anyone knows for sure please leave a comment below. If you’ve watched any preseason baseball on TV then I’m sure you have all seen it at least once.

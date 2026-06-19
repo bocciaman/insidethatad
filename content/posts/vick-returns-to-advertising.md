@@ -3,6 +3,8 @@ title = "Vick Returns to Advertising"
 date = "2010-12-21T07:04:00+00:00"
 slug = "vick-returns-to-advertising"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Michael Vick, the superstar quarterback who was put in jail for illegal dogfighting

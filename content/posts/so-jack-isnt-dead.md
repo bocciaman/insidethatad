@@ -3,6 +3,8 @@ title = "So Jack Isn't Dead?"
 date = "2009-03-06T00:39:00+00:00"
 slug = "so-jack-isnt-dead"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I am sure that most of you have heard by now that in an effort to engage the audience [Jack in the Box ](http://www.blogger.com/www.jackinthebox.com)debut a spot during the Superbowl where Jack, their mascot, gets hit by a bus. After he is hit he goes into a coma that he was in for a month. Now that Jack is out of the coma, The Hang In There Jack campaign is coming to an end. You can see the campaign at [Hang In There Jack](http://www.hangintherejack.com/).

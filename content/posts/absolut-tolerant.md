@@ -3,6 +3,8 @@ title = "Absolut Tolerant"
 date = "2009-02-11T01:16:00+00:00"
 slug = "absolut-tolerant"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 On February 8th, a 30-second brand awareness spot for Absolut Vodka ran on prime time television. I believe it ran during the last half of the Grammy Awards. This marks the first time ever a distilled-spirits product has appeared on any CBS-owned TV station. Here is another sign of the changing times. A company like CBS that usually shunned distilled-spirits companies now accept them. I ask you is this due to the troubled economy?

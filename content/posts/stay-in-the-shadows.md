@@ -5,10 +5,10 @@ slug = "stay-in-the-shadows"
 categories = ["agencies", "Art", "Creative", "marketing", "Print"]
 tags = ["Bleublancrouge", "Canada", "Electronics", "Print", "Sherlock", "Technology"]
 [cover]
-  image = "/uploads/2018/02/sherlock_stayintheshadows_02.jpg"
+  image = "/img/2018/02/sherlock_stayintheshadows_02.jpg"
 +++
 
-[![](/uploads/2018/02/sherlock_stayintheshadows_02.jpg)](/uploads/2018/02/sherlock_stayintheshadows_02.jpg)
+[![](/img/2018/02/sherlock_stayintheshadows_02.jpg)](/img/2018/02/sherlock_stayintheshadows_02.jpg)
 
 &nbsp;
 
@@ -16,9 +16,9 @@ It's not always good to have other people's attention. Especially when those peo
 
 Sometimes, it's good to stay in the shadows. Other Versions are below.
 
-[![](/uploads/2018/02/sherlock_stayintheshadows_03.jpg)](/uploads/2018/02/sherlock_stayintheshadows_03.jpg)
+[![](/img/2018/02/sherlock_stayintheshadows_03.jpg)](/img/2018/02/sherlock_stayintheshadows_03.jpg)
 
-[![](/uploads/2018/02/sherlock_stayintheshadows_01.jpg)](/uploads/2018/02/sherlock_stayintheshadows_01.jpg)
+[![](/img/2018/02/sherlock_stayintheshadows_01.jpg)](/img/2018/02/sherlock_stayintheshadows_01.jpg)
 
 &nbsp;
 

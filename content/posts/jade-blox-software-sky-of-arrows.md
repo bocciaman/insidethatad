@@ -3,6 +3,8 @@ title = "Jade Blox Software- Sky of Arrows"
 date = "2012-05-28T22:32:00+00:00"
 slug = "jade-blox-software-sky-of-arrows"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [JadeBlox Software](http://www.jadebloxsoftware.com/)is a mobile application and game development company, started by Ahmad Anwar, my brother. I put a short game play video up on YouTube that I would like to share with everyone.

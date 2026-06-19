@@ -3,6 +3,8 @@ title = "Typos Lead to Porn"
 date = "2011-05-23T05:36:00+00:00"
 slug = "typos-lead-to-porn"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I saw the ad above via [Adfreak](http://insidethatad.blogspot.com/www.adfreak.com) and just had to write about it. First. If my search results simply appeared at my door I’d be a happy man for the rest of my life. I’d simply type 25 million dollars daily. I’d be set for life.

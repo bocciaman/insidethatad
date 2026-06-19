@@ -3,6 +3,8 @@ title = "Mac VS PC Ad Wars Continue"
 date = "2009-03-28T12:00:00+00:00"
 slug = "mac-vs-pc-ad-wars-continue"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [Video: Laptop Hunters $1000 – Lauren Gets an HP Pavilion](http://video.msn.com/?mkt=en-US&playlist=videoByUuids:uuids:0bb6a07c-c829-4562-8375-49e6693810c7&showPlaylist=true&from=shared)

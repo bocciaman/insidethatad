@@ -3,6 +3,8 @@ title = "Samsung-Apple Throw Down"
 date = "2012-09-24T15:00:00+00:00"
 slug = "samsung-apple-throw-down"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Here we go again, Samsung pokes fun at Apple's new flagship product the iPhone 5 with this feisty commercial above. Just in case you don't already know, the commercial makes fun at Apple's marketing language with respect to the new iPhones's features. My favorite example is the comment about how the headphone jack is now on the bottom of the device and how that fact is viewed as a technological miracle.

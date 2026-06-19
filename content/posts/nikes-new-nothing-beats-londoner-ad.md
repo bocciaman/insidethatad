@@ -5,10 +5,10 @@ slug = "nikes-new-nothing-beats-londoner-ad"
 categories = ["Advertising", "agencies", "marketing", "TV spot"]
 tags = ["camera work", "commercials", "football", "london", "memorable", "nike", "wk london"]
 [cover]
-  image = "/uploads/2018/02/nothing-beats-a-londoner-hed-2018.jpg"
+  image = "/img/2018/02/nothing-beats-a-londoner-hed-2018.jpg"
 +++
 
-[![](/uploads/2018/02/nothing-beats-a-londoner-hed-2018.jpg)](/uploads/2018/02/nothing-beats-a-londoner-hed-2018.jpg)
+[![](/img/2018/02/nothing-beats-a-londoner-hed-2018.jpg)](/img/2018/02/nothing-beats-a-londoner-hed-2018.jpg)
 
 Some Nike commercials are as memorable for their camerawork, and the way they’re shot, as for their celebrity stars or message of inspiration.
 

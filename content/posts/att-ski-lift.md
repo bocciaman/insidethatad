@@ -3,6 +3,8 @@ title = "AT&amp;T Ski Lift"
 date = "2011-05-02T04:30:00+00:00"
 slug = "att-ski-lift"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 It has been a while since my last blog posting due to a lack of motivation to write posts that I don’t think get read at all.  But I don’t think it’s just that, I’ve also given some serious thought to changing the format of this blog. I wanted to change the format to video instead of text. I thought that maybe I can discuss more on camera than via typing. I just couldn’t figure out how to show a commercial and provide commentary on top of it. Any and all suggestions are welcomed.

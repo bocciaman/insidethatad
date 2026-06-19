@@ -5,10 +5,10 @@ slug = "year-2017-watched-ads-googles-youtube"
 categories = ["Campaigns", "Creative", "video"]
 tags = ["advertising", "Creative", "video", "youtube"]
 [cover]
-  image = "/uploads/2017/12/natalie-portman-miss-dior-final-hed-2017.jpg"
+  image = "/img/2017/12/natalie-portman-miss-dior-final-hed-2017.jpg"
 +++
 
-[![](/uploads/2017/12/natalie-portman-miss-dior-final-hed-2017.jpg)](/uploads/2017/12/natalie-portman-miss-dior-final-hed-2017.jpg)It’s time for the year-end lists, and here’s a fun one—the 2017 YouTube Ads Leaderboard, featuring the most-watched ads on the video platform this year.
+[![](/img/2017/12/natalie-portman-miss-dior-final-hed-2017.jpg)](/img/2017/12/natalie-portman-miss-dior-final-hed-2017.jpg)It’s time for the year-end lists, and here’s a fun one—the 2017 YouTube Ads Leaderboard, featuring the most-watched ads on the video platform this year.
 
 You’ll recognize many of the spots, from Super Bowl commercials (Mr. Clean, Kia, Budweiser) to well-known celebrity spots (Natalie Portman for Miss Dior, Dwayne “The Rock” Johnson” for Apple).
 

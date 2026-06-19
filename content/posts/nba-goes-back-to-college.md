@@ -3,6 +3,8 @@ title = "NBA Goes Back to College"
 date = "2009-03-13T17:37:00+00:00"
 slug = "nba-goes-back-to-college"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 To get into the swing of March Madness Adidas came up with something pretty cool in my opinion. It's taking four of its NBA endorsers back to college in a series of ads. What is important to note is that the four NBA stars being used in the commercials jumped from high school right into the NBA.

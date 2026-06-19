@@ -4,6 +4,8 @@ date = "2019-03-29T17:00:33+00:00"
 slug = "nba-superstars-are-in-a-march-madness-frenzy"
 categories = ["Advertising", "agencies", "Campaigns"]
 tags = ["capital one", "ddb", "funny", "march madness", "sports"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 This spot for Capital One credit cards is titled "Bracket Buddy." It features Samuel Jackson, Spike Lee and Charles Barkley check into a hotel. Sir Charles is seen carrying a parrot named Larry "Bird" who will guide his bracket through the March Madness tournament. Larry the bird also serves as Sir Charles's good luck charm. What is supposed to make the spot really funny is that a few seconds later the real "Larry Bird" walks in with a good luck parrot named Charles Barkley. All three superstars laugh at the irony of the whole situation.

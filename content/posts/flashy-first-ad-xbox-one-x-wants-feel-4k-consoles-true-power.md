@@ -5,10 +5,10 @@ slug = "flashy-first-ad-xbox-one-x-wants-feel-4k-consoles-true-power"
 categories = ["Advertising", "agencies", "Campaigns"]
 tags = ["4k", "advertising", "first", "spot", "xbox one"]
 [cover]
-  image = "/uploads/2017/10/xbox-one-x-hed-2017.jpg"
+  image = "/img/2017/10/xbox-one-x-hed-2017.jpg"
 +++
 
-[![](/uploads/2017/10/xbox-one-x-hed-2017.jpg)](/uploads/2017/10/xbox-one-x-hed-2017.jpg)
+[![](/img/2017/10/xbox-one-x-hed-2017.jpg)](/img/2017/10/xbox-one-x-hed-2017.jpg)
 
 Xbox One X, the Microsoft product touted as “the most powerful console ever made,” continues to roll out advertising that’s so cinematic it might even lure adrenaline-junkie non-gamers into the fold.
 

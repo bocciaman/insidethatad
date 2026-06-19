@@ -3,6 +3,8 @@ title = "To Much Boasting on Boost"
 date = "2009-02-20T19:07:00+00:00"
 slug = "to-much-boasting-on-boost"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I found another commercial I would like to discuss through [Adfreak](http://insidethatad.blogspot.com/www.adfreak.com). The spot above was done on behalf of Boost Mobile by Latino marketing agency [Inspire](http://www.inspireculture.com/). I didn't really understand the point of the message. In the commercial a guy discusses how great his Boost Mobile service while is friend is being mauled by a pack of dogs.

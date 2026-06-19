@@ -3,6 +3,8 @@ title = "An Absolut Short Film"
 date = "2010-11-03T15:00:00+00:00"
 slug = "an-absolut-short-film"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Absolut joins the fun of branded entertainment with a short film “Lemon Drop” about 11 days ago I wrote a post on [Rip Curl collaborating with Timeslice Films](http://www.insidethatad.net/2010/10/rip-curl-films.html) to create Matrix like effects with surfers. Well, I am here to tell you this movie doesn’t even come close to being as entertaining even though it was almost twice as long.  There are major similarities between this short film and the awesome Quentin Terintino film “[Kill Bill](http://insidethatad.blogspot.com/www.imdb.com/title/tt0266697/%20).”

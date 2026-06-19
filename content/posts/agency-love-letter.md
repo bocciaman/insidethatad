@@ -4,6 +4,8 @@ date = "2019-03-10T19:41:26+00:00"
 slug = "agency-love-letter"
 categories = ["Advertising", "agencies", "Art", "Creative"]
 tags = ["advertising", "Agency", "anonymous", "client", "funny", "Glow", "love letter", "relationship", "social media", "twitter"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 > GLOW FYI, you've been added as a maker of Agency Love Letter on [@ProductHunt](https://twitter.com/ProductHunt?ref_src=twsrc%5Etfw) [https://t.co/fpfM6MCd3u](https://t.co/fpfM6MCd3u) h/t [@peterlevin](https://twitter.com/peterlevin?ref_src=twsrc%5Etfw) 🙌

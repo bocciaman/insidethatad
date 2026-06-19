@@ -5,12 +5,12 @@ slug = "skype-banner"
 categories = ["Advertising", "Campaigns", "online advertising", "political", "YouTube Videos"]
 tags = ["Banners", "Impeachment", "skype", "Steyer"]
 [cover]
-  image = "/uploads/2017/11/tom2.png"
+  image = "/img/2017/11/tom2.png"
 +++
 
-[![](/uploads/2017/11/tom2.png)](/uploads/2017/11/tom2.png)Last week I wrote about [Tom Steyer’s](http://www.insidethatad.net/billionaire-impeachment-ad/) Trump impeachment campaign efforts. Today, I discovered that his campaign even has unique banner ad placements. One of this unique ad placements includes a skyscraper banner that appears on a Skype chat window.
+[![](/img/2017/11/tom2.png)](/img/2017/11/tom2.png)Last week I wrote about [Tom Steyer’s](http://www.insidethatad.net/billionaire-impeachment-ad/) Trump impeachment campaign efforts. Today, I discovered that his campaign even has unique banner ad placements. One of this unique ad placements includes a skyscraper banner that appears on a Skype chat window.
 
-[![](/uploads/2017/10/skype-Impeach-Banner.png)](/uploads/2017/10/skype-Impeach-Banner.png)
+[![](/img/2017/10/skype-Impeach-Banner.png)](/img/2017/10/skype-Impeach-Banner.png)
 
 The banner takes you to Tom Steyer’s Impeach Trump Website. My question is why go through all this effort for something that will never happen what-so-ever? Now, I know what you are thinking. Well, if you think like that, it's kind of a self-fulfilling prophecy, isn't it? My answer is no and that's because to accomplish Steyer’s goal you cannot simply disagree with the policy, and expect to change the public's mind and move them to see things from your point of view, am I right? For what Steyer is asking to happen, the law has to be broken and the President has not done anything that warrants pursuing and or achieving Steyer’s goal.
 

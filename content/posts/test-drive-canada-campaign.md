@@ -5,10 +5,10 @@ slug = "test-drive-canada-campaign"
 categories = ["Advertising", "agencies", "Creative", "TV spot"]
 tags = ["advertising", "Air Canada", "election", "JWT", "moving", "president", "trump"]
 [cover]
-  image = "/uploads/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png"
+  image = "/img/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png"
 +++
 
-[![Test Drive Canada Campaign](/uploads/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png)](/uploads/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png)
+[![Test Drive Canada Campaign](/img/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png)](/img/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png)
 
 JWT Canada released a digital campaign for Air Canada that advocates people give Canada a test drive by visiting as a tourist prior to moving there. I'd be willing to bet that they came up with this campaign based on research that people are increasing Googling "how to move to Canada" to avoid the possibility of a Trump presidency here in the U.S.
 

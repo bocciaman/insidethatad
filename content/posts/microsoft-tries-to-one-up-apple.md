@@ -3,6 +3,8 @@ title = "Microsoft Tries to One Up Apple"
 date = "2010-11-16T16:06:00+00:00"
 slug = "microsoft-tries-to-one-up-apple"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Since Apple is through thrashing Microsoft with their famous “Get A Mac” [campaign](http://en.wikipedia.org/wiki/Get_a_Mac) created by [TBWA Chiat/Day](https://www.tbwachiat.com/). Microsoft tries to one up its rival with its new campaign. The new campaign points out the lack of Blu-ray in even the latest Mac currently available in the market.

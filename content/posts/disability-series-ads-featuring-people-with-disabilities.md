@@ -3,6 +3,8 @@ title = "Disability Series: Ads Featuring People with Disabilities"
 date = "2011-06-06T02:49:00+00:00"
 slug = "disability-series-ads-featuring-people-with-disabilities"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I wanted to do a series of posts that feature people with disabilities. To see if the majority of the ads focus on the disability also known as “pity ads” or do they focus on the person as an authority or the product. Also, I want to see if most of the spots that feature a disability are advertising a product related to disabilities in general.**

@@ -3,6 +3,8 @@ title = "Disrespectoids From Capri Sun"
 date = "2010-05-07T15:08:00+00:00"
 slug = "disrespectoids-from-capri-sun"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [Cupri Sun’s](http://brands.kraftfoods.com/caprisun/) new "Respect the pouch" campaign is a bit disturbing to me. And I believe that I have a valid reason. In the video above several TV spots within the campaign are shown. The last spot shown features a girl on a beach that barriers the Cupri Sun pouch in the sand. As her punishment she is turned into a sand sculpture. This is caused by the magical super powers the pouch apparently possesses.  In my opinion, this only serves to put the brand in a negative light. I don’t think this was the company’s intended position.

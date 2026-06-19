@@ -5,10 +5,10 @@ slug = "thanks-for-the-likes-by-dominos"
 categories = ["agencies", "Creative"]
 tags = ["Agency", "Creative", "Crispin Porter + Bogusky", "Domino's", "Facebook", "Food &amp; Beverage"]
 [cover]
-  image = "/uploads/2013/03/dominos.png"
+  image = "/img/2013/03/dominos.png"
 +++
 
-[![](/uploads/2013/03/dominos.png)](/uploads/2013/03/dominos.png)Domino’s, a company that doesn’t usually use the literal meaning of its name very often in advertising did so, recently. A video from Crispin Porter + Bogusky, the company’s ad agency shows 8 million dominos knocked down as a [thank you to their Facebook fans](http://www.facebook.com/Dominos?fref=ts) for all the “Likes.” Check out the video after the jump.
+[![](/img/2013/03/dominos.png)](/img/2013/03/dominos.png)Domino’s, a company that doesn’t usually use the literal meaning of its name very often in advertising did so, recently. A video from Crispin Porter + Bogusky, the company’s ad agency shows 8 million dominos knocked down as a [thank you to their Facebook fans](http://www.facebook.com/Dominos?fref=ts) for all the “Likes.” Check out the video after the jump.
 
 Here is my question, are the 50 thousand fans really fans of the brand? Or has getting likes basically become a numbers game for advertisers? I only ask because I am not sure why they are only thanking their Facebook fans?
 

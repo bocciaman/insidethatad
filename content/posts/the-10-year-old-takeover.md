@@ -4,6 +4,8 @@ date = "2013-02-25T06:28:12+00:00"
 slug = "the-10-year-old-takeover"
 categories = ["Creative"]
 tags = ["10 year old", "Creative", "kids"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

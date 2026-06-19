@@ -3,6 +3,8 @@ title = "And The Winner Is"
 date = "2009-02-05T22:09:00+00:00"
 slug = "and-the-winner-is"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The [Doritos](http://www.doritos.com/) spot above was the big winner during this years Superbowl according to two articles I've read. [USA Today](http://www.usatoday.com/money/advertising/admeter/2009admeter.htm) assembled a panel and [YouTube](http://www.youtube.com/superbowl) gave stats on what commercials were watched and voted on the most. Both of these sources declared "Free Doritos" as the winning commercial debuting during the Superbowl this year. You can get to the article mentioning the USA today panel ([here](http://www.dmwmedia.com/news/2009/02/02/user-generated-doritos-ad-most-popular-super-bowl-poll)).

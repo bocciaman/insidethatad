@@ -3,6 +3,8 @@ title = "Increase Currency by Making Love"
 date = "2009-05-11T21:48:00+00:00"
 slug = "increase-currency-by-making-love"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Bontrust Bank in Germany takes the idea of multiplying your money to a whole new level in the spot above. The spot shows Abe Lincoln who is on the $5-bill and the German pianist Clara Schumann who is on the 100 DM note (getting it on). Eventually they multiply aka have babies that look just like their father but everything must always must come to an end and the pretty lady on the 100 DM note falls for [Chairman Mao the first president of China](http://en.wikipedia.org/wiki/Mao_Zedong).

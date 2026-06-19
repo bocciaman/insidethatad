@@ -3,6 +3,8 @@ title = "Funniest Kobe Bryant Interview? Yes Sir!"
 date = "2011-05-17T06:12:00+00:00"
 slug = "funniest-kobe-bryant-interview-yes-sir"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Here in Los Angeles, we love our Lakers especially when they win. So when they lose we don’t fall short in showing our disappointment. This is especially true when it comes to Kobe Bryant; he is the franchise player after all. He has developed somewhat of a bad reputation of getting what he wants at the expense of what’s best for the team.**

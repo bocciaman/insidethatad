@@ -5,10 +5,10 @@ slug = "ita-is-back-on-wednesdays-in-2019"
 categories = ["marketing"]
 tags = ["audience", "ITA", "money", "new year", "no revenue", "no traffic", "regular post schedule"]
 [cover]
-  image = "/uploads/2019/01/Logo_ITA_Logo-is-back.png"
+  image = "/img/2019/01/Logo_ITA_Logo-is-back.png"
 +++
 
-![](/uploads/2019/01/Logo_ITA_Logo-is-back.png)
+![](/img/2019/01/Logo_ITA_Logo-is-back.png)
 
 ITA will be back to posting regularly in 2019. This time though I'm going to "try" to stick to a strict weekly schedule. It will most likely be Wednesday at 8 PM PST. Look for the first official post of 2019 on Wednesday, January 8th.
 

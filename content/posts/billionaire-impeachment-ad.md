@@ -5,10 +5,10 @@ slug = "billionaire-impeachment-ad"
 categories = ["Advertising", "Campaigns", "TV spot", "Uncategorized"]
 tags = ["Ad", "advertising", "Billionaire", "Impeachment", "president", "Tom Steyer"]
 [cover]
-  image = "/uploads/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg"
+  image = "/img/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg"
 +++
 
-[![](/uploads/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg)](/uploads/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg)Today, I was watching game 1 of the World Series (Go Dodgers) and Tom Steyer's (a billionaire) impeachment ad comes on my TV screen. Where he's promoting a campaign to impeach the current, sitting President, President Donald J. Trump.
+[![](/img/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg)](/img/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg)Today, I was watching game 1 of the World Series (Go Dodgers) and Tom Steyer's (a billionaire) impeachment ad comes on my TV screen. Where he's promoting a campaign to impeach the current, sitting President, President Donald J. Trump.
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GXl8vRmLeJk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

@@ -4,6 +4,8 @@ date = "2020-05-31T17:28:19+00:00"
 slug = "thank-you-textexpander"
 categories = ["Sponsors"]
 tags = ["advertising", "affiliate marketing", "marketing"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Thanks to TextExpander for allowing me to become an affiliate partner. I've been a hard-core TextExpander user for about a year now, and I'm very appreciative of their support￼.

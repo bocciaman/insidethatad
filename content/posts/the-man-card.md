@@ -3,6 +3,8 @@ title = "The Man Card"
 date = "2011-09-29T06:05:00+00:00"
 slug = "the-man-card"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The commercial above pokes fun at the cultural idea that women go to the bathroom in pairs, sometimes even in a group. The spot above uses men as the point of comic relief.

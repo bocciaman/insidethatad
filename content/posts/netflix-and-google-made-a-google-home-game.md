@@ -5,10 +5,10 @@ slug = "netflix-and-google-made-a-google-home-game"
 categories = ["Advertising", "marketing", "movies", "online advertising"]
 tags = ["advertising", "google", "Netflix", "season", "season 2", "stranger things"]
 [cover]
-  image = "/uploads/2017/10/stranger-things-google-home-hed-2017.jpg"
+  image = "/img/2017/10/stranger-things-google-home-hed-2017.jpg"
 +++
 
-[![](/uploads/2017/10/stranger-things-google-home-hed-2017.jpg)](/uploads/2017/10/stranger-things-google-home-hed-2017.jpg)Add Google to the list of companies that have a Stranger Things season 2 activation.
+[![](/img/2017/10/stranger-things-google-home-hed-2017.jpg)](/img/2017/10/stranger-things-google-home-hed-2017.jpg)Add Google to the list of companies that have a Stranger Things season 2 activation.
 
 Netflix partnered with the tech giant to create a voice-activated game for the second season that you play through your Google Home or Google Home Mini voice assistant. The device acts as a walkie-talkie—all you have to do is say “Hey Google, talk to Dustin from Stranger Things” over the course of watching the second season. Players are asked questions about the new season, helping the characters progress in the game. Winners eventually get inducted into the Hawkins AV Club.
 

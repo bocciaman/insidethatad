@@ -4,6 +4,8 @@ date = "2013-02-24T05:09:18+00:00"
 slug = "crown-royal-lion"
 categories = ["Advertising", "Creative"]
 tags = ["alcohol", "drinks", "lion"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

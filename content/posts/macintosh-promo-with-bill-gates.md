@@ -4,6 +4,8 @@ date = "2019-11-23T16:33:53+00:00"
 slug = "macintosh-promo-with-bill-gates"
 categories = ["Advertising", "Creative", "marketing", "Uncategorized"]
 tags = ["Apple", "Bill Gates", "Macintosh", "Microsoft"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

@@ -3,6 +3,8 @@ title = "A Fiat Seduction"
 date = "2012-02-27T04:15:00+00:00"
 slug = "a-fiat-seduction"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Normal.dotm  0  0  1  139  795  Anwar & Co.  6  1  976  12.0        0  false      18 pt  18 pt  0  0    false  false  false                        

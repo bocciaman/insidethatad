@@ -3,6 +3,8 @@ title = "Smirnoff's Pure Campaign"
 date = "2011-09-04T02:18:00+00:00"
 slug = "smirnoffs-pure-campaign"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The spot above focuses on music and bringing in the different elements of sound, just like an orchestra to make beautiful music. The commercial features Pharrell and the idea of a blank canvas to bring together different musical elements to make music that sounds great when working in harmony. Pharrell brings different musicians, with different musical styles together by simply snapping his fingers.

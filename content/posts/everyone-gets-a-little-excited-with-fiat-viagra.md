@@ -5,10 +5,10 @@ slug = "everyone-gets-a-little-excited-with-fiat-viagra"
 categories = ["Advertising", "agencies", "Super Bowl", "TV spot"]
 tags = ["car", "commercial", "fiat", "Richards Group", "superbowl", "viagra"]
 [cover]
-  image = "/uploads/2015/06/Screen-Shot-2015-06-20-at-4.47.18-PM.png"
+  image = "/img/2015/06/Screen-Shot-2015-06-20-at-4.47.18-PM.png"
 +++
 
-[![Screen Shot 2015-06-20 at 4.47.18 PM](/uploads/2015/06/Screen-Shot-2015-06-20-at-4.47.18-PM.png)](/uploads/2015/06/Screen-Shot-2015-06-20-at-4.47.18-PM.png)
+[![Screen Shot 2015-06-20 at 4.47.18 PM](/img/2015/06/Screen-Shot-2015-06-20-at-4.47.18-PM.png)](/img/2015/06/Screen-Shot-2015-06-20-at-4.47.18-PM.png)
 
 So I've wanted to write about this  advertisement for quite some time now but just haven't got around to it. There are some ads that try to fake you out with what they're trying to advertise and this is a great example of that. Then starts out by showing a young (at heart) couple where the wife is "ready to go-Pun intended." The husband excitedly runs to the restroom to take a little blue pill. But, alas he accidentally drops it out the window and it goes for a ride through the city.
 

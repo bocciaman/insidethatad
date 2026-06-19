@@ -5,6 +5,8 @@ slug = "better-late-than-never-itas-2022-super-bowl-commercial-list"
 categories = ["agencies", "Sports", "Super Bowl", "TV Commercials"]
 tags = ["7 million dollar commercials", "ad agency", "Super Bowl"]
 description = "I know I skipped the 2021 Super Bowl list and I'm a few weeks late with this one but I  think its important to keep some sort of tradition going with Inside That Ad."
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I know I skipped the 2021 Super Bowl list, and I'm a few weeks late with this one, but I think it's essential to keep some sort of tradition going with Inside That Ad even though I don't post much on it anymore. So, without any further ado. Here are the ad spots ITA thought were the best for the 2022 Super Bowl:

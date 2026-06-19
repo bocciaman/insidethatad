@@ -3,6 +3,8 @@ title = "Before and After Models"
 date = "2010-10-16T17:01:00+00:00"
 slug = "before-and-after-models"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [VIP Medicum](http://www.vipmedicum.ee/), a beauty clinic in Tallinn, Estonia pulled off a controversial marketing stunt in the video you see above. They hired models to act as the “Before” and “After” result of their weight-loss program. Now, I realize that before and after photos are a standard in weight-loss advertising but to use real people?

@@ -3,6 +3,8 @@ title = "Gymkhana"
 date = "2009-02-23T20:56:00+00:00"
 slug = "gymkhana"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 The video above is a marketing video to promote the sport of [Gymkhana](http://en.wikipedia.org/wiki/Gymkhana_(motorsport)) to become larger in the U.S. Gymkhana is the real live version of the movie "[Tokyo Drift](http://www.imdb.com/title/tt0463985/)." The above viral Web-video was apparently watched over 29 million times via various sources.

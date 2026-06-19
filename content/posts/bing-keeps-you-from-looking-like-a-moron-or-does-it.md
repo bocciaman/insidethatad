@@ -3,6 +3,8 @@ title = "Bing Keeps you from Looking Like a Moron or Does it?"
 date = "2009-06-14T04:53:00+00:00"
 slug = "bing-keeps-you-from-looking-like-a-moron-or-does-it"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Sorry for the long delay between posts everyone. But I can’t write posts in my office anymore because of recent changes to my work schedule. Anyway, let’s talk about [Bing](http://www.blogger.com/www.bing.com) baby. Bing is [Microsoft’s](http://www.microsoft.com/) latest attempt to catch up with all mighty Google with respect to search engines. The campaign claims that Bing is the “Cure” to search overload.

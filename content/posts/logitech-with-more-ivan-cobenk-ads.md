@@ -3,6 +3,8 @@ title = "Logitech with more Ivan Cobenk Ads"
 date = "2011-03-13T07:58:00+00:00"
 slug = "logitech-with-more-ivan-cobenk-ads"
 categories = ["TV spot"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 I know it has been a while since my last post and please except my sincere apologies for the lack of activity on Inside That Ad. I’ve been extremely busy at work so please keep coming back. Today, I wanted to discuss the Logitech ads featuring Kevin Bacon as the obsessed fan Ivan Cobenk, he’s obsessed with Kevin Bacon or I should say himself

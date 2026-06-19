@@ -3,6 +3,8 @@ title = "Bags Fly Free on SWA"
 date = "2010-09-21T04:15:00+00:00"
 slug = "bags-fly-free-on-swa"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Southwest is back to using [benefit advertising](http://www.businessdictionary.com/definition/product-benefits-advertising.html) to bag on its competitors with its “[Bags Fly Free](http://www.swabiz.com/bagsflyfree/)” campaign. They use a good cop; bad cop routine to point out their competitor’s shortcomings. The bad cop is screaming, “We know your charging for bags, drop the bags and turn around.” Then the good cop screams, “Protect the load.” The majority of the spots revolve around the baggage handlers and how much they care about your bags.

@@ -5,6 +5,8 @@ slug = "a-holiday-to-remember-chevrolet"
 categories = ["TV Commercials"]
 tags = ["Chevrolet", "commercial", "holiday ad", "TV"]
 description = "This commercial from Chevrolet is one of the best ones I've seen in 2023."
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

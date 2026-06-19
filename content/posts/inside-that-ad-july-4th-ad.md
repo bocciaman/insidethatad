@@ -3,6 +3,8 @@ title = "Inside That Ad July 4th ad"
 date = "2012-07-06T07:03:00+00:00"
 slug = "inside-that-ad-july-4th-ad"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Today being two days after Independence Day I wanted to share one of my favorite patriotic advertisements. The spot below was created by Wieden + Kennedy for Levi's featured a recording of the great American poet Walt Whitman reading his poem titled, “America”.

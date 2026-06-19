@@ -3,6 +3,8 @@ title = "Kevin Costner's Apple Ad"
 date = "2012-03-31T07:54:00+00:00"
 slug = "kevin-costners-apple-ad"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Normal.dotm  0  0  1  46  267  Anwar & Co.  2  1  327  12.0        0  false      18 pt  18 pt  0  0    false  false  false                        

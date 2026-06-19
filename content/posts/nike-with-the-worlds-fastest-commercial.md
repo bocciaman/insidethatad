@@ -5,10 +5,10 @@ slug = "nike-with-the-worlds-fastest-commercial"
 categories = ["Advertising", "agencies", "Art", "Creative", "Sports"]
 tags = ["advertising", "athletes", "fast", "nike", "superstar", "zoom"]
 [cover]
-  image = "/uploads/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png"
+  image = "/img/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png"
 +++
 
-[![Nike with the World](/uploads/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png)](/uploads/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png)The shoe giant Nike recently created the fastest commercial ever advertising their newest Zoom Air sneakers. the spot features some of the world's best athletes doing what they do best at lightning speed. That lightning speed is demonstrated via time lapse video technology of course. Let me know what you think of the spot down below.
+[![Nike with the World](/img/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png)](/img/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png)The shoe giant Nike recently created the fastest commercial ever advertising their newest Zoom Air sneakers. the spot features some of the world's best athletes doing what they do best at lightning speed. That lightning speed is demonstrated via time lapse video technology of course. Let me know what you think of the spot down below.
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/bh8r6S2FNP0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

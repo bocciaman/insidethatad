@@ -3,6 +3,8 @@ title = "Disabled Dancer"
 date = "2009-03-12T22:38:00+00:00"
 slug = "disabled-dancer"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 [Saatchi & Saatchi, London](http://insidethatad.blogspot.com/www.saatchi.co.uk) created commercials that feature a disabled dancer for its "Life Flows Better" campaign for Visa. The dancer, [Bill Shannon](http://en.wikipedia.org/wiki/Bill_Shannon) uses his crutches and skateboard to perform his dance routine. I guess they figured that his routine meshes well with the theme of the campaign. Out of all the creative campaigns that they could have done they chose a commercial idea that centers around a disabled dancer? Does visa have an image problem that they are trying to resolve?

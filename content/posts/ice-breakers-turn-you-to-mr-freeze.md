@@ -3,6 +3,8 @@ title = "Ice Breakers Turn You to Mr. Freeze"
 date = "2009-05-26T18:08:00+00:00"
 slug = "ice-breakers-turn-you-to-mr-freeze"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 Stardust Studios transformed the scruffy looking kid in the spot into a corny looking version of Mr. Freeze in the spot above for Ice [Breakers Cool Mint candy](http://en.wikipedia.org/wiki/Ice_Breakers_%28candy%29).  As someone from the account side of advertising I would love to look at the strategy plan and creative brief behind this creative execution.  More specifically, what’s the big idea? The candy puts you in a different state of mind; because the character that the kid transforms into is something I think you would see if you were tripping on acid.

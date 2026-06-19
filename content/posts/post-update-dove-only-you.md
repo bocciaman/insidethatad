@@ -3,6 +3,8 @@ title = "Post Update: Dove, Only You"
 date = "2012-07-13T03:26:00+00:00"
 slug = "post-update-dove-only-you"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 An anonymous reader that uses the screen name Snootchyboochiez,**provided me with crediting information for the Dove commercial discussed in the [“Dove- Only You” post](http://www.insidethatad.net/2011/04/only-you-dove.html). Also, I believe the ad agency for this spot is [SapientNitro](http://www.blogger.com/www.sapient.com/en-us/sapientnitro.html), New York.

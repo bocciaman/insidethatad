@@ -3,6 +3,8 @@ title = "Viagra in the Mid-East"
 date = "2009-02-24T22:55:00+00:00"
 slug = "viagra-in-the-mid-east"
 categories = ["Uncategorized"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 A couple of days ago I thought of an ad I once saw in Saudi Arabia many years ago (2002, I think). So, trying to be the best ad blogger I could be, I tried to find that particular TV commercial. The commercial I saw was a spot for Viagra but even that I am not sure of. All I know for sure is that it was a commercial promoting some erectile dysfunction medication. 

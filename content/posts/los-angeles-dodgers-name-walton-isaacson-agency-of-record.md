@@ -5,10 +5,10 @@ slug = "los-angeles-dodgers-name-walton-isaacson-agency-of-record"
 categories = ["Advertising", "agencies"]
 tags = ["advertising", "Agency", "Dodgers"]
 [cover]
-  image = "/uploads/2013/02/url-1.jpeg"
+  image = "/img/2013/02/url-1.jpeg"
 +++
 
-[![](/uploads/2013/02/url-1.jpeg)](/uploads/2013/02/url-1.jpeg)The Los Angeles Dodgers have announced that Walton Isaacson (WI) has been named the team's advertising/marketing agency of record for 2013. WI will report to Executive Vice President and Chief Marketing Officer, Los Angeles Dodgers, Lon Rosen.
+[![](/img/2013/02/url-1.jpeg)](/img/2013/02/url-1.jpeg)The Los Angeles Dodgers have announced that Walton Isaacson (WI) has been named the team's advertising/marketing agency of record for 2013. WI will report to Executive Vice President and Chief Marketing Officer, Los Angeles Dodgers, Lon Rosen.
 
 "The Dodgers are excited to welcome Walton Isaacson to the team," said Rosen. "We look forward to the start of Dodger baseball and a working relationship with WI that will help to elevate our club's marketing and creative objectives."
 

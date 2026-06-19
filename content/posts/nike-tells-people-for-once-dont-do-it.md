@@ -4,6 +4,8 @@ date = "2020-07-22T00:10:32+00:00"
 slug = "nike-tells-people-for-once-dont-do-it"
 categories = ["agencies", "political", "Sports"]
 tags = ["America", "george floyd", "nike", "racism", "sports"]
+[cover]
+  image = "/img/default-post.jpg"
 +++
 
 <div class="video-container">

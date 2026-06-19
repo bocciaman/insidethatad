@@ -8,7 +8,7 @@
       {{- $sorted = $sorted | append (dict "name" $name "count" $taxonomy.Count) }}
     {{- end }}
     {{- $sorted = sort $sorted "count" "desc" }}
-    {{- range first 30 $sorted }}
+    {{- range first 10 $sorted }}
       {{- with $.Site.GetPage (printf "/tags/%s" .name) }}
       <a class="widget-taglist__link widget__link btn" href="{{ .RelPermalink }}" title="{{ .Title }}">
         {{- .Title -}}

@@ -28,7 +28,7 @@ summaryLength = 70
     home = "right"
     list = "right"
     single = "right"
-    widgets = ["recent", "categories", "taglist"]
+    widgets = ["recent", "categories", "taglist", "ad-square"]
 
   [params.widgets]
     recent_num = 4

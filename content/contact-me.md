@@ -2,6 +2,7 @@
 title = "Contact Me"
 description = "Get in touch with A.B. Anwar"
 slug = "contact-me"
+comments = false
 +++
 
 Have a question, tip, or want to share an ad? Use the form below to reach me directly.

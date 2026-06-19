@@ -123,6 +123,126 @@ a:hover {
   margin: 1em auto;
 }
 
+/* ── Page wrapper with left skyscraper ── */
+.page-with-ads {
+  display: flex;
+  align-items: flex-start;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* ── Left skyscraper ad ── */
+.ad-skyscraper {
+  display: none; /* hidden on small screens */
+  flex-shrink: 0;
+  width: 180px;
+  padding: 16px 8px 0 0;
+  position: sticky;
+  top: 20px;
+}
+
+@media (min-width: 1100px) {
+  .ad-skyscraper {
+    display: block;
+  }
+}
+
+/* ── Ad placeholders (visible until real ads load) ── */
+.ad-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #f0f0f0;
+  border: 1px dashed #bbb;
+  color: #999;
+  font-size: 0.75rem;
+  text-align: center;
+  gap: 6px;
+}
+
+.ad-placeholder--skyscraper {
+  width: 160px;
+  height: 600px;
+}
+
+.ad-placeholder--square {
+  width: 300px;
+  height: 250px;
+  max-width: 100%;
+}
+
+.ad-placeholder__label {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.7rem;
+}
+
+.ad-placeholder__size {
+  font-size: 0.7rem;
+}
+
+/* ── Square ad widget in sidebar ── */
+.widget-ad-square {
+  margin-top: 1rem;
+}
+
+/* ── You May Also Like ── */
+.related {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: #f9f9f9;
+  border-top: 3px solid #c0392b;
+}
+
+.related__title {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 0 0 1rem;
+  color: #111;
+}
+
+.related__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.related__item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.related__thumb img {
+  width: 100%;
+  height: 110px;
+  object-fit: cover;
+  display: block;
+}
+
+.related__link {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #222;
+  text-decoration: none;
+  line-height: 1.3;
+}
+
+.related__link:hover {
+  color: #c0392b;
+}
+
+.related__date {
+  font-size: 0.75rem;
+  color: #999;
+}
+
 /* ── Sidebar Categories Dropdown ── */
 .sidebar-dropdown-toggle {
   width: 100%;

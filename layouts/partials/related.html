@@ -1,0 +1,19 @@
+{{- $related := .Site.RegularPages.Related . | first 4 }}
+{{- if $related }}
+<div class="related">
+  <h3 class="related__title">You May Also Like</h3>
+  <ul class="related__list">
+    {{- range $related }}
+    <li class="related__item">
+      {{- if .Params.cover.image }}
+      <a href="{{ .RelPermalink }}" class="related__thumb">
+        <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+      </a>
+      {{- end }}
+      <a href="{{ .RelPermalink }}" class="related__link">{{ .Title }}</a>
+      <span class="related__date">{{ .Date.Format "January 2, 2006" }}</span>
+    </li>
+    {{- end }}
+  </ul>
+</div>
+{{- end }}

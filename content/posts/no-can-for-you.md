@@ -4,6 +4,7 @@ date = "2010-11-18T06:53:00+00:00"
 slug = "no-can-for-you"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Coca-Cola"
 [cover]
   image = "/img/default-post.jpg"
 +++

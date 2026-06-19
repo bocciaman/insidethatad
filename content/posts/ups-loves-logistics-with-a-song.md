@@ -4,6 +4,7 @@ date = "2012-01-07T21:55:00+00:00"
 slug = "ups-loves-logistics-with-a-song"
 categories = ["Uncategorized"]
 agency = "Ogilvy"
+brand = "UPS"
 [cover]
   image = "/img/default-post.jpg"
 +++

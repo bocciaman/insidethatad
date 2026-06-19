@@ -4,6 +4,7 @@ date = "2009-03-13T17:37:00+00:00"
 slug = "nba-goes-back-to-college"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "NBA"
 [cover]
   image = "/img/default-post.jpg"
 +++

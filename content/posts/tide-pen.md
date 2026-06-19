@@ -4,6 +4,7 @@ date = "2010-10-30T20:38:00+00:00"
 slug = "tide-pen"
 categories = ["Uncategorized"]
 agency = "Saatchi & Saatchi"
+brand = "Tide"
 [cover]
   image = "http://3.bp.blogspot.com/_ZrvRLk7aCg4/TMyANYWK50I/AAAAAAAAAP4/XXPdU33g9S0/s320/tidetogo_pen.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-04-28T22:37:00+00:00"
 slug = "pepsis-im-good"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Pepsi"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-02-24T22:55:00+00:00"
 slug = "viagra-in-the-mid-east"
 categories = ["Uncategorized"]
 agency = "Young & Rubicam"
+brand = "Viagra"
 [cover]
   image = "/img/default-post.jpg"
 +++

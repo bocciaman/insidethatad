@@ -4,6 +4,7 @@ date = "2013-01-14T04:52:00+00:00"
 slug = "paul-bryant-museum-spot"
 categories = ["Uncategorized"]
 agency = "In-house"
+brand = "Paul W. Bryant Museum"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2011-07-10T02:45:00+00:00"
 slug = "jolie-does-louis-vutton"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Louis Vuitton"
 [cover]
   image = "http://4.bp.blogspot.com/-9KeuoIMxkak/TgBGVwcl3NI/AAAAAAAAASE/y72YTuP2CIY/s400/Jolie+Vutton.jpeg"
 +++

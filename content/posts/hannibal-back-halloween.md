@@ -5,6 +5,7 @@ slug = "hannibal-back-halloween"
 categories = ["Advertising", "agencies", "Art"]
 tags = ["CONFECTIONERY", "HALTER BONBONS", "KSP", "Print", "SNACKS", "SWITZERLAND"]
 agency = "Unknown"
+brand = "NBC"
 [cover]
   image = "/img/2017/11/halter_halloween_hannibal.jpg"
 +++

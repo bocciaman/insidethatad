@@ -5,6 +5,7 @@ slug = "fun-size-salads-halloween-dole-isnt-sure-feels"
 categories = ["Advertising", "Art", "Creative", "Uncategorized"]
 tags = ["advertising", "Creative", "Dole", "Halloween", "mini salad", "Padilla"]
 agency = "Unknown"
+brand = "Dole"
 [cover]
   image = "/img/2017/10/dole-mini-salad-fun-size-hed-2017-840x460.jpg"
 +++

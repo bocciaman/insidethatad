@@ -4,6 +4,7 @@ date = "2012-09-24T15:00:00+00:00"
 slug = "samsung-apple-throw-down"
 categories = ["Uncategorized"]
 agency = "72andsunny"
+brand = "Samsung"
 [cover]
   image = "/img/default-post.jpg"
 +++

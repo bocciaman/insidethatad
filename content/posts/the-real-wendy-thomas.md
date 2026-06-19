@@ -4,6 +4,7 @@ date = "2010-11-13T23:42:00+00:00"
 slug = "the-real-wendy-thomas"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Wendy's"
 [cover]
   image = "/img/default-post.jpg"
 +++

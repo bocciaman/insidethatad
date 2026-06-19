@@ -5,6 +5,7 @@ slug = "ronald-getting-new-threads"
 categories = ["Campaigns"]
 tags = ["clothes", "designer", "McDonald's", "Ronald"]
 agency = "Unknown"
+brand = "McDonald's"
 [cover]
   image = "/img/2014/04/Screen-Shot-2014-04-24-at-9.58.52-PM.png"
 +++

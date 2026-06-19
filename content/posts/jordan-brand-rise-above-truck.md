@@ -4,6 +4,7 @@ date = "2012-07-16T06:36:00+00:00"
 slug = "jordan-brand-rise-above-truck"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Jordan Brand"
 [cover]
   image = "http://1.bp.blogspot.com/-KH91pve787A/T_zoUCWguCI/AAAAAAAALN8/nWP-vsbhL6A/s640/jordan-rise-above-truck-01.jpg"
 +++

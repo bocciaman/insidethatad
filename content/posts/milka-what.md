@@ -4,6 +4,7 @@ date = "2010-11-15T03:56:00+00:00"
 slug = "milka-what"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Milka"
 [cover]
   image = "/img/default-post.jpg"
 +++

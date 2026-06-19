@@ -5,6 +5,7 @@ slug = "nikes-new-nothing-beats-londoner-ad"
 categories = ["Advertising", "agencies", "marketing", "TV spot"]
 tags = ["camera work", "commercials", "football", "london", "memorable", "nike", "wk london"]
 agency = "Wieden + Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/2018/02/nothing-beats-a-londoner-hed-2018.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-05-26T18:08:00+00:00"
 slug = "ice-breakers-turn-you-to-mr-freeze"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Ice Breakers"
 [cover]
   image = "/img/default-post.jpg"
 +++

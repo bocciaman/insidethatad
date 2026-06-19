@@ -4,6 +4,7 @@ date = "2009-01-10T10:17:00+00:00"
 slug = "australian-cancer-psa"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Cancer Council Australia"
 [cover]
   image = "/img/default-post.jpg"
 +++

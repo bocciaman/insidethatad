@@ -5,6 +5,7 @@ slug = "nike-with-the-worlds-fastest-commercial"
 categories = ["Advertising", "agencies", "Art", "Creative", "Sports"]
 tags = ["advertising", "athletes", "fast", "nike", "superstar", "zoom"]
 agency = "Unknown"
+brand = "Nike"
 [cover]
   image = "/img/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png"
 +++

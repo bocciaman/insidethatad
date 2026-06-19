@@ -4,6 +4,7 @@ date = "2012-07-06T04:32:00+00:00"
 slug = "prices-sent-to-orbitz-for-mac-users"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Orbitz"
 [cover]
   image = "http://sneakadtack.com/img/2012/06/P1-BG781_ORBITZ_G_20120625183619.jpg"
 +++

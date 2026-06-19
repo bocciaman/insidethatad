@@ -5,6 +5,7 @@ slug = "voices-in-your-head-for-ben-jerry"
 categories = ["Uncategorized"]
 tags = ["Ben and Jerry", "Food", "Germany", "Miami Ad School", "Print"]
 agency = "Unknown"
+brand = "Ben & Jerry's"
 [cover]
   image = "/img/2019/05/working.jpg"
 +++

@@ -5,6 +5,7 @@ slug = "nike-tells-people-for-once-dont-do-it"
 categories = ["agencies", "political", "Sports"]
 tags = ["America", "george floyd", "nike", "racism", "sports"]
 agency = "Wieden + Kennedy"
+brand = "Nike"
 [cover]
   image = "/img/2020/07/Nike-Dont-Do-It.jpg"
 +++

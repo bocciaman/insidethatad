@@ -4,6 +4,7 @@ date = "2010-10-26T14:49:00+00:00"
 slug = "thicker-hair-polamalu"
 categories = ["Uncategorized"]
 agency = "Saatchi & Saatchi"
+brand = "Head & Shoulders"
 [cover]
   image = "/img/default-post.jpg"
 +++

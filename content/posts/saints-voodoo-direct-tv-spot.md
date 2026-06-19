@@ -4,6 +4,7 @@ date = "2010-09-04T05:20:00+00:00"
 slug = "saints-voodoo-direct-tv-spot"
 categories = ["Uncategorized"]
 agency = "Deutsch"
+brand = "DirecTV"
 [cover]
   image = "/img/default-post.jpg"
 +++

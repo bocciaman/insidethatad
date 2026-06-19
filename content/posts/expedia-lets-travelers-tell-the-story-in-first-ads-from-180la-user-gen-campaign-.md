@@ -4,6 +4,7 @@ date = "2012-07-11T05:36:00+00:00"
 slug = "expedia-lets-travelers-tell-the-story-in-first-ads-from-180la-user-gen-campaign-is-themed-find-yours"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Expedia"
 [cover]
   image = "http://www.adweek.com/files/imagecache/node-blog/blogs/expedia_find_yours.jpg"
 +++

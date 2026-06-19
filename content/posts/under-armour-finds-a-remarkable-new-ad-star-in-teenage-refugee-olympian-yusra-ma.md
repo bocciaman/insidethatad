@@ -6,6 +6,7 @@ categories = ["Advertising", "Campaigns", "Uncategorized"]
 tags = ["refugee", "star", "teenage", "Under Armour"]
 description = "She didn’t take home any medals, but her story was perhaps the most inspiring of the 2016 Rio Olympics."
 agency = "Unknown"
+brand = "Under Armour"
 [cover]
   image = "/img/2017/10/img_3406.jpg"
 +++

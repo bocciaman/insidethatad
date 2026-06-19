@@ -5,6 +5,7 @@ slug = "zoosk-puts-go-daddy-to-shame-with-even-gnarlier-kissing-ad-that-frog-is-
 categories = ["Creative", "TV spot"]
 tags = ["Animals", "dating sites", "Zoosk"]
 agency = "Unknown"
+brand = "Zoosk"
 [cover]
   image = "/img/2013/02/Screen-Shot-2013-02-18-at-11.49.22-AM.png"
 +++

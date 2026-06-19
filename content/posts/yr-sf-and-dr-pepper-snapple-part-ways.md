@@ -4,6 +4,7 @@ date = "2010-09-15T10:23:00+00:00"
 slug = "yr-sf-and-dr-pepper-snapple-part-ways"
 categories = ["Uncategorized"]
 agency = "Deutsch"
+brand = "Dr Pepper"
 [cover]
   image = "/img/default-post.jpg"
 +++

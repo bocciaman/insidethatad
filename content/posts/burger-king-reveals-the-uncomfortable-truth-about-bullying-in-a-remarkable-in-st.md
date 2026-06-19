@@ -5,6 +5,7 @@ slug = "burger-king-reveals-the-uncomfortable-truth-about-bullying-in-a-remarkab
 categories = ["Advertising", "Campaigns"]
 tags = ["advertising", "Bullying", "Burger King", "store", "Truth"]
 agency = "Unknown"
+brand = "Burger King"
 [cover]
   image = "/img/2017/10/Screen-Shot-2017-10-22-at-5.20.45-PM.png"
 +++

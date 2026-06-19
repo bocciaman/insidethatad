@@ -4,6 +4,7 @@ date = "2012-07-13T05:08:00+00:00"
 slug = "michael-phelps-proves-power-of-01-seconds-in-bbdo-brazil-olympic-spot"
 categories = ["Uncategorized"]
 agency = "BBDO"
+brand = "Under Armour"
 [cover]
   image = "/img/default-post.jpg"
 +++

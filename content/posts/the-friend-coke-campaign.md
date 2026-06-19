@@ -5,6 +5,7 @@ slug = "the-friend-coke-campaign"
 categories = ["Art"]
 tags = ["ad creative", "coke", "friend"]
 agency = "Unknown"
+brand = "Coca-Cola"
 [cover]
   image = "/img/2014/07/FriendsOCoke_MyAd.jpg"
 +++

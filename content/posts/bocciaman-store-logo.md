@@ -5,6 +5,7 @@ slug = "bocciaman-store-logo"
 categories = ["Art", "Creative", "Logo", "marketing", "Sports"]
 tags = ["boccia", "bocciaman logo", "paralympics", "sports", "store", "teespring"]
 agency = "Unknown"
+brand = "BocciaMan"
 [cover]
   image = "/img/2019/01/transparent.png"
 +++

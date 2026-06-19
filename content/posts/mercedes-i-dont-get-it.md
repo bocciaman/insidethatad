@@ -4,6 +4,7 @@ date = "2009-05-04T18:30:00+00:00"
 slug = "mercedes-i-dont-get-it"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Mercedes-Benz"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2011-08-10T07:22:00+00:00"
 slug = "hail-to-the-v"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Summer's Eve"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2010-09-29T06:54:00+00:00"
 slug = "kfc-has-a-job-for-you"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "KFC"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/TKLmVp818KI/AAAAAAAAAO4/bdkGD3EhJKA/s320/double+down.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-03-26T22:29:00+00:00"
 slug = "amazon-associates"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Amazon"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/Scwh4Weo3LI/AAAAAAAAAHg/z2y83jRseRw/s320/WArrow.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2009-05-28T06:29:00+00:00"
 slug = "the-art-of-shaving"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "The Art of Shaving"
 [cover]
   image = "/img/default-post.jpg"
 +++

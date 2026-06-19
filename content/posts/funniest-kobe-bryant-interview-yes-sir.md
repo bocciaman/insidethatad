@@ -4,6 +4,7 @@ date = "2011-05-17T06:12:00+00:00"
 slug = "funniest-kobe-bryant-interview-yes-sir"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Turkish Airlines"
 [cover]
   image = "/img/default-post.jpg"
 +++

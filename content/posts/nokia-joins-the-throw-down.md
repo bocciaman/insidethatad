@@ -4,6 +4,7 @@ date = "2012-10-03T05:33:00+00:00"
 slug = "nokia-joins-the-throw-down"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Nokia"
 [cover]
   image = "/img/default-post.jpg"
 +++

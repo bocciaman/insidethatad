@@ -4,6 +4,7 @@ date = "2012-05-28T21:13:00+00:00"
 slug = "paralympian-out-runs-tragedy"
 categories = ["Uncategorized"]
 agency = "BBDO"
+brand = "Nike"
 [cover]
   image = "/img/default-post.jpg"
 +++

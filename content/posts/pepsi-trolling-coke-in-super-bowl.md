@@ -6,6 +6,7 @@ categories = ["Advertising", "agencies", "Campaigns", "Creative", "Super Bowl", 
 tags = ["Andy Warhol", "Atlanta", "coke", "football", "inside that ad", "Pepsi", "Super Bowl", "tv commercial", "tv spot", "Wieden and Kennedy"]
 description = "Pepsi is trolling Coke because they are on Coke’s home turf while they are the main sponsor for the NFL in Coke’s home city. Pepsi is demonstrating its cleverness via 350 ads on billboards, recycling "
 agency = "Unknown"
+brand = "Pepsi"
 [cover]
   image = "/img/2019/01/coke-superbowl-content-2019.jpg"
 +++

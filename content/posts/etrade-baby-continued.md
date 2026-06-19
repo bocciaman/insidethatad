@@ -4,6 +4,7 @@ date = "2009-01-26T20:31:00+00:00"
 slug = "etrade-baby-continued"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "E*Trade"
 [cover]
   image = "http://4.bp.blogspot.com/_ZrvRLk7aCg4/SX4exQsG2MI/AAAAAAAAADQ/7UlZ0ckmacI/s400/Picture+1.png"
 +++

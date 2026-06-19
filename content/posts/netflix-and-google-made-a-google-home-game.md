@@ -5,6 +5,7 @@ slug = "netflix-and-google-made-a-google-home-game"
 categories = ["Advertising", "marketing", "movies", "online advertising"]
 tags = ["advertising", "google", "Netflix", "season", "season 2", "stranger things"]
 agency = "Unknown"
+brand = "Netflix"
 [cover]
   image = "/img/2017/10/stranger-things-google-home-hed-2017.jpg"
 +++

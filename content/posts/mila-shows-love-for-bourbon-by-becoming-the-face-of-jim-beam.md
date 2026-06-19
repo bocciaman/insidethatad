@@ -5,6 +5,7 @@ slug = "mila-shows-love-for-bourbon-by-becoming-the-face-of-jim-beam"
 draft = true
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Jim Beam"
 [cover]
   image = "/img/default-post.jpg"
 +++

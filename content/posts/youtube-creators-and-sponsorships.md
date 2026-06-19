@@ -5,6 +5,7 @@ slug = "youtube-creators-and-sponsorships"
 categories = ["marketing", "Sponsors", "YouTube Videos"]
 tags = ["mkbhd", "online ads", "sponsprship", "wsj", "youtube"]
 agency = "Unknown"
+brand = "YouTube"
 [cover]
   image = "/img/2020/12/Screen-Shot-2020-12-06-at-11.35.45-PM.png"
 +++

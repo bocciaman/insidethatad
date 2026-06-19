@@ -4,6 +4,7 @@ date = "2010-02-27T23:35:00+00:00"
 slug = "paris-hilton-objectifies-women-no"
 categories = ["Uncategorized"]
 agency = "McCann Erickson"
+brand = "Carl's Jr."
 [cover]
   image = "/img/default-post.jpg"
 +++

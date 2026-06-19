@@ -5,6 +5,7 @@ slug = "this-bud-is-for-3-dwyne-wade-is-a-basketball-hero"
 categories = ["Advertising", "agencies", "Campaigns", "Creative"]
 tags = ["basketball", "Budweiser", "Dwyane Wade", "mom", "retirement", "support", "VaynerMedia"]
 agency = "Unknown"
+brand = "Budweiser"
 [cover]
   image = "/img/2019/04/Screen-Shot-2019-04-09-at-10.29.23-PM.png"
 +++

@@ -4,6 +4,7 @@ date = "2011-04-12T04:55:00+00:00"
 slug = "only-you-dove"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Dove"
 [cover]
   image = "/img/default-post.jpg"
 +++

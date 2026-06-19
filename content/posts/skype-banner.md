@@ -5,6 +5,7 @@ slug = "skype-banner"
 categories = ["Advertising", "Campaigns", "online advertising", "political", "YouTube Videos"]
 tags = ["Banners", "Impeachment", "skype", "Steyer"]
 agency = "Unknown"
+brand = "Skype"
 [cover]
   image = "/img/2017/11/tom2.png"
 +++

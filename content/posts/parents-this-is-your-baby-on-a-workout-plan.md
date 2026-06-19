@@ -4,6 +4,7 @@ date = "2012-06-20T04:48:00+00:00"
 slug = "parents-this-is-your-baby-on-a-workout-plan"
 categories = ["Uncategorized"]
 agency = "TBWA"
+brand = "Evian"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2010-09-27T06:24:00+00:00"
 slug = "shake-weight-for-men"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Shake Weight"
 [cover]
   image = "/img/default-post.jpg"
 +++

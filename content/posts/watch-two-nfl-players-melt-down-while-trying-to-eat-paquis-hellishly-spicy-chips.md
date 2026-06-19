@@ -5,6 +5,7 @@ slug = "watch-two-nfl-players-melt-down-while-trying-to-eat-paquis-hellishly-spi
 categories = ["Advertising", "agencies"]
 tags = ["cry", "last", "nfl", "players", "spicy chips", "words"]
 agency = "Unknown"
+brand = "Paqui"
 [cover]
   image = "/img/2017/10/Screen-Shot-2017-10-15-at-4.55.55-PM.png"
 +++

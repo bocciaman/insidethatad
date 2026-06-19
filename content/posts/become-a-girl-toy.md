@@ -4,6 +4,7 @@ date = "2010-10-21T15:06:00+00:00"
 slug = "become-a-girl-toy"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Bratz"
 [cover]
   image = "/img/default-post.jpg"
 +++

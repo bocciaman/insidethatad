@@ -5,6 +5,7 @@ slug = "nba-superstars-are-in-a-march-madness-frenzy"
 categories = ["Advertising", "agencies", "Campaigns"]
 tags = ["capital one", "ddb", "funny", "march madness", "sports"]
 agency = "DDB"
+brand = "NBA"
 [cover]
   image = "/img/2019/03/Screen-Shot-2019-03-28-at-9.54.29-PM.png"
 +++

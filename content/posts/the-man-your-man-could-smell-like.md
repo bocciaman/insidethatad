@@ -4,6 +4,7 @@ date = "2010-08-10T16:58:00+00:00"
 slug = "the-man-your-man-could-smell-like"
 categories = ["Uncategorized"]
 agency = "Wieden + Kennedy"
+brand = "Old Spice"
 [cover]
   image = "/img/default-post.jpg"
 +++

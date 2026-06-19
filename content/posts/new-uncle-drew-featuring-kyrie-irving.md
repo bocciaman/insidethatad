@@ -5,6 +5,7 @@ slug = "new-uncle-drew-featuring-kyrie-irving"
 categories = ["Advertising", "Campaigns"]
 tags = ["advertising", "basketball", "CAMPAIGNS", "Creative"]
 agency = "Unknown"
+brand = "Pepsi"
 [cover]
   image = "/img/2016/07/Screen-Shot-2016-07-26-at-9.48.00-PM.png"
 +++

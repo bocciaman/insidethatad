@@ -5,6 +5,7 @@ slug = "leather-and-cookies"
 categories = ["Campaigns", "Creative", "TV spot"]
 tags = ["Agency", "Axe", "commercial", "Dokyo"]
 agency = "Unknown"
+brand = "Axe"
 [cover]
   image = "/img/2017/10/axe-leather-and-cookies-hed-2017.jpg"
 +++

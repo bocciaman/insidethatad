@@ -4,6 +4,7 @@ date = "2010-11-02T02:37:00+00:00"
 slug = "ken-jeong-comes-to-advertising"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Sketchers"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,6 +4,7 @@ date = "2011-09-05T05:49:00+00:00"
 slug = "futuristic-iphone-features"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Apple"
 [cover]
   image = "/img/default-post.jpg"
 +++

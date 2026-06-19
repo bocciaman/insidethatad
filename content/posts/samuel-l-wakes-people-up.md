@@ -4,6 +4,7 @@ date = "2012-10-02T14:35:00+00:00"
 slug = "samuel-l-wakes-people-up"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Capital One"
 [cover]
   image = "/img/default-post.jpg"
 +++

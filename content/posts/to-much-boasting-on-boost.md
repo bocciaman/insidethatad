@@ -4,6 +4,7 @@ date = "2009-02-20T19:07:00+00:00"
 slug = "to-much-boasting-on-boost"
 categories = ["Uncategorized"]
 agency = "Unknown"
+brand = "Boost Mobile"
 [cover]
   image = "/img/default-post.jpg"
 +++

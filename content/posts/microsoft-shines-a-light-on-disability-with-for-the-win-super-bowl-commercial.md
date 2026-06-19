@@ -5,6 +5,7 @@ slug = "microsoft-shines-a-light-on-disability-with-for-the-win-super-bowl-comme
 categories = ["Advertising", "Campaigns", "Creative", "TV Commercials"]
 tags = ["accessibility", "ad agency", "campaign", "commercials", "disability", "Microsoft", "rams", "Super Bowl", "the big game"]
 agency = "Unknown"
+brand = "Microsoft"
 [cover]
   image = "/img/2019/02/Screen-Shot-2019-02-06-at-9.19.14-PM.png"
 +++

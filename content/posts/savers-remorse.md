@@ -7,7 +7,7 @@ tags = ["Amica", "commercial", "Cronin", "Savers Remorse"]
 description = "Do you know Saver's Remorse is? If not, the Amica Mutual Insurance Company wants to help you understand it."
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2022/03/default-large.jpg"
 +++
 
 <div class="video-container">

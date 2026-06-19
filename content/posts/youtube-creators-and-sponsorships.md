@@ -6,7 +6,7 @@ categories = ["marketing", "Sponsors", "YouTube Videos"]
 tags = ["mkbhd", "online ads", "sponsprship", "wsj", "youtube"]
 agency = "Unknown"
 [cover]
-  image = "/img/2020/12/Screen-Shot-2020-12-05-at-6.49.26-PM2020-12-06.png"
+  image = "/img/2020/12/Screen-Shot-2020-12-06-at-11.35.45-PM.png"
 +++
 
 I have to be honest and share with the two readers of this blog that I’ve recently put in a lot of time into creating  YouTube videos and trying to  build a following. A following is the audience in marketing speak. 

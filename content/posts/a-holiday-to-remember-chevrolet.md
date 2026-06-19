@@ -7,7 +7,7 @@ tags = ["Chevrolet", "commercial", "holiday ad", "TV"]
 description = "This commercial from Chevrolet is one of the best ones I've seen in 2023."
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2023/12/A-Holiday-to-Remember-Chevrolet.jpeg"
 +++
 
 <div class="video-container">

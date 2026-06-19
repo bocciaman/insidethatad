@@ -4,7 +4,7 @@ date = "2013-02-10T17:46:34+00:00"
 slug = "big-papa-in-spanish-for-taco-bell"
 categories = ["Creative", "TV spot"]
 tags = ["Agency", "Creative", "Deutsch", "Taco Bell"]
-agency = "Unknown"
+agency = "Deutsch"
 [cover]
   image = "/img/default-post.jpg"
 +++

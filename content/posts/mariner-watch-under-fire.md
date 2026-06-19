@@ -6,7 +6,7 @@ categories = ["Advertising", "Creative"]
 tags = ["ads", "sex", "violence", "watches"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/03/mariner-watches-ads-hed-page-2019.jpg"
 +++
 
 A number of disturbing advertisements appeared on Mariner Watches social media pages last week. The images portrayed women being forced to drink alcohol and in sexually suggestive positions. in response, of course, the Internet went crazy on social media. I yet another ad featuring a man wearing a Mariner Watch grabbing the throat of a woman.

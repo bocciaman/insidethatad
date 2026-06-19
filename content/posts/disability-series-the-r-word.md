@@ -3,7 +3,7 @@ title = "Disability Series: The R-Word"
 date = "2011-06-07T06:53:00+00:00"
 slug = "disability-series-the-r-word"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "BBDO"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -4,7 +4,7 @@ date = "2013-02-17T21:35:46+00:00"
 slug = "itas-2013-favorite-superbowl-ads"
 categories = ["agencies", "Super Bowl", "TV spot"]
 tags = ["Agency", "BRANDS", "football", "Super Bowl"]
-agency = "Unknown"
+agency = "Deutsch"
 [cover]
   image = "/img/2013/02/ITA-Super-Bowl.jpg"
 +++

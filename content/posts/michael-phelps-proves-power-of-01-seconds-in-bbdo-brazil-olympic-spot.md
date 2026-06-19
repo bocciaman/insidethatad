@@ -3,7 +3,7 @@ title = "Michael Phelps Proves Power of .01 Seconds in BBDO Brazil Olympic Spot"
 date = "2012-07-13T05:08:00+00:00"
 slug = "michael-phelps-proves-power-of-01-seconds-in-bbdo-brazil-olympic-spot"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "BBDO"
 [cover]
   image = "/img/default-post.jpg"
 +++

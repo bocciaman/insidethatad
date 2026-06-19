@@ -7,7 +7,7 @@ tags = ["Andy Warhol", "Atlanta", "coke", "football", "inside that ad", "Pepsi",
 description = "Pepsi is trolling Coke because they are on Coke’s home turf while they are the main sponsor for the NFL in Coke’s home city. Pepsi is demonstrating its cleverness via 350 ads on billboards, recycling "
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/01/coke-superbowl-content-2019.jpg"
 +++
 
 Hello World,

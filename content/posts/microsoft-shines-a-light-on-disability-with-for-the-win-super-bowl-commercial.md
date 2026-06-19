@@ -6,7 +6,7 @@ categories = ["Advertising", "Campaigns", "Creative", "TV Commercials"]
 tags = ["accessibility", "ad agency", "campaign", "commercials", "disability", "Microsoft", "rams", "Super Bowl", "the big game"]
 agency = "Unknown"
 [cover]
-  image = "/img/2019/02/Screen-Shot-2019-02-06-at-10.19.58-PM-300x114.png"
+  image = "/img/2019/02/Screen-Shot-2019-02-06-at-9.19.14-PM.png"
 +++
 
 Hello World,

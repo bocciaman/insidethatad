@@ -3,7 +3,7 @@ title = "Paris Hilton Objectifies Women, No"
 date = "2010-02-27T23:35:00+00:00"
 slug = "paris-hilton-objectifies-women-no"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "McCann Erickson"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -6,7 +6,7 @@ categories = ["Advertising", "agencies", "Super Bowl"]
 tags = ["football", "sports", "Sunday", "Super Bowl"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2020/04/ITA-Super-Bowl.png"
 +++
 
 I know this is two months late but I felt it was important to show here on Inside That Ad. Enjoy!

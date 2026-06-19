@@ -3,7 +3,7 @@ title = "He is Certainly NOT a Failure"
 date = "2010-11-20T18:54:00+00:00"
 slug = "he-is-certainly-not-a-failure"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Wieden + Kennedy"
 [cover]
   image = "/img/default-post.jpg"
 +++

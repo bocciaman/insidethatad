@@ -6,7 +6,7 @@ categories = ["Advertising", "Art"]
 tags = ["Ad", "National Day", "Nissan", "Saudi"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/09/nissan.jpg"
 +++
 
 <div class="video-container">

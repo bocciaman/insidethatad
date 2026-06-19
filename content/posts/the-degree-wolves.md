@@ -3,7 +3,7 @@ title = "The Degree Wolves"
 date = "2011-01-31T06:37:00+00:00"
 slug = "the-degree-wolves"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Deutsch"
 [cover]
   image = "/img/default-post.jpg"
 +++

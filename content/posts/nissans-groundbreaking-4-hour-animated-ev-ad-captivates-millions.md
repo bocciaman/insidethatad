@@ -6,7 +6,7 @@ categories = ["Advertising", "agencies", "Art"]
 tags = ["animated advertisement engagement", "electric vehicle promotion", "innovative advertising techniques", "instrumental music channels", "Lofi Girl YouTube channel", "long-duration commercials", "Nissan brand marketing", "therapeutic animation benefits", "Titmouse visual art", "viewer relaxation strategies"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2023/12/c449f8_59488693cd8148798cf71033a920b285-mv2.jpg.gif"
 +++
 
 Eight million people actually enjoyed an animated advertisement for an electric vehicle. I wouldn't believe it unless I saw it.

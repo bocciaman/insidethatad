@@ -6,7 +6,7 @@ categories = ["Advertising", "agencies", "Creative"]
 tags = ["ad agency", "ads", "baseball", "funny", "social media"]
 agency = "Unknown"
 [cover]
-  image = "/img/2021/11/baseball-joke-1-286x300.jpg"
+  image = "/img/2021/11/baseball-joke-1.jpg"
 +++
 
 I made a bet with a friend of mine on the outcome of the first World Series game which the Atlanta Braves won. I just so happen to have won the bet and to celebrate my victory I sent my friend this photoshopped image.

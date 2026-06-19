@@ -6,7 +6,7 @@ categories = ["Creative"]
 tags = ["10 year old", "Creative", "kids"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2013/02/cropped-ITA-Site-image-011513.jpg"
 +++
 
 <div class="video-container">

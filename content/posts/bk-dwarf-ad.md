@@ -3,7 +3,7 @@ title = "BK Dwarf Ad"
 date = "2009-04-07T21:56:00+00:00"
 slug = "bk-dwarf-ad"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Crispin Porter"
 [cover]
   image = "/img/default-post.jpg"
 +++

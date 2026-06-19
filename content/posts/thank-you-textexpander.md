@@ -6,7 +6,7 @@ categories = ["Sponsors"]
 tags = ["advertising", "affiliate marketing", "marketing"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2020/05/icon_TextExpander512.png"
 +++
 
 Thanks to TextExpander for allowing me to become an affiliate partner. I've been a hard-core TextExpander user for about a year now, and I'm very appreciative of their support￼.

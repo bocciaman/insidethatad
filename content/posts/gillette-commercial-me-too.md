@@ -4,7 +4,7 @@ date = "2019-01-16T09:00:21+00:00"
 slug = "gillette-commercial-me-too"
 categories = ["Advertising", "agencies", "short films"]
 tags = ["AOR Grey bullying", "campaign", "commercial", "Gillette", "manly", "me too", "PSA", "we believe"]
-agency = "Unknown"
+agency = "BBDO"
 [cover]
   image = "/img/2019/01/gillete-blog-post.png"
 +++

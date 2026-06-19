@@ -6,7 +6,7 @@ categories = ["Art", "Logo"]
 tags = ["burberry", "locloste", "logo", "nike", "origin"]
 agency = "Unknown"
 [cover]
-  image = "/img/2019/03/Screen-Shot-2019-03-31-at-1.46.05-PM-300x196.png"
+  image = "/img/2019/03/Screen-Shot-2019-03-31-at-1.46.05-PM.png"
 +++
 
 About a week ago I read a very interesting story about some of the most [famous fashion logos in the world](https://www.wsj.com/articles/the-surprising-stories-behind-8-famous-fashion-logos-11553785697)–their origin stories if you will. I thought this should definitely be shared with Inside That Ad's audience. Without further ado, let's explore some of these famous logos.

@@ -5,7 +5,7 @@ slug = "marketing-job-search-update"
 categories = ["Advertising", "agencies", "job search"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2015/06/Screen-Shot-2015-06-12-at-5.27.18-PM.png"
 +++
 
 <div class="video-container">

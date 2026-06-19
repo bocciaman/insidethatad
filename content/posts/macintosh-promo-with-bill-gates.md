@@ -6,7 +6,7 @@ categories = ["Advertising", "Creative", "marketing", "Uncategorized"]
 tags = ["Apple", "Bill Gates", "Macintosh", "Microsoft"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/11/Mac-1984.jpg"
 +++
 
 <div class="video-container">

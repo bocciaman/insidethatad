@@ -7,7 +7,7 @@ tags = ["Apple", "art", "campaign", "event", "imac", "iphone"]
 description = "Yesterday Apple announced its first event of 2022, set to take place next Tuesday, March 8th, 2022. Featuring the tagline \"Peek Performance.\" Along with a newly designed image for the event, a set o"
 agency = "Unknown"
 [cover]
-  image = "/img/2022/03/Apple-Event-logo.png"
+  image = "/img/2022/03/Screen-Shot-2022-03-02-at-7.01.21-PM.png"
 +++
 
 Yesterday Apple announced its first event of 2022, set to take place next Tuesday, March 8th, 2022. Featuring the tagline "Peek Performance." Along with a newly designed image for the event, a set of nested Apple icons in yellow, orange, red, pink, and purple shades. And no, that's not a typo: instead of "peak performance," which would mean something along the lines of "max performance," Apple is opting for "peek performance." This seemingly means that we'll get a "quick or furtive" look at some sort of performance technology. The video below will be an active YouTube link once the event starts streaming on Monday. 

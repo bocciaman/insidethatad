@@ -147,6 +147,30 @@ def sanitize_filename(s):
     return re.sub(r"[^\w\-]", "-", s).strip("-")[:80]
 
 
+def build_attachment_map(items):
+    """Pass 1: build {attachment_id: url} from wp:post_type=attachment items."""
+    att_map = {}
+    for item in items:
+        post_type = get_text(item, "post_type", "wp")
+        if post_type != "attachment":
+            continue
+        att_id = get_text(item, "post_id", "wp")
+        att_url_el = item.find(f"{{{NS['wp']}}}attachment_url")
+        if att_id and att_url_el is not None and att_url_el.text:
+            att_map[att_id] = att_url_el.text.strip()
+    return att_map
+
+
+def get_thumbnail_id(item):
+    """Return the _thumbnail_id postmeta value for a post item, or None."""
+    for pm in item.findall(f"{{{NS['wp']}}}postmeta"):
+        key_el = pm.find(f"{{{NS['wp']}}}meta_key")
+        val_el = pm.find(f"{{{NS['wp']}}}meta_value")
+        if key_el is not None and key_el.text == "_thumbnail_id":
+            return val_el.text.strip() if val_el is not None and val_el.text else None
+    return None
+
+
 def convert(xml_path, output_dir):
     print(f"Parsing {xml_path}...")
     # WordPress XML may contain undefined HTML entities — replace them before parsing
@@ -214,6 +238,11 @@ def convert(xml_path, output_dir):
     posts_dir.mkdir(parents=True, exist_ok=True)
 
     items = channel.findall("item")
+
+    # Pass 1: build attachment ID → URL map
+    attachment_map = build_attachment_map(items)
+    print(f"Found {len(attachment_map)} attachments")
+
     post_count = 0
     page_count = 0
     skip_count = 0
@@ -261,12 +290,17 @@ def convert(xml_path, output_dir):
         excerpt = (excerpt_el.text or "").strip() if excerpt_el is not None else ""
         excerpt = re.sub(r"<[^>]+>", "", excerpt).strip()
 
-        # Extract first image for featured image; fall back to default
+        # Extract featured image: prefer WordPress _thumbnail_id → attachment URL
         DEFAULT_IMG = "/img/default-post.jpg"
         featured_img = DEFAULT_IMG
-        img_match = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', raw_content, re.IGNORECASE)
-        if img_match:
-            featured_img = fix_image_urls(img_match.group(1))
+        thumb_id = get_thumbnail_id(item)
+        if thumb_id and thumb_id in attachment_map:
+            featured_img = fix_image_urls(attachment_map[thumb_id])
+        else:
+            # Fall back to first inline image in post content
+            img_match = re.search(r'<img[^>]*src=["\']([^"\']+)["\']', raw_content, re.IGNORECASE)
+            if img_match:
+                featured_img = fix_image_urls(img_match.group(1))
 
         # Extract agency and brand/client from raw content
         def extract_field(pattern, text):
@@ -277,11 +311,29 @@ def convert(xml_path, output_dir):
                 return val[:100] if val else ""
             return ""
 
-        # Match "Agency: Name" — stop at line end, em-dash, or asterisks
-        agency = (
-            extract_field(r'\*{0,2}(?:advertising )?[Aa]gency\*{0,2}\s*:\s*\*{0,2}([^—\n\r<\[*]{2,60}?)(?:\s*[—\n]|$)', raw_content)
-            or "Unknown"
-        )
+        # Extract agency — label-based and well-known name patterns only
+        STOP = r'[^—\n\r<\[*]{2,70}?'
+        agency_patterns = [
+            # Explicit "Agency: Name" or "Advertising Agency: Name" label
+            rf'\*{{0,2}}(?:advertising\s+)?[Aa]gency\*{{0,2}}\s*:\s*\*{{0,2}}({STOP})(?=\s*[—\n\r]|$)',
+            rf'[Aa]dvertising\s+[Aa]gency\s*[:\-]\s*({STOP})(?=\s*[—\n\r]|$)',
+            # "appointed X as [its] [new] [advertising] agency/AOR"
+            rf"appointed\s+([A-Z][A-Za-z0-9&\+\s\-]{{3,50}}?)\s+as\s+(?:its\s+)?(?:new\s+)?(?:advertising\s+)?(?:agency|AOR|creative)",
+            # Well-known agency names appearing in the article
+            r'(Wieden\s*\+\s*Kennedy|TBWA|DDB|BBDO|McCann\s+\w+|Ogilvy(?:\s+\w+)?|Saatchi\s*&\s*Saatchi|Leo\s+Burnett|JWT|Grey\s+Global|FCB|R/GA|72andSunny|Droga5|CP\+B|Crispin\s+Porter|Arnold\s+Worldwide|Deutsch|Goodby\s+Silverstein|Young\s*&\s*Rubicam|Havas\s+\w+|Publicis\s+\w+|Anomaly|Innocean)',
+        ]
+        agency = "Unknown"
+        for pat in agency_patterns:
+            val = extract_field(pat, raw_content)
+            if val and len(val) > 2:
+                val = val.split('\n')[0].split('\r')[0]  # take only first line
+                val = re.sub(r'[\.,]+$', '', val).strip()
+                # Reject if it contains sentence-level words (likely a false positive)
+                if re.search(r'\b(came|said|told|which|that|this|with|from|their|have|been)\b', val, re.IGNORECASE):
+                    continue
+                agency = val
+                break
+
         brand = extract_field(r'\*{0,2}(?:[Cc]lient|[Bb]rand)\*{0,2}\s*:\s*\*{0,2}([^—\n\r<\[*]{2,60}?)(?:\s*[—\n]|$)', raw_content)
 
         is_draft = status == "draft"

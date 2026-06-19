@@ -6,7 +6,7 @@ categories = ["Advertising", "Creative"]
 tags = ["deodorant", "Pitvertising", "Right Guard", "stunt marketing"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/04/Screen-Shot-2019-04-21-at-12.36.32-AM.png"
 +++
 
 Sorry for the delay in this weeks' blog post but an idea for a new post literally just hit me in the face. Did you all know that there was such a thing as 'Pitvertising'? Reportedly, deodorant manufacturer Right Guard has created an armpit-based method of advertising which has cleverly been dubbed Pitvertising. This is where street teams (a.k.a. guerilla marketing) are going out in public with clothing that has sewn-in video screens that constantly stream Right Guard ads. The goal is to obviously place Right Guard products top of potential consumers.

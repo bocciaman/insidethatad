@@ -3,7 +3,7 @@ title = "Inside That Ad Presents its Top 10 Ads of 2011"
 date = "2012-01-22T11:38:00+00:00"
 slug = "inside-that-ad-presents-its-top-10-ads-of-2011"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Leo Burnett"
 [cover]
   image = "/img/default-post.jpg"
 +++

@@ -3,7 +3,7 @@ title = "Nightlife Exchange"
 date = "2011-08-20T06:27:00+00:00"
 slug = "nightlife-exchange"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "JWT"
 [cover]
   image = "http://4.bp.blogspot.com/-MSB4x-jBhcU/Tk9THgN2uWI/AAAAAAAAAUA/VaeHKdtilog/s400/Screen+shot+2011-08-19+at+11.19.50+PM.png"
 +++

@@ -4,7 +4,7 @@ date = "2016-07-28T22:01:41+00:00"
 slug = "test-drive-canada-campaign"
 categories = ["Advertising", "agencies", "Creative", "TV spot"]
 tags = ["advertising", "Air Canada", "election", "JWT", "moving", "president", "trump"]
-agency = "Unknown"
+agency = "JWT"
 [cover]
   image = "/img/2016/07/Screen-Shot-2016-07-28-at-9.36.17-PM.png"
 +++

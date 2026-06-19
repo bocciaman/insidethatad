@@ -4,9 +4,9 @@ date = "2015-06-06T04:40:35+00:00"
 slug = "coco_de_mer_does_18"
 categories = ["Advertising"]
 tags = ["advertising", "art", "Coco de Mer", "short film"]
-agency = "Unknown"
+agency = "TBWA"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2015/06/Screen-Shot-2015-06-05-at-9.38.07-PM.png"
 +++
 
 <div class="video-container">

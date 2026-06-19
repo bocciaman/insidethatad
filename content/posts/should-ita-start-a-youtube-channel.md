@@ -7,7 +7,7 @@ tags = ["ad agency", "advertising", "channel", "editing software", "entertainmen
 description = "I’ve been thinking about how I could possibly start an Inside That Ad (ITA) YouTube channel. Do you guys think that’s even possible?"
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/01/2000px-YouTube_social_white_square_2017.svg_-1-1024x778.png"
 +++
 
 Hello World,

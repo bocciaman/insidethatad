@@ -5,7 +5,7 @@ slug = "diet-pepsi-shrank-the-cat"
 categories = ["Advertising", "Art", "Creative", "Print"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2020/10/diet_pepsi_cat.jpg"
 +++
 
 This Diet Pepsi print ad has to be one of the most clever￼ Diet Pepsi print ads that I've ever seen.￼ It implies that people will believe that they will get so thin that they fit in a mouse hole because they drank Diet Pepsi. I mean, it happened with the cat, right?￼ Do advertisers believe that their customers are that stupid? Comments are welcomed and appreciated in the comment section. I'd love to know what you guys think. Did the cat finally realize that any Pepsi products don't help you to lose weight? The cat probably got stuck in the home and ended up dying within the walls.

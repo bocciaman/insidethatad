@@ -3,7 +3,7 @@ title = "Microsoft Tries to One Up Apple"
 date = "2010-11-16T16:06:00+00:00"
 slug = "microsoft-tries-to-one-up-apple"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "tbwa"
 [cover]
   image = "/img/default-post.jpg"
 +++

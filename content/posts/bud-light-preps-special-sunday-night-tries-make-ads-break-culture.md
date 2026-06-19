@@ -4,7 +4,7 @@ date = "2017-10-23T09:00:59+00:00"
 slug = "bud-light-preps-special-sunday-night-tries-make-ads-break-culture"
 categories = ["Advertising", "agencies", "Campaigns"]
 tags = ["advertising", "beer", "bud light", "football", "inbev", "walking dead"]
-agency = "Unknown"
+agency = "Wieden + Kennedy"
 [cover]
   image = "/img/2017/10/Bud-Light-The-Heros-Return-hed-2017.jpg"
 +++

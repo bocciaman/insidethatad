@@ -6,7 +6,7 @@ categories = ["Advertising", "agencies", "Super Bowl", "TV Commercials", "TV spo
 tags = ["ad agencies", "BRANDS", "commercials", "inside that ad", "Super Bowl"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/01/ITA-Super-Bowl.jpg"
 +++
 
 The Super Bowl Sunday isn't just a day for watching football and eating snacks. Viewers also love to sit in front of their televisions and watch flashy commercials that companies spend millions of dollars to make. Well, before today's big game I thought I would share with you some of the commercials that will be airing during today's game. I have to be honest with you, the fact that some of these ads have already appeared on the wonderful, wild Internet is somewhat of a let down for me. Why do you ask? Because you lose some of the excitement of seeing a wonderful ad for the first time, live during the big game. Let me ask you the same question is sharing these ads with the world before the game a good or bad thing? Let me know in the comments section below. By the way, don't forget to check out the [Coke's SuperBowl commercial](https://www.insidethatad.net/pepsi-trolling-coke-in-the-super-bowl-but-coke-still-wins/) that I shared with you last Wednesday.

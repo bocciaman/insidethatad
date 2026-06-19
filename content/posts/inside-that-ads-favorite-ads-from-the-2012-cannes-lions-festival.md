@@ -3,7 +3,7 @@ title = "Inside That Ad's Favorite \"Ads\" from the 2012 Cannes Lions Festival"
 date = "2012-07-12T08:21:00+00:00"
 slug = "inside-that-ads-favorite-ads-from-the-2012-cannes-lions-festival"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "JWT"
 [cover]
   image = "http://www.adweek.com/files/adfreak/images/Cannes/Maxam%20Civilization%20Egypt.jpg"
 +++

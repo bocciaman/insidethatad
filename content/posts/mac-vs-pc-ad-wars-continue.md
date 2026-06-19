@@ -3,7 +3,7 @@ title = "Mac VS PC Ad Wars Continue"
 date = "2009-03-28T12:00:00+00:00"
 slug = "mac-vs-pc-ad-wars-continue"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Crispin Porter"
 [cover]
   image = "/img/default-post.jpg"
 +++

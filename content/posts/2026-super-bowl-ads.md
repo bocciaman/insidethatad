@@ -4,9 +4,9 @@ date = "2026-02-12T14:49:00+00:00"
 slug = "2026-super-bowl-ads"
 categories = ["Super Bowl"]
 tags = ["Amazon", "dunkin", "Pringles", "Super Bowl", "Xfinity"]
-agency = "Unknown"
+agency = "BBDO"
 [cover]
-  image = "/img/2026/02/2026-ITA-Super-Bowl-300x138.jpg"
+  image = "/img/2026/02/2026-ITA-Super-Bowl.jpg"
 +++
 
 [![ITA Super Bowl banner](/img/2026/02/2026-ITA-Super-Bowl-300x138.jpg)](/img/2026/02/2026-ITA-Super-Bowl.jpg) ITA Super Bowl banner

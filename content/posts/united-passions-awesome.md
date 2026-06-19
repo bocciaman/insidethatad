@@ -6,7 +6,7 @@ categories = ["Advertising", "movies", "Sports"]
 tags = ["advertising United Passions", "movie", "soccer"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2015/06/Screen-Shot-2015-06-11-at-4.37.08-PM.png"
 +++
 
 I want to see the movie United Passions last night and contrary to my earlier point it turned out to be an awesome movie. The feature is the docudrama about the history and development of FIFA. Featured below is the trailer  that I'm sure most of you seen already, but wait there is more. The two production companies are [Leuviah Films ](http://www.imdb.com/company/co0417898?ref_=ttco_co_1)& [Thelma Films](http://www.imdb.com/company/co0146460?ref_=ttco_co_2) and they received a majority of their funding from FIFA.

@@ -6,7 +6,7 @@ categories = ["Advertising", "agencies", "Creative"]
 tags = ["BK injuries", "Burger King", "injury", "x-rays"]
 agency = "Unknown"
 [cover]
-  image = "/img/2019/04/BK-Injuries-3-223x300.jpg"
+  image = "/img/2019/04/BK-Injuries-1.jpg"
 +++
 
 Burger King, a global brand is rolling out advertisements using real x-rays of injured customers. The customers apparently injured their jaws eating at a Burger King. Each ad includes an associated tweet about the injury. Personally, I'm still not clear how a brand could benefit when customers are injured while consuming their product? Can you answer that question in the comments section below? It seems to me that consumers would be turning away from the brand not being persuaded by its ads.

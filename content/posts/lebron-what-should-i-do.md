@@ -3,7 +3,7 @@ title = "LeBron, What Should I Do"
 date = "2010-10-28T06:05:00+00:00"
 slug = "lebron-what-should-i-do"
 categories = ["Uncategorized"]
-agency = "Unknown"
+agency = "Wieden + Kennedy"
 [cover]
   image = "/img/default-post.jpg"
 +++

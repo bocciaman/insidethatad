@@ -6,7 +6,7 @@ categories = ["Sports", "Super Bowl", "TV Commercials"]
 tags = ["Super Bowl", "tv commercial"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2023/07/ITA-Super-Bowl.png"
 +++
 
 I know it's been a while since I  posted here. I primarily focus on creating Mac automation YouTube videos these days. So I  wanted to share with the world out there the best Super Bowl commercials in my opinion that aired during this year's (2023) big game. These ads are in no particular order and I  must give to [Ads of the World](https://www.adsoftheworld.com/collections/2023-super-bowl-commercials) where I source all the ads from. Anyway, let's get started. Here is ITA's list of top 5 ads from the 2023 Super Bowl

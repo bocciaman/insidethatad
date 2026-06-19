@@ -6,7 +6,7 @@ categories = ["Uncategorized"]
 tags = ["Ben and Jerry", "Food", "Germany", "Miami Ad School", "Print"]
 agency = "Unknown"
 [cover]
-  image = "/img/2019/05/mom_5-212x300.jpg"
+  image = "/img/2019/05/working.jpg"
 +++
 
 Today's post is of some interesting "student ads" from the Miami Ad School in Germany. I used to be an ad student myself so student ads have a special place in my heart. These ads feature a big-headed character trying to drown out the voices in his head so he does it by having Ben & Jerry's cream on the brain.

@@ -6,7 +6,7 @@ categories = ["Advertising", "Creative"]
 tags = ["Apple", "AppleTV plus", "CODA", "disability", "google", "Oscar"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2022/04/coda-1.jpg"
 +++
 
 <div class="video-container">

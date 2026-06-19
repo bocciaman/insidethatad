@@ -4,7 +4,7 @@ date = "2017-10-19T09:00:31+00:00"
 slug = "agencies-helping-agencies"
 categories = ["agencies"]
 tags = ["advertising", "Agency", "helping hand", "work"]
-agency = "Unknown"
+agency = "Wieden + Kennedy"
 [cover]
   image = "/img/2017/10/HelpingHands.jpg"
 +++

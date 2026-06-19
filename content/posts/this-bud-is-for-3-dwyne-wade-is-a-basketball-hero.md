@@ -6,7 +6,7 @@ categories = ["Advertising", "agencies", "Campaigns", "Creative"]
 tags = ["basketball", "Budweiser", "Dwyane Wade", "mom", "retirement", "support", "VaynerMedia"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2019/04/Screen-Shot-2019-04-09-at-10.29.23-PM.png"
 +++
 
 This Bud is for 3 is the latest [spot from Budweiser](https://www.adweek.com/creativity/budweiser-surprised-dwyane-wade-with-5-visitors-whose-lives-he-changed-for-the-better/), featuring the legendary basketball player, Dwyane Wade. The spot successfully and elegantly demonstrates Wade's impact on and off the court but focuses on the off the court part. Before watching the spot below, grab a box of tissues for the waterworks that will undoubtedly start to flow.

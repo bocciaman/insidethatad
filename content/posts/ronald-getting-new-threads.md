@@ -6,7 +6,7 @@ categories = ["Campaigns"]
 tags = ["clothes", "designer", "McDonald's", "Ronald"]
 agency = "Unknown"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2014/04/Screen-Shot-2014-04-24-at-9.58.52-PM.png"
 +++
 
 Apparently, the most famous McDonald's character is getting some new threads. The fashion upgrade will be done with the assistance of Tony award-winning costume designer [Ann Hould-Ward](www.annhouldward.com/‎), famous for designing for Broadway shows such as "Beauty and the Beast" and "Into the Woods," according to [Creativity](http://creativity-online.com/work/mcdonalds-ronald-mcdonalds-new-threads/35071).

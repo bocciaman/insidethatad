@@ -13,14 +13,14 @@
   force = true
 
 [[redirects]]
-  from = "http://insidethatad.net/*"
-  to = "https://www.insidethatad.net/:splat"
+  from = "http://insidethatad.com/*"
+  to = "https://www.insidethatad.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "http://www.insidethatad.net/*"
-  to = "https://www.insidethatad.net/:splat"
+  from = "http://www.insidethatad.com/*"
+  to = "https://www.insidethatad.com/:splat"
   status = 301
   force = true
 

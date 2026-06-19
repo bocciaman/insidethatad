@@ -123,69 +123,61 @@ a:hover {
   margin: 1em auto;
 }
 
-/* ── Nav dropdown ── */
-.menu__item--dropdown {
-  position: relative;
-}
-
-.menu__arrow {
-  font-size: 0.6em;
-  margin-left: 4px;
-  vertical-align: middle;
-}
-
-/* The toggle button looks like a regular nav link */
-.menu__dropdown-toggle {
-  background: none;
-  border: none;
-  cursor: pointer;
-  display: block;
-  padding: 12px 20px;
-  color: #ccc;
-  text-transform: uppercase;
-  font-size: 0.85rem;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  font-family: inherit;
-  transition: color 0.2s, background 0.2s;
-}
-
-.menu__dropdown-toggle:hover {
+/* ── Sidebar Categories Dropdown ── */
+.sidebar-dropdown-toggle {
+  width: 100%;
+  background-color: #222;
   color: #fff;
+  border: none;
+  padding: 10px 14px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: inherit;
+  border-left: 3px solid #c0392b;
+}
+
+.sidebar-dropdown-toggle:hover {
   background-color: #c0392b;
 }
 
-.menu__dropdown {
+.sidebar-dropdown-arrow {
+  font-size: 0.7em;
+}
+
+.sidebar-dropdown-list {
   display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: #1a1a1a;
-  border-top: 2px solid #c0392b;
   list-style: none;
   margin: 0;
   padding: 0;
-  min-width: 180px;
-  z-index: 100;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+  border: 1px solid #ddd;
+  border-top: none;
 }
 
-.menu__dropdown--open {
+.sidebar-dropdown-list--open {
   display: block;
 }
 
-.menu__dropdown-link {
+.sidebar-dropdown-list li a {
   display: block;
-  padding: 10px 16px;
-  color: #ccc;
+  padding: 9px 14px;
+  color: #222;
   text-decoration: none;
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  white-space: nowrap;
+  font-size: 0.9rem;
+  border-bottom: 1px solid #eee;
 }
 
-.menu__dropdown-link:hover {
+.sidebar-dropdown-list li:last-child a {
+  border-bottom: none;
+}
+
+.sidebar-dropdown-list li a:hover {
   background-color: #c0392b;
   color: #fff;
 }

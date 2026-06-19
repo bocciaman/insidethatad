@@ -6,8 +6,6 @@ categories = ["Art", "Creative", "movies", "Uncategorized"]
 tags = ["Annette Bening", "Ben Mendelsohn", "Brie Larson", "Captain Marvel", "Creative", "Djimon Hounsou", "Gemma Chan", "Jude Law", "marvel", "Marvel Studios", "movie", "posters", "Samuel Jackson"]
 +++
 
-[gallery ids="833,834,835,836,837,838,839,840,841"]
-
 Today being two-days after the long Presidents Day weekend, I thought why not discuss the new Captain Marvel posters I found on the [Graphic Design Forum](https://www.graphicdesignforum.com/t/captain-marvel-posters/6907) before the movie is released in theatres next month. I can already sense that this movie is going to be one of those that people wait in line for hours to go see.The posters were designed by Marvel Studios for each of the main characters in the movie—even the cat.
 ### The Story
 The story is set in the 1990s, Marvel Studios’ “Captain Marvel” is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danvers as she becomes one of the universe’s most powerful heroes. While a galactic war between two alien races reaches Earth, Danvers finds herself and a small cadre of allies at the center of the maelstrom.

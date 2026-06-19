@@ -47,6 +47,11 @@ def wp_content_to_markdown(content):
     # Fix image URLs first
     content = fix_image_urls(content)
 
+    # Strip WordPress shortcodes: [caption]...[/caption] → keep inner content
+    content = re.sub(r'\[caption[^\]]*\](.*?)\[/caption\]', r'\1', content, flags=re.DOTALL)
+    # Strip remaining self-closing or unknown shortcodes like [gallery], [embed], etc.
+    content = re.sub(r'\[/?[a-z_]+[^\]]*\]', '', content)
+
     # Gutenberg blocks: strip block comments
     content = re.sub(r"<!-- /?wp:[^\-].*?-->", "", content, flags=re.DOTALL)
 

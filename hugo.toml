@@ -41,30 +41,29 @@ summaryLength = 70
     weight = 2
   [[menu.main]]
     name = "Categories"
+    identifier = "categories"
     url = "/categories/"
     weight = 3
-    [menu.main.params]
-      dropdown = true
   [[menu.main]]
     name = "Advertising"
     url = "/categories/advertising/"
     weight = 1
-    parent = "Categories"
+    parent = "categories"
   [[menu.main]]
     name = "Campaigns"
     url = "/categories/campaigns/"
     weight = 2
-    parent = "Categories"
+    parent = "categories"
   [[menu.main]]
     name = "Art"
     url = "/categories/art/"
     weight = 3
-    parent = "Categories"
+    parent = "categories"
   [[menu.main]]
     name = "TV Commercials"
     url = "/categories/tv-commercials/"
     weight = 4
-    parent = "Categories"
+    parent = "categories"
   [[menu.main]]
     name = "Contact Me"
     url = "/contact-me/"

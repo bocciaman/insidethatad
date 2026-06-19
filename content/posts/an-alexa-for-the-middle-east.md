@@ -7,5 +7,3 @@ tags = ["Alexa", "Amazon", "middle east"]
 +++
 
 I'm not sure that this is an actual Alexa commercial but it demonstrates the kind of questions that would be asked of Amazon's Alexa in the Middle East. I've found a couple of these types of videos online lately. Also, I  recently discovered that Amazon is launching [Alexa in Saudi Arabia](https://www.arabnews.com/node/2045306/business-economy) which I think is very cool.
-
-[video width="480" height="480" mp4="/uploads/2022/03/Alexa.mp4"][/video]

@@ -30,6 +30,9 @@ summaryLength = 70
     single = "right"
     widgets = ["recent", "categories", "taglist"]
 
+  [params.widgets]
+    recent_num = 4
+
 [menu]
   [[menu.main]]
     name = "Home"

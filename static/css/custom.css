@@ -882,6 +882,65 @@ a:hover {
   .search-page__results { grid-template-columns: 1fr; }
 }
 
+/* ── Pagination ── */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  margin: 2rem 0 1rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.pagination__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #333;
+  background: #fff;
+  border: 1px solid #ddd;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.pagination__btn:first-child {
+  border-radius: 6px 0 0 6px;
+}
+
+.pagination__btn:last-child {
+  border-radius: 0 6px 6px 0;
+}
+
+.pagination__btn:hover {
+  background: #f5f5f5;
+  color: #c0392b;
+}
+
+.pagination__btn--disabled {
+  color: #bbb;
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  cursor: default;
+}
+
+.pagination__info {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 20px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #555;
+  background: #fff;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  white-space: nowrap;
+}
+
 /* ════════════════════════════════════════
    TABLET  (768px – 900px)
    ════════════════════════════════════════ */

@@ -1,11 +1,10 @@
 {{ define "main" }}
 <main class="main" role="main">
 
-  {{/* ── Hero: latest post ── */}}
-  {{- $posts := where .Site.RegularPages "Type" "posts" }}
-  {{- $hero := index $posts 0 }}
-  {{- $rest := after 1 $posts }}
-
+  {{/* ── Hero: latest post (page 1 only) ── */}}
+  {{- $pager := .Paginator }}
+  {{- if eq $pager.PageNumber 1 }}
+  {{- $hero := index $pager.Pages 0 }}
   {{- with $hero }}
   <section class="hero">
     <a href="{{ .RelPermalink }}" class="hero__img-link">
@@ -22,13 +21,20 @@
     </div>
   </section>
   {{- end }}
-
-  {{/* ── Card grid ── */}}
+  {{/* ── Card grid (remaining posts on page 1) ── */}}
   <div class="card-grid">
-    {{- range first 11 $rest }}
+    {{- range after 1 $pager.Pages }}
     {{ partial "post-card.html" . }}
     {{- end }}
   </div>
+  {{- else }}
+  {{/* ── Card grid (all posts on pages 2+) ── */}}
+  <div class="card-grid">
+    {{- range $pager.Pages }}
+    {{ partial "post-card.html" . }}
+    {{- end }}
+  </div>
+  {{- end }}
 
   {{/* ── Pagination ── */}}
   {{ partial "pager.html" . }}

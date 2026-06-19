@@ -5,6 +5,10 @@ slug = "the-degree-wolves"
 categories = ["Uncategorized"]
 +++
 
+<div class="video-container">
+<iframe title="YouTube video player" type="text/html" width="421" height="267" src="http://www.youtube.com/embed/tFeN2J_EKQs" frameborder="0" allowFullScreen></iframe>
+</div>
+
 The ad above I first saw during Roger Federer’s quarterfinal match in the just finished Australian Open. It features [Bear Grylls](http://en.wikipedia.org/wiki/Bear_Grylls), the star of Man vs. Wild, conducts a race between three average Joes that have been outfitted with “meat ponchos” and of course Degree deodorant and their opposition, a pack of wolves.  The objective of the race is to remain alive, be first, and of course without pit stains. All of this was just to show that Degree Deodorant is the best in the business.
 
 Thought the spot was one of the funnier deodorant spot I’ve seen in a while, much more attention getting then scientific advertising. Why you ask, because the ad above is actually funny. Scientific advertising spots tend to be very dry and not funny.

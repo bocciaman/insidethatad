@@ -6,6 +6,10 @@ categories = ["Advertising", "Art"]
 tags = ["Ad", "National Day", "Nissan", "Saudi"]
 +++
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/qdRaE9uKZ0A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 A family member shared this ad with me so I thought I’d share it with the Inside That Ad community. Tomorrow is officially Saudi national day, a celebration of when the kingdom was formed over 100 years ago. For this occasion, Nissan put out this ad demonstrating how the car brand has been a mainstay throughout the country‘s history.
 
 The ad shows a Saudi man driving a Nissan car through a crowd of cars going from the era of black and white to full color. Symbolizing how the car has lasted through Saudi history. At the end of the ad, it simply says Nissan congratulates Saudi citizens celebrating national day.

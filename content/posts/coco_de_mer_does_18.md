@@ -6,6 +6,10 @@ categories = ["Advertising"]
 tags = ["advertising", "art", "Coco de Mer", "short film"]
 +++
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/Grr8_4Xcb4U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 Hello World,
 
 I know it's been a while since my last blog post. But, guess what? I am done with my MBA program and I really wanted to talk about the above ad. As in, was it really  necessary? Also, I really don't believe that there is any anyone else perusing the pages of Inside That Ad. So why not write about advertising and sex, right? Anyhow, on to the ad subject of the day.

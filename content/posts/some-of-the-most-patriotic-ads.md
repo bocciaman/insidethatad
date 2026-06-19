@@ -14,6 +14,18 @@ Here are  some ads that really love America:
 
 **Clint Eastwood: Chrysler**
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/8iXdsvgpwc8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 **USA vs England World Cup: Dodge Challenger "Freedom Commercial"**
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/xqWxgCZ1TQE" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 **Chevy Truck: Our Country**
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/QVVT-wumaLk" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>

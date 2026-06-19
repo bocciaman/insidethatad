@@ -13,23 +13,43 @@ One more thing, they are in no particular order. I did not want to have to rank 
 
 1.** Meet Cue: A New Smart Device for Your Health**
 
+<div class="video-container">
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/PqgaQ9WnJSI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 **Ad Agency: **Donor Advertising
 
 2. **E-trade: "Off the Grid"**
+
+<div class="video-container">
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/4XTdIxmY5UI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 **Ad Agency:** MullenLowe New York
 
 3. **Hellmann’s: Mayo Tackles Food Waste**
 
+<div class="video-container">
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/X_1Ordi5GjY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 **Ad Agency:** Wunderman Thompson
 
 4. **General Motors, Silverado EV**
+
+<div class="video-container">
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/2bZYqFsU72Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 This spot stole the show for me because I'm a huge Sopranos fan. The aired from 1999-2007.
 
 **Ad Agency: **McCann
 
 5. **Kia "Robo Dog"**
+
+<div class="video-container">
+<iframe src="https://players.brightcove.net/377748811/Ti2hZh2xB_default/index.html?videoId=6295091383001" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 **Ad Agency: **David & Goliath
 

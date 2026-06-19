@@ -5,6 +5,10 @@ slug = "i-may-be-wrong-but-i-doubt-it"
 categories = ["Uncategorized"]
 +++
 
+<div class="video-container">
+<iframe allowfullscreen="" frameborder="0" height="267" src="http://www.youtube.com/embed/8YO0EmMrmRA" title="YouTube video player" width="421"></iframe>
+</div>
+
 **
 Above is a music video/advertisement featuring NBA icon Charles Barkley in a spot for T-Mobile. Oh, he was just being his usual self.
 

@@ -15,4 +15,8 @@ The image below is courtesy of [Adverblog](http://www.adverblog.com/2013/03/09/t
 
 Check out the video below for the full details.
 
+<div class="video-container">
+<iframe src="http://www.youtube.com/embed/FrHkKXFRbCI" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+</div>
+
 The “Keep Calm and Carry On” campaign was born when the British government commissioned a series of propaganda posters intended to reassure the public during World War II with Germany. The campaign started with two posters. The first 2 posters are shown in the image below.

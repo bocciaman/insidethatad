@@ -18,12 +18,20 @@ So without further ado, here are my top favorite ads for the 2026 Super Bowl gam
 
 1. **Ad title:** Good Will Dunkin'
 
+<div class="video-container">
+<iframe title="Good Will Dunkin' Super Bowl 2026" src="https://www.youtube-nocookie.com/embed/x3wI8j-z3Iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 **Client: **Dunkin' Donuts
 **Agency:** Artists Equity — the creative studio behind the spot, working with Dunkin’s marketing team.
 
 This spot brilliantly leaned into Boston culture and nostalgia, parodying *Good Will Hunting* in a way that felt self-aware rather than forced. The celebrity casting worked because it didn’t feel random — it felt intentional. The pacing was sharp, the script was tight, and the brand integration was seamless. Most importantly, it was quotable. That’s rare. In a night filled with overproduced ads, this one stood out by simply being smart and funny.
 
 2. **Ad Title:** Jurassic Park... Works
+
+<div class="video-container">
+<iframe title="Jurassic Park Works Xfinity Super Bowl 2026" src="https://www.youtube-nocookie.com/embed/fnncIVKvJkg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 **Client: **Xfinity**
 ****Agency: **Internal creative team and partners including Universal Pictures and Amblin Entertainment
@@ -32,6 +40,10 @@ Reboots and callbacks are always risky, especially when you’re dealing with so
 
 3. **Ad title:** America Needs Neighbors Like You
 
+<div class="video-container">
+<iframe title="America Needs Neighbors Like You Super Bowl 2026" src="https://www.youtube-nocookie.com/embed/99v5YMn2J1E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 **Client: **Rocket and Redfin
 **Agency:** Mirimar – creative agency of record
 
@@ -39,12 +51,20 @@ This was one of the more emotionally grounded spots of the evening. While many b
 
 4. **Ad title:** Pringleos
 
+<div class="video-container">
+<iframe title="Pringleos Super Bowl 2026" src="https://www.youtube-nocookie.com/embed/0OJ62cB3lGI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 **Agency:** BBDO New York as the agency of record behind the creative work.
 **Client: **Pringles
 
 Pringles continues to understand its audience. The absurdity worked here because it was unapologetic. The concept was strange enough to grab attention but structured enough to communicate the product clearly. In a cluttered snack category, standing out visually and tonally is critical. This ad did that. It embraced weirdness while staying on-brand, which is a delicate balance many advertisers fail to achieve during the Super Bowl.
 
 5. **Ad title:** Alexaaaa+
+
+<div class="video-container">
+<iframe title="Alexaaaa+ Amazon Super Bowl 2026" src="https://www.youtube-nocookie.com/embed/ha92_hfK9Po" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
 
 **Client: **Amazon
 **Agency:** Amazon’s in-house marketing/creative team

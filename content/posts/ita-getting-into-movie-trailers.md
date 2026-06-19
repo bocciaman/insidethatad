@@ -8,6 +8,10 @@ tags = ["advertising", "art", "Creative", "movie", "trailer"]
 
 Earlier today I took a photo of the Jurassic Park movie poster plastered all over my neighborhood. I did that with the intention of talking about how [Inside That Ad](http://www.insidethatad.net/) plans  to feature more movie trailers as part of its regular updates.  Movie trailers are a form of advertising for movie. In fact, the [Merriam-Webster](http://www.merriam-webster.com/dictionary/trailer) dictionary defines a movie trailer as "a selected group of scenes that are shown to advertise a movie" So, I figured it would be fair game for this blog to discuss. Below is trailer for the latest addition to the Jurassic Park series "[Jurassic World](http://www.imdb.com/title/tt0369610/?ref_=fn_al_tt_1)."
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/ZXiahojLbOw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 This is just an introductory post, I would really like to find out what you guys think about this idea. I would like to be able to discuss:
 
 	-  the studio that created the trailer

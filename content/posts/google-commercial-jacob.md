@@ -12,6 +12,10 @@ tags = ["advertising", "ESPY awards", "google"]
 
 See Google's debut into television advertising below.
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/ElUK53sf-kc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 My question is this, why is Caitlyn Jenner's gender identity still being discussed? Why can't we let people be who they want to be so long as they don't infringe on anyone else's rights?
 
 Finally, I'll let you know who that agency behind this commercial is as soon as I find out.

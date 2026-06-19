@@ -14,5 +14,9 @@ Here is my question, are the 50 thousand fans really fans of the brand? Or has g
 
 Please leave your comments below.
 
+<div class="video-container">
+<iframe src="http://www.youtube.com/embed/U-1Im7313Q0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+</div>
+
 **Client**: Domino's
 **Agency**: Crispin Porter + Bogusky (CP+B)

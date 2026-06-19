@@ -6,6 +6,10 @@ categories = ["Campaigns", "Creative"]
 tags = ["BRANDS", "CAMPAIGNS"]
 +++
 
+<div class="video-container">
+<iframe src="http://www.youtube-nocookie.com/embed/vyVtMzcON6A?rel=0" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
+</div>
+
 **Client:** Bugles
 **Agency:** [Cossette Toronto](www.cossette.com/en/home)
 

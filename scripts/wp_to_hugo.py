@@ -80,6 +80,14 @@ def wp_content_to_markdown(content):
     content = re.sub(r"<li[^>]*>(.*?)</li>", r"- \1\n", content, flags=re.IGNORECASE | re.DOTALL)
     content = re.sub(r"</?[uo]l[^>]*>", "\n", content, flags=re.IGNORECASE)
 
+    # Protect iframes (YouTube, Vimeo, etc.) before stripping tags
+    # Replace them with a placeholder, restore after tag stripping
+    iframes = []
+    def stash_iframe(m):
+        iframes.append(m.group(0))
+        return f"\n\nIFRAME_PLACEHOLDER_{len(iframes)-1}\n\n"
+    content = re.sub(r"<iframe[^>]*>.*?</iframe>", stash_iframe, content, flags=re.IGNORECASE | re.DOTALL)
+
     # Convert <p> and <br>
     content = re.sub(r"</p>", "\n\n", content, flags=re.IGNORECASE)
     content = re.sub(r"<p[^>]*>", "", content, flags=re.IGNORECASE)
@@ -87,6 +95,16 @@ def wp_content_to_markdown(content):
 
     # Remove remaining HTML tags
     content = re.sub(r"<[^>]+>", "", content)
+
+    # Restore iframes
+    for i, iframe in enumerate(iframes):
+        # Fix protocol-relative URLs (//youtube.com → https://youtube.com)
+        iframe = re.sub(r'src="//([^"]+)"', r'src="https://\1"', iframe)
+        # Wrap in a div for responsive styling
+        responsive = (
+            f'<div class="video-container">\n{iframe}\n</div>'
+        )
+        content = content.replace(f"IFRAME_PLACEHOLDER_{i}", responsive)
 
     # Decode HTML entities
     content = html.unescape(content)

@@ -10,6 +10,10 @@ tags = ["Ad", "advertising", "Billionaire", "Impeachment", "president", "Tom Ste
 
 [![](/uploads/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg)](/uploads/2017/10/mj-618_348_tom-steyer-an-inconvenient-billionaire.jpg)Today, I was watching game 1 of the World Series (Go Dodgers) and Tom Steyer's (a billionaire) impeachment ad comes on my TV screen. Where he's promoting a campaign to impeach the current, sitting President, President Donald J. Trump.
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/GXl8vRmLeJk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 The ad is basically a series of situational images of President Trump along with a voiceover by Steyer. Steyer makes statements that are actually his opinions sound like facts. Well, maybe President Trump did say them but the ad keeps its accusations rather vague. Let me give you a few examples, first, the voiceover says, he's (Trump) brought us to the brink of nuclear war, not exactly true, he doesn't want North Korea to provoke us and force our hand into a potential nuclear war.
 
 Another claim is that the President obstructed justice and the FBI but doesn't say how. Yet another claim says he violated the constitution but again the voiceover doesn't explain how. Actually, that claim may be referring to the travel ban? I'm not sure.

@@ -14,6 +14,10 @@ Acura believes that employing this type of unconventional advertising will help 
 
 The four-part Acura anime series "Chiaki's Journey" debuted at the 2022 Sundance Film Festival and all four episodes are available here.
 
+<div class="video-container">
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/xCLQ4jb1Cmw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 This is a four-part series but the video captures all four in one long video.
 
 Read more at: [https://www.cnet.com/roadshow/news/acura-integra-type-s-anime-performance-cars/](https://www.cnet.com/roadshow/news/acura-integra-type-s-anime-performance-cars/)

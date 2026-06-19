@@ -6,7 +6,9 @@ categories = ["Advertising", "Campaigns", "Creative"]
 tags = ["emotion", "nike", "sports", "women"]
 +++
 
-﻿
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/whpJ19RJ4JY?controls=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
+</div>
 
 Nike, the absolute god of all sports apparel has unveiled its follow-up, a 90-second ad narrated by Serena Williams set to air during last Sunday's Academy Awards ceremony on ABC. The spot, from [Wieden + Kennedy](https://www.wk.com) in Portland, not only champions the accomplishments of female athletes but serves as a call to action, telling viewers to “Dream Crazier.” My favorite part was the fact that they included an athlete with a disability, a fellow U of I alumni, [Tatyana McFadden](http://www.tatyanamcfadden.com).
 

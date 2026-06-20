@@ -1,6 +1,6 @@
 +++
 title = "Dove Real Beauty Sketches: You Are More Beautiful Than You Think"
-date = "2026-02-25T10:00:00+00:00"
+date = "2026-06-19T10:15:00+00:00"
 slug = "dove-real-beauty-sketches"
 categories = ["Campaigns", "Creative"]
 tags = ["Dove", "Ogilvy", "beauty", "self-image", "viral", "women"]

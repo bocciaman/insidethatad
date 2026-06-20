@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Always #LikeAGirl: Turning an Insult Into a Battle Cry"
-date = "2026-03-04T10:00:00+00:00"
+date = "2026-06-19T10:30:00+00:00"
 slug = "always-like-a-girl"
 categories = ["Campaigns", "Creative"]
 tags = ["Always", "Leo Burnett", "women", "empowerment", "LikeAGirl", "Super Bowl"]

@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Burger King's Moldy Whopper: The Most Disgusting Ad Ever Made That Won Everything"
-date = "2026-05-06T10:00:00+00:00"
+date = "2026-06-19T12:45:00+00:00"
 slug = "burger-king-moldy-whopper"
 categories = ["Campaigns", "Creative"]
 tags = ["Burger King", "INGO", "DAVID Miami", "Moldy Whopper", "preservatives", "controversial"]

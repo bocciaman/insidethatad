@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Apple 1984: The Commercial That Only Aired Once and Changed Everything"
-date = "2026-04-01T10:00:00+00:00"
+date = "2026-06-19T11:30:00+00:00"
 slug = "apple-1984-super-bowl"
 categories = ["TV spot", "Creative"]
 tags = ["Apple", "Chiat Day", "1984", "Ridley Scott", "Macintosh", "Super Bowl"]

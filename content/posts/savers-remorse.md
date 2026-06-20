@@ -5,8 +5,8 @@ slug = "savers-remorse"
 categories = ["agencies", "Campaigns"]
 tags = ["Amica", "commercial", "Cronin", "Savers Remorse"]
 description = "Do you know Saver's Remorse is? If not, the Amica Mutual Insurance Company wants to help you understand it."
-agency = "Unknown"
-brand = "Amica"
+agency = "Cronin"
+brand = "Amica Mutual Insurance Company"
 [cover]
   image = "/img/2022/03/default-large.jpg"
 +++

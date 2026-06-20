@@ -1,6 +1,6 @@
 +++
 title = "Heinz Ed Sheeran: When a Celebrity's Real Love Becomes a Campaign"
-date = "2024-04-08T09:00:00+00:00"
+date = "2026-05-20T10:00:00+00:00"
 slug = "heinz-ed-sheeran-ketchup"
 categories = ["Campaigns", "TV spot"]
 tags = ["Heinz", "Wieden Kennedy London", "Ed Sheeran", "ketchup", "celebrity", "authentic"]

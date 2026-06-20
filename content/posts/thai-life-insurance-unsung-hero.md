@@ -1,6 +1,6 @@
 +++
 title = "Thai Life Insurance: Unsung Hero and the Power of Quiet Goodness"
-date = "2024-01-29T09:00:00+00:00"
+date = "2026-03-11T10:00:00+00:00"
 slug = "thai-life-insurance-unsung-hero"
 categories = ["TV spot", "Campaigns"]
 tags = ["Thai Life Insurance", "Ogilvy", "Thailand", "emotional", "viral", "PSA"]

@@ -7,7 +7,7 @@ tags = ["Volvo", "Jean-Claude Van Damme", "Forsman Bodenfors", "trucks", "viral"
 agency = "Forsman & Bodenfors"
 brand = "Volvo Trucks"
 [cover]
-  image = "/img/2024/volvo-epic-split.jpg"
+  image = "/img/2024/01/volvo-epic-split.jpg"
 +++
 
 There are commercials, and then there are moments that transcend advertising entirely and become part of the cultural conversation. Volvo Trucks' "The Epic Split" is firmly in the latter category. Released in November 2013, this 75-second film did something almost no B2B advertisement had ever done before — it went genuinely, globally viral, racking up over 100 million views and earning the kind of earned media that no budget could buy outright.

@@ -7,7 +7,7 @@ tags = ["Dove", "Ogilvy", "beauty", "self-image", "viral", "women"]
 agency = "Ogilvy Brasil"
 brand = "Dove"
 [cover]
-  image = "/img/2024/dove-real-beauty-sketches.jpg"
+  image = "/img/default-post.jpg"
 +++
 
 In April 2013, Dove released a short film that would become one of the most watched advertisements in internet history. "Real Beauty Sketches" reached 163 million views in its first month online, was shared in 25 languages across 110 countries, and sparked a global conversation about self-perception, beauty standards, and the gap between how women see themselves and how others see them.

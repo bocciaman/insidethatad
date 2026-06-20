@@ -7,7 +7,7 @@ tags = ["Dove", "Ogilvy", "beauty", "self-image", "viral", "women"]
 agency = "Ogilvy Brasil"
 brand = "Dove"
 [cover]
-  image = "/img/default-post.jpg"
+  image = "/img/2024/02/dove-real-beauty-sketches.jpg"
 +++
 
 In April 2013, Dove released a short film that would become one of the most watched advertisements in internet history. "Real Beauty Sketches" reached 163 million views in its first month online, was shared in 25 languages across 110 countries, and sparked a global conversation about self-perception, beauty standards, and the gap between how women see themselves and how others see them.
@@ -15,7 +15,7 @@ In April 2013, Dove released a short film that would become one of the most watc
 It was, in almost every measurable way, the most successful viral video in advertising history at the time of its release. And it came from a deodorant and soap brand.
 
 <div class="video-container">
-<iframe src="https://www.youtube-nocookie.com/embed/XpaOjMXyJGk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/qzDUbUQ-qjg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 **The Concept**

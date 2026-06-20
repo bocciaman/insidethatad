@@ -13,7 +13,7 @@ brand = "Nike"
 [![Nike with the World](/img/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png)](/img/2015/07/Screen-Shot-2015-07-02-at-10.46.35-PM.png)The shoe giant Nike recently created the fastest commercial ever advertising their newest Zoom Air sneakers. the spot features some of the world's best athletes doing what they do best at lightning speed. That lightning speed is demonstrated via time lapse video technology of course. Let me know what you think of the spot down below.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/bh8r6S2FNP0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/bh8r6S2FNP0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 The spot was created courtesy of an agency with one of the funniest names I've ever heard of "Must Be Something" also based out of Portland. Being in close proximity to your client must provide extra incentive to produce outstanding work. Anyway, let me know what you guys think of the commercial that incidentally takes a minute and 30 not the traditional 30 seconds.

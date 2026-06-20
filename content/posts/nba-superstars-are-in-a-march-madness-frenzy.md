@@ -14,7 +14,7 @@ This spot for Capital One credit cards is titled "Bracket Buddy." It features Sa
 ### 
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/3a8n48vRpHw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/3a8n48vRpHw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ### Missing Superstar

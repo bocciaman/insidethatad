@@ -11,7 +11,7 @@ brand = "Nissan"
 +++
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/qdRaE9uKZ0A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/qdRaE9uKZ0A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 A family member shared this ad with me so I thought I’d share it with the Inside That Ad community. Tomorrow is officially Saudi national day, a celebration of when the kingdom was formed over 100 years ago. For this occasion, Nissan put out this ad demonstrating how the car brand has been a mainstay throughout the country‘s history.

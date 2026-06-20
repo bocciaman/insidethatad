@@ -16,7 +16,7 @@ I know it's been a while since I  posted here. I primarily focus on creating Ma
 **Agency:** Unknown
 
 <div class="video-container">
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/ZMlemd6U24Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/ZMlemd6U24Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 I loved the 'Breaking Bad' integration. It was created for the Brand PopCorners but I'm not sure of the Ad agency behind the work. They basically did a parody of the series.
@@ -25,7 +25,7 @@ I loved the 'Breaking Bad' integration. It was created for the Brand PopCorners 
 **Agency:** Unknown
 
 <div class="video-container">
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/6iaUoJUdTk4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/6iaUoJUdTk4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 Here it is obviously the play on words and innuendo.
@@ -34,7 +34,7 @@ Here it is obviously the play on words and innuendo.
 **Agency:** Unknown
 
 <div class="video-container">
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/BBIX9FG6kZ0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/BBIX9FG6kZ0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 This Dunkin' spot was funny because of its realism.
@@ -43,7 +43,7 @@ This Dunkin' spot was funny because of its realism.
 **Agency:** Unknown
 
 <div class="video-container">
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/fdN0GWOtsHQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/fdN0GWOtsHQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 I love Snoop Dogg, I firmly believe that he's a cultural icon.
@@ -52,7 +52,7 @@ I love Snoop Dogg, I firmly believe that he's a cultural icon.
 **Agency:** Grey
 
 <div class="video-container">
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/oUMR_Fm2OlM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/oUMR_Fm2OlM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 This Pringles commercial was just "Dumb" funny.

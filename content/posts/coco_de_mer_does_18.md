@@ -11,7 +11,7 @@ brand = "Coco de Mer Does 18+"
 +++
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/Grr8_4Xcb4U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Grr8_4Xcb4U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 Hello World,

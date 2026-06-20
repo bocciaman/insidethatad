@@ -11,7 +11,7 @@ brand = "Nike"
 +++
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/drcO2V2m7lw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/drcO2V2m7lw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 Nike, one of my favorite shoe brands of all time, recently released an ad calling on all Americans not to do what their brand usually tells them to do. Instead, one of the nation's leading athletic apparel companies called on individuals to not turn their back on the painful issue of racism in the United States. The ads themselves are a series of simple yet powerful statements set on a black background. The comments themselves are a series of cowardice or adverse actions that we should not do. For example, don't pretend there's not a problem in America. Don't turn your back on racism. Don't accept innocent lives being taken from us. Don't make any more excuses. Don't think this doesn't affect you. Don't sit back and be silent."

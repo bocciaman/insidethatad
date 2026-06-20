@@ -11,7 +11,7 @@ brand = "Google CODA"
 +++
 
 <div class="video-container">
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/pXc_w49fsmI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
+<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/pXc_w49fsmI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
 </div>
 
 Google's CODA TV spot tells the story of a man named Tony. Tony is what's known as a "CODA", a child of deaf adults. Tony's parents were both born deaf, so he grew up speaking sign language and translating for his parents. During the pandemic, Tony hasn't been able to see his parents in person, but he can still communicate with them through the use of technology, including letting his parents spend time with their new grand-baby. You should note that all the technology in the commercial is a Google related product so no this is not an ode to a certain Apple TV show which I'll talk about next.

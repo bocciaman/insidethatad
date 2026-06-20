@@ -16,7 +16,7 @@ The story is set in the 1990s, Marvel Studios’ “Captain Marvel” is an all-
 ### The Official Trailer
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/Z1BCujX3pw8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Z1BCujX3pw8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ### The Creative

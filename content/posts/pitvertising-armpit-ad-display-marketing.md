@@ -15,7 +15,7 @@ Sorry for the delay in this weeks' blog post but an idea for a new post literall
 Here is a video that went viral.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/2GguAQVqSdE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/2GguAQVqSdE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 I do think this tactic is just a fad and won't last for too long given that in time people will catch onto the armpit videos and expect other creative advertising campaigns; hence, this campaign doesn't have legs. However, I do believe Right Guard's campaign will increase audience attention and curiosity and will lead people to Right Guard's online website for further information or lead them straight to the store for purchase of the deodorant. The tactic itself will not last very long because it going to be seen as a unique marketing stunt only. Furthermore, there aren't too many other products where this tactic can be applied. What do you guys think? Leave comments below.

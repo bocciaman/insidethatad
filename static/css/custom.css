@@ -519,6 +519,18 @@ a:hover {
   color: #922b21;
 }
 
+/* ── Post cover image ── */
+.post__cover {
+  margin: 0 0 1.5rem;
+}
+
+.post__cover img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
 /* ── Post images: full width inside content ── */
 .post__content img {
   max-width: 100%;

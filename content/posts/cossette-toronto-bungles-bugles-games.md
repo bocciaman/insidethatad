@@ -11,7 +11,7 @@ brand = "Bugles"
 +++
 
 <div class="video-container">
-<iframe src="http://www.youtube-nocookie.com/embed/vyVtMzcON6A?rel=0" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/vyVtMzcON6A?rel=0" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
 **Client:** Bugles

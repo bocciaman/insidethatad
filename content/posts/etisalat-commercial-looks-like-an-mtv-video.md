@@ -13,7 +13,7 @@ brand = "Etisalat"
 My wonderful wife turned me on to this ad for Etisalat. Etisalat is a multinational Emirati based telecommunications services provider, currently operating in 15 countries across Asia, the Middle East, and Africa. I wanted to discuss the ad here on Inside That Ad because I believe it's my first time seeing an ad that I confused with a music video. You don't find out that it is actually advertising a product until the end of the commercial. All the scenes are not in any sort of sequence, there is a slogan and everyone in the commercial is dancing in some fashion.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/2wq_YjAuqvk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/2wq_YjAuqvk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ### Commercial Description

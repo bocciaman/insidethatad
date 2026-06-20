@@ -17,5 +17,5 @@ brand = "Apple"
 *
 
 <div class="video-container">
-<iframe src="http://www.youtube.com/embed/Q3qBbzL0oNQ" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/Q3qBbzL0oNQ" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
 </div>

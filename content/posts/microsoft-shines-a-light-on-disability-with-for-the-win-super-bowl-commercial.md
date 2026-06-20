@@ -15,7 +15,7 @@ Hello World,
 I was extremely disappointed with the final result of the Super Bowl game this past Sunday. As you probably have already figured out I was rooting for the Los Angeles Rams, who came up short this year. The game was so boring that one of the commentators actually called it the Snooze Bowl. On the other hand, the commercials did not disappoint. Microsoft's ad titled: "For the Win" I believe really pulled at America's heartstrings this year.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/_YISTzpLXCY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/_YISTzpLXCY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ### The Campaign
@@ -26,7 +26,7 @@ This spot ran during the fourth quarter’s first commercial break of Sunday's [
 I noted earlier that this commercial was extended from their holiday campaign commercial titled "Reindeer Games." See the commercial below.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/v70Fu2WU8-w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/v70Fu2WU8-w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ### The Predecessor

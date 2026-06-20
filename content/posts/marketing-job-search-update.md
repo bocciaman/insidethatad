@@ -10,7 +10,7 @@ brand = "Inside That Ad"
 +++
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/nizTec9OWfA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/nizTec9OWfA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 A video explaining my experience in the post MBA job search thus far.

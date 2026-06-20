@@ -21,5 +21,5 @@ Why you can certainly do some damage to your brand if you support a competitor b
 Finally, I found the agency behind the campaign. It's DAVID The Agency, Buenos Aires. I even found a video of Burger King employees turning away customers who were asking for Whoppers. Some of them were upset, some were dumbfounded and asking how can we not get a whopper here? Customers just couldn't believe what they were hearing even though there was a clear sign right in front of them.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/i3BrbdLcSTk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/i3BrbdLcSTk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>

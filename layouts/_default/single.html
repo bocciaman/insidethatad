@@ -10,7 +10,11 @@
 			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
 		</header>
-		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
+		{{- with .Params.cover.image }}
+		<figure class="post__cover">
+			<img src="{{ . }}" alt="{{ $.Title }}" loading="eager">
+		</figure>
+		{{- end }}
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">
 			{{ .Content }}

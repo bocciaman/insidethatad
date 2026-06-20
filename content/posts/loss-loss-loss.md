@@ -10,5 +10,5 @@ brand = "Inside That Ad"
 +++
 
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="http://www.youtube.com/embed/Lqt5trFI_bY" width="560"></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube-nocookie.com/embed/Lqt5trFI_bY" width="560"></iframe>
 </div>

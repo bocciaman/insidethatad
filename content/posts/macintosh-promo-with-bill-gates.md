@@ -11,7 +11,7 @@ brand = "Macintosh"
 +++
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/-5zeJyQ31rM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/-5zeJyQ31rM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 Here is another advertising treasure I recently discovered, a 1984 Macintosh commercial that featured former Microsoft CEO, Bill Gates. It's actually not a commercial but a promotional video that featured the billionaire. I believe it is the Apple II being featured, its biggest selling points according to the promo video? The GUI interface and the pointer mouse. Can you believe how time just flies? Now we have 10 times that power in Android and iOS phones.

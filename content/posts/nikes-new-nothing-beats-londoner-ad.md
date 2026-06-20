@@ -27,7 +27,7 @@ The spot weaves together a slew of different scenes by having a character from e
 Check out the results below. (The spot is heavy on the London slang. Unfortunately there are no subtitles, though they would come in handy.)
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/n0j_CX1S2es?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/n0j_CX1S2es?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 “‘Nothing Beats a Londoner’ champions a special, unbeatable attitude we’ve discovered in the U.K.’s capital,” W+K London creative directors Paddy Treacy and Mark Shanley said in a statement. “The campaign is from London, for London, and celebrates the next generation of sporting stars against a city backdrop thriving with a culture of sport in every street, park and building. Despite the star cameos, the creative flips the traditional model and holds kids up as the inspiration for all—championing them, their spirit and incredible athlete mindset.”

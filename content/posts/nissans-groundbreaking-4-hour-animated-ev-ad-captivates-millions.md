@@ -13,7 +13,7 @@ brand = "Nissan"
 Eight million people actually enjoyed an animated advertisement for an electric vehicle. I wouldn't believe it unless I saw it.
 
 <div class="video-container">
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/YkcGoztVZiI?si=-JX6bUnhAeUjoc2x" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/YkcGoztVZiI?si=-JX6bUnhAeUjoc2x" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 The journey began in April, featuring this relaxing endeavor, which apparently held therapeutic benefits for several viewers. This project was created for the instrumental YouTube channel [Lofi Girl](https://www.youtube.com/@LofiGirl), featuring artwork by the Los Angeles-based studio [Titmouse](https://titmouse.net/location/los-angeles/).

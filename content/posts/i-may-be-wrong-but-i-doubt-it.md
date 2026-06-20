@@ -10,7 +10,7 @@ brand = "T-Mobile"
 +++
 
 <div class="video-container">
-<iframe allowfullscreen="" frameborder="0" height="267" src="http://www.youtube.com/embed/8YO0EmMrmRA" title="YouTube video player" width="421"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="267" src="https://www.youtube-nocookie.com/embed/8YO0EmMrmRA" title="YouTube video player" width="421"></iframe>
 </div>
 
 **

@@ -22,7 +22,7 @@ As I said earlier, Pepsi is trolling Coke because they are on Coke’s home turf
 But I say that Coke got the last laugh because of the 60-second ad they are putting right before the national anthem directly before the big game. This will be Coca-Cola’s first time not run an in-game Super Bowl ad since 2006. The anthem has become a big deal ever since The animated spot, called "A Coke is a Coke," is by [Wieden & Kennedy Portland](https://adage.com/amp/agency/wieden-kennedy-portland), the same agency t[hat made Nike's Kaepernick ad that divided conservatives and liberals.](https://adage.com/article/cmo-strategy/nike-unveils-lengthy-kaepernick-spot/314830/) Except this ad was inspired by Andy Warhol and attempts to bring us together with unity instead of just divide us.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/6Hcrz4Jq9WE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/6Hcrz4Jq9WE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 Apparently, the great Andy Warhol was the inspiration behind the ad because of a poem in which he states that "a Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking."

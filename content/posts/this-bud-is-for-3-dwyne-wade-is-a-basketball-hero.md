@@ -14,7 +14,7 @@ This Bud is for 3 is the latest [spot from Budweiser](https://www.adweek.com/cre
 ### The Commercial
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/TjXKS6ONtLQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/TjXKS6ONtLQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 But this spot from Budweiser, featuring Wade’s mother and others he’s inspired and supported through extreme hardship, is obviously even more emotional than the usual parting salutes. Wade helped one of his fans graduate college via a full scholarship. Another lady in the spot lost everything in a house fire so Wade took her and her family on a shopping spree. He also supported yet another family of a fan who died in the Parkland shooting tragedy. In yet another example he motivated one of his fans to change his life for the better, inspiring him to go get a job. Finally, Wade's own mother spoke about how he stood by her while she was incarcerated and he eventually bought her a church because she was a minister.

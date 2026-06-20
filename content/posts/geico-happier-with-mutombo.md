@@ -18,7 +18,7 @@ The agency behind the ad is The Martin Agency out of Richmond, VA. Their big ide
 But let’s face it; I love commercials that incorporate legendary athletes in a funny and creative way. The lightheartedness and comedic feel of the spot show you a different side to the retired basketball star.
 
 <div class="video-container">
-<iframe src="http://www.youtube.com/embed/C_0fyUYB3cA" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/C_0fyUYB3cA" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
 **Client**: Geico

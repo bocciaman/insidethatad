@@ -33,7 +33,7 @@ today like real and virtual bullying, sexual harassment and misogyny, and the
 persistence of gender imbalance in corporate America.
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/koPmuEyP3a0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/koPmuEyP3a0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 In the

@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Heinz Ed Sheeran: When a Celebrity's Real Love Becomes a Campaign"
-date = "2026-06-20T13:15:00+00:00"
+date = "2026-06-26T10:15:00+00:00"
 slug = "heinz-ed-sheeran-ketchup"
 categories = ["Campaigns", "TV spot"]
 tags = ["Heinz", "Wieden Kennedy London", "Ed Sheeran", "ketchup", "celebrity", "authentic"]

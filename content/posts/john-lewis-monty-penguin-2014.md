@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "John Lewis Monty the Penguin: Britain's Most Beloved Christmas Ad"
-date = "2026-06-20T12:00:00+00:00"
+date = "2026-06-24T10:00:00+00:00"
 slug = "john-lewis-monty-penguin-2014"
 categories = ["TV spot", "Campaigns"]
 tags = ["John Lewis", "Adam Eve DDB", "Christmas", "UK advertising", "penguin", "emotional"]

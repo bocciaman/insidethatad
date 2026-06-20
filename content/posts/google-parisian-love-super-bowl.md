@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Google Parisian Love: The Search Engine Ad That Made America Cry"
-date = "2026-06-20T12:15:00+00:00"
+date = "2026-06-24T10:15:00+00:00"
 slug = "google-parisian-love-super-bowl"
 categories = ["TV spot", "Super Bowl"]
 tags = ["Google", "Google Creative Lab", "Super Bowl", "search", "love story", "2010"]

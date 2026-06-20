@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Snickers You're Not You When You're Hungry: Betty White and the Perfect Tagline"
-date = "2026-06-20T12:30:00+00:00"
+date = "2026-06-25T10:00:00+00:00"
 slug = "snickers-betty-white-super-bowl"
 categories = ["TV spot", "Super Bowl"]
 tags = ["Snickers", "BBDO", "Betty White", "Super Bowl", "hungry", "tagline"]

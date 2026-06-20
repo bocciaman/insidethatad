@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Volkswagen The Force: How a Kid in a Darth Vader Suit Sold a Million Cars"
-date = "2026-06-19T11:45:00+00:00"
+date = "2026-06-20T11:45:00+00:00"
 slug = "volkswagen-the-force-darth-vader"
 categories = ["TV spot", "Super Bowl"]
 tags = ["Volkswagen", "Deutsch LA", "Darth Vader", "Star Wars", "Super Bowl", "Passat"]

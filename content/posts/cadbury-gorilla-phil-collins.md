@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Cadbury Gorilla: The Drum Solo That Changed British Advertising"
-date = "2026-06-19T11:00:00+00:00"
+date = "2026-06-20T11:00:00+00:00"
 slug = "cadbury-gorilla-phil-collins"
 categories = ["TV spot", "Creative"]
 tags = ["Cadbury", "Fallon London", "gorilla", "Phil Collins", "British advertising", "Dairy Milk"]

@@ -1,6 +1,6 @@
 +++
 title = "Volvo Trucks: The Epic Split Feat. Jean-Claude Van Damme"
-date = "2026-06-19T10:00:00+00:00"
+date = "2026-06-20T10:00:00+00:00"
 slug = "volvo-epic-split-van-damme"
 categories = ["TV spot", "Campaigns"]
 tags = ["Volvo", "Jean-Claude Van Damme", "Forsman Bodenfors", "trucks", "viral"]

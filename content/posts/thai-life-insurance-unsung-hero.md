@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Thai Life Insurance: Unsung Hero and the Power of Quiet Goodness"
 date = "2026-03-11T10:00:00+00:00"
 slug = "thai-life-insurance-unsung-hero"

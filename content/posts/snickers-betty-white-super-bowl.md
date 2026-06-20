@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Snickers You're Not You When You're Hungry: Betty White and the Perfect Tagline"
 date = "2026-04-29T10:00:00+00:00"
 slug = "snickers-betty-white-super-bowl"

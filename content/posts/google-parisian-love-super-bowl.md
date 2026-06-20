@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Google Parisian Love: The Search Engine Ad That Made America Cry"
 date = "2026-04-22T10:00:00+00:00"
 slug = "google-parisian-love-super-bowl"

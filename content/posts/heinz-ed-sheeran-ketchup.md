@@ -1,4 +1,5 @@
 +++
+draft = true
 title = "Heinz Ed Sheeran: When a Celebrity's Real Love Becomes a Campaign"
 date = "2026-05-20T10:00:00+00:00"
 slug = "heinz-ed-sheeran-ketchup"

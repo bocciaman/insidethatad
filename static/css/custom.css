@@ -540,6 +540,50 @@ a:hover {
   margin: 1em auto;
 }
 
+/* ── Contact form ── */
+.contact-form {
+  max-width: 480px;
+  margin: 1.5em 0;
+}
+
+.contact-form label {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 0.6em 0.7em;
+  margin-top: 0.3em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
+.contact-form__hidden {
+  display: none;
+}
+
+.contact-form__submit {
+  background-color: #c0392b;
+  color: #fff;
+  border: none;
+  padding: 0.7em 1.6em;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.contact-form__submit:hover {
+  background-color: #a93226;
+}
+
 /* ── Page wrapper with left skyscraper ── */
 .page-with-ads {
   display: flex;

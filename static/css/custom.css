@@ -453,6 +453,14 @@
 }
 
 
+.post-card__top-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+
 .post-card__brand {
   font-family: 'Inter', sans-serif;
   font-size: 0.78rem;
@@ -461,6 +469,17 @@
   text-transform: uppercase;
   color: #c0392b;
   margin: 0;
+}
+
+
+.post-card__top-row .post-card__date {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: #aaa;
+  margin: 0;
+  margin-left: auto;
+  white-space: nowrap;
 }
 
 

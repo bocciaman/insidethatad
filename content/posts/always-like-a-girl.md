@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Always #LikeAGirl: Turning an Insult Into a Battle Cry"
 date = "2026-06-21T10:00:00+00:00"
 slug = "always-like-a-girl"
@@ -8,7 +7,7 @@ tags = ["Always", "Leo Burnett", "women", "empowerment", "LikeAGirl", "Super Bow
 agency = "Leo Burnett Chicago"
 brand = "Always"
 [cover]
-  image = "/img/2024/always-like-a-girl.jpg"
+  image = "/img/2024/03/always-like-a-girl.jpg"
 +++
 
 Ask a ten-year-old girl to run like a girl, and she'll sprint with everything she has. Ask a teenager to do the same thing, and she'll probably slow down, flail her arms, and laugh awkwardly. That observation — simple, devastating, and entirely true — became the foundation for one of the most powerful advertising campaigns of the decade.
@@ -25,7 +24,7 @@ The campaign grew from a piece of research that was as simple as it was troublin
 
 The phrase "like a girl" was a symptom of that broader cultural problem. Used since at least the 1970s as shorthand for doing something weakly or incompetently, it had become embedded in everyday language — in schoolyards, in locker rooms, in adult conversation — with little conscious awareness of what it was communicating about girls' worth and capability.
 
-Documentary filmmaker Lauren Greenfield was brought in to direct the film. Her approach was to conduct a social experiment: she invited people of various ages to "run like a girl," "throw like a girl," and "fight like a girl," and she filmed their responses without staging or coaching.
+If you enjoyed the [Volvo Epic Split](/posts/volvo-epic-split-van-damme/) breakdown on this site, "#LikeAGirl" belongs in the same conversation about ads that use a single, sustained idea rather than a string of jokes or features. Documentary filmmaker Lauren Greenfield was brought in to direct the film. Her approach was to conduct a social experiment: she invited people of various ages to "run like a girl," "throw like a girl," and "fight like a girl," and she filmed their responses without staging or coaching.
 
 The results were as expected. Teenage boys and girls, and adult women, performed each action with exaggerated weakness — flailing, mincing, performing an idea of inadequacy. When Greenfield asked the young girls in the film — those still on the near side of puberty — to run, throw, and fight like a girl, they simply ran, threw, and fought. As hard as they could. With everything they had.
 
@@ -59,7 +58,9 @@ These tensions are present in virtually all purpose-driven advertising, and they
 
 **Legacy**
 
-"#LikeAGirl" helped establish the template for what has since become an entire genre of advertising: purpose-driven campaigns that engage social issues as a central creative strategy rather than a peripheral brand message. Its influence can be seen in dozens of campaigns that followed — Gillette's "The Best Men Can Be," Nike's "Dream Crazy," Microsoft's work around disability — each of which owed something to the emotional and strategic blueprint laid down by Leo Burnett's work for Always.
+"#LikeAGirl" helped establish the template for what has since become an entire genre of advertising: purpose-driven campaigns that engage social issues as a central creative strategy rather than a peripheral brand message. Its influence can be seen in dozens of campaigns that followed — Gillette's ["The Best Men Can Be"](/posts/gillette-commercial-me-too/), Nike's ["Dream Crazier"](/posts/nikes-dream-crazier-ad-teaches-us-to-strive-for-more/), and Microsoft's [work around disability](/posts/microsoft-shines-a-light-on-disability-with-for-the-win-super-bowl-commercial/) — each of which owed something to the emotional and strategic blueprint laid down by Leo Burnett's work for Always.
+
+For more on the campaign's background and cultural impact, see the [Wikipedia entry on Always #LikeAGirl](https://en.wikipedia.org/wiki/Always_(brand)#%23LikeAGirl_campaign).
 
 **Client:** Always / Procter & Gamble
 **Agency:** Leo Burnett Chicago

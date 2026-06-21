@@ -553,6 +553,7 @@ a:hover {
 
 .contact-form input[type="text"],
 .contact-form input[type="email"],
+.contact-form input[type="url"],
 .contact-form textarea {
   width: 100%;
   padding: 0.6em 0.7em;
@@ -566,6 +567,12 @@ a:hover {
 
 .contact-form__hidden {
   display: none;
+}
+
+.ad-submit-form__optional {
+  font-weight: 400;
+  color: #888;
+  font-size: 0.85em;
 }
 
 .contact-form__submit {

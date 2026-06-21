@@ -50,12 +50,12 @@ summaryLength = 70
 [[params.social]]
   name = "Twitter"
   icon = "fa-brands fa-x-twitter"
-  link = "https://x.com/bocciaman"
+  link = "https://x.com/insidethatad"
 
 [[params.social]]
   name = "Facebook"
   icon = "fa-brands fa-facebook"
-  link = "https://www.facebook.com/anwar.abdallah1"
+  link = "https://www.facebook.com/InsideThatAd"
 
 [[params.social]]
   name = "LinkedIn"
@@ -70,22 +70,7 @@ summaryLength = 70
 [[params.social]]
   name = "Instagram"
   icon = "fa-brands fa-instagram"
-  link = "https://www.instagram.com/bocciaman/"
-
-[[params.social]]
-  name = "GitHub"
-  icon = "fa-brands fa-github"
-  link = "https://github.com/bocciaman"
-
-[[params.social]]
-  name = "Reddit"
-  icon = "fa-brands fa-reddit"
-  link = "https://www.reddit.com/user/bocciaman"
-
-[[params.social]]
-  name = "Bluesky"
-  icon = "fa-brands fa-bluesky"
-  link = "https://bsky.app/profile/bocciaman.bsky.social"
+  link = "https://www.instagram.com/insidethatad/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

@@ -59,7 +59,8 @@
   display: flex;
   justify-content: center;
   gap: 16px;
-  padding: 10px 0 12px;
+  padding: 4px 0 12px;
+  margin-top: -8px;
   background-color: #000;
   width: 100%;
 }
@@ -367,8 +368,8 @@
 .card-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 2.25rem;
-  gap: 2.25rem;
+  grid-gap: 2.75rem;
+  gap: 2.75rem;
   margin-bottom: 2.5rem;
 }
 
@@ -378,20 +379,20 @@
 
 .post-card {
   background: #fff;
-  border-radius: 10px;
+  border-radius: 12px;
   overflow: hidden;
   border: 1px solid #ececec;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   display: flex;
   flex-direction: column;
-  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 
 .post-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
-  border-color: #e0e0e0;
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.16);
+  border-color: #d8d8d8;
 }
 
 
@@ -399,8 +400,20 @@
   display: block;
   position: relative;
   background: #111;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 4 / 3;
   overflow: hidden;
+}
+
+
+.post-card__img-link::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0) 45%);
+  pointer-events: none;
 }
 
 
@@ -410,40 +423,41 @@
   -o-object-fit: cover;
      object-fit: cover;
   display: block;
-  transition: transform 0.4s ease;
+  transition: transform 0.5s ease;
 }
 
 
 .post-card__img-link:hover .post-card__img {
-  transform: scale(1.05);
+  transform: scale(1.08);
 }
 
 
 .post-card__bookmark {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 12px;
+  right: 12px;
   color: #fff;
-  font-size: 1rem;
-  opacity: 0.85;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  font-size: 1.1rem;
+  opacity: 0.9;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+  z-index: 1;
 }
 
 
 .post-card__body {
-  padding: 1.25rem 1.35rem 1.5rem;
+  padding: 1.5rem 1.6rem 1.75rem;
   display: flex;
   flex-direction: column;
   flex: 1;
-  gap: 6px;
+  gap: 8px;
 }
 
 
 .post-card__brand {
   font-family: 'Inter', sans-serif;
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: #c0392b;
   margin: 0;
@@ -452,10 +466,11 @@
 
 .post-card__title {
   font-family: 'Inter', sans-serif;
-  font-size: 1.08rem;
-  font-weight: 700;
-  line-height: 1.4;
-  margin: 2px 0 0;
+  font-size: 1.45rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  margin: 4px 0 0;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -478,11 +493,11 @@
 
 .post-card__agency {
   font-family: 'Inter', sans-serif;
-  font-size: 0.8rem;
-  font-weight: 400;
-  color: #999;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #888;
   margin: auto 0 0;
-  padding-top: 8px;
+  padding-top: 10px;
 }
 
 

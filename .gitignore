@@ -1,4 +1,9 @@
+
+# Local Netlify folder
+.DS_Store
+.hugo_build.lock
+.netlify
+node_modules/
 public/
 resources/
-.hugo_build.lock
-.DS_Store
+static/css/*.map

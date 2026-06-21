@@ -6,6 +6,11 @@
 	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
+	{{- $ogImage := .Params.cover.image | default .Site.Params.logo.image }}
+	{{- with $ogImage }}
+	<meta property="og:image" content="{{ . | absURL }}">
+	<meta name="twitter:image" content="{{ . | absURL }}">
+	{{- end }}
 	{{- if .Site.Params.opengraph }}
 		{{ template "_internal/opengraph.html" . }}
 	{{- end }}

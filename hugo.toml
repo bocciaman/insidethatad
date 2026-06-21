@@ -18,6 +18,7 @@ summaryLength = 70
   toc = false
   comments = true
   customCSS = ["/css/custom.css"]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;600;700;800&display=swap"
 
   [params.logo]
     image = "/images/banner.png"
@@ -28,7 +29,7 @@ summaryLength = 70
     home = "right"
     list = "right"
     single = "right"
-    widgets = ["recent", "categories", "taglist", "ad-square"]
+    widgets = ["recent", "categories", "ad-square"]
 
   [params.widgets]
     recent_num = 4

@@ -1,28 +1,11 @@
 <div class="widget-categories widget">
+  <h4 class="widget__title">Categories</h4>
   <div class="widget__content">
-    <button class="sidebar-dropdown-toggle" aria-expanded="false" type="button">
-      Categories <span class="sidebar-dropdown-arrow">&#9660;</span>
-    </button>
-    <ul class="sidebar-dropdown-list" aria-hidden="true">
-      <li><a href="/categories/advertising/">Advertising</a></li>
-      <li><a href="/categories/campaigns/">Campaigns</a></li>
-      <li><a href="/categories/art/">Art</a></li>
-      <li><a href="/categories/tv-commercials/">TV Commercials</a></li>
+    <ul class="widget__list">
+      <li class="widget__item"><a class="widget__link" href="/categories/advertising/">Advertising</a></li>
+      <li class="widget__item"><a class="widget__link" href="/categories/campaigns/">Campaigns</a></li>
+      <li class="widget__item"><a class="widget__link" href="/categories/art/">Art</a></li>
+      <li class="widget__item"><a class="widget__link" href="/categories/tv-commercials/">TV Commercials</a></li>
     </ul>
   </div>
 </div>
-
-<script>
-  (function() {
-    var btn = document.querySelector('.sidebar-dropdown-toggle');
-    if (!btn) return;
-    btn.addEventListener('click', function() {
-      var expanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', String(!expanded));
-      var list = this.nextElementSibling;
-      list.setAttribute('aria-hidden', String(expanded));
-      list.classList.toggle('sidebar-dropdown-list--open', !expanded);
-      this.querySelector('.sidebar-dropdown-arrow').innerHTML = expanded ? '&#9660;' : '&#9650;';
-    });
-  })();
-</script>

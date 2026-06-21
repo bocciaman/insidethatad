@@ -44,4 +44,3 @@ I want my readers to have the opportunity to submit ads they would like discusse
   </p>
 </form>
 
-Prefer email? Send the same details to [insidethatad@gmail.com](mailto:insidethatad@gmail.com) with the subject line "Ad Submission."

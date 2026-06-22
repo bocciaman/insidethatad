@@ -25,7 +25,7 @@
 		</header>
 		{{- with .Params.cover.image }}
 		<figure class="post__cover">
-			<img src="{{ . }}" alt="{{ $.Title }}" loading="eager">
+			<img src="{{ . }}" alt="{{ $.Title }}" width="1280" height="720" loading="eager">
 		</figure>
 		{{- end }}
 		{{- partial "post_toc.html" . -}}

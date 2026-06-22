@@ -227,6 +227,11 @@
   .nav-search__input { width: 120px; }
   .menu__item--toggle,
   .menu__item--search { padding: 4px 6px; }
+  .nav-search__btn {
+    padding: 10px 12px;
+    min-width: 44px;
+    min-height: 44px;
+  }
 }
 
 
@@ -650,8 +655,13 @@
     font-size: 1.3rem;
   }
   .admin-share__row {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .admin-share__btn {
+    padding: 12px 16px;
+    font-size: 0.85rem;
+    min-height: 44px;
   }
 }
 

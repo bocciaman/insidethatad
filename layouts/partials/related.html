@@ -6,7 +6,7 @@
     {{- range $related }}
     <li class="related__item">
       <a href="{{ .RelPermalink }}" class="related__thumb">
-        <img src="{{ .Params.cover.image | default "/img/default-post.jpg" }}" alt="{{ .Title }}" loading="lazy">
+        <img src="{{ .Params.cover.image | default "/img/default-post.jpg" }}" alt="{{ .Title }}" width="320" height="110" loading="lazy">
       </a>
       <a href="{{ .RelPermalink }}" class="related__link">{{ .Title }}</a>
       <span class="related__date">{{ .Date.Format "January 2, 2006" }}</span>

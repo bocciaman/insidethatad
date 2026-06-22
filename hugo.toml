@@ -48,6 +48,10 @@ summaryLength = 70
     name = "Contact Me"
     url = "/contact-me/"
     weight = 3
+  [[menu.main]]
+    name = "Agency Jobs"
+    url = "/agency-jobs/"
+    weight = 4
 
 [[params.social]]
   name = "Twitter"

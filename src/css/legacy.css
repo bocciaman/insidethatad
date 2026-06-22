@@ -440,6 +440,73 @@
   border-bottom: 3px solid #c0392b;
 }
 
+/* ── Agency job boards page ── */
+.agency-jobs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.agency-jobs-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #fff;
+  border: 1px solid #ececec;
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.agency-jobs-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
+}
+
+.agency-jobs-card__name {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.agency-jobs-card__name a {
+  color: #111;
+  text-decoration: none;
+}
+
+.agency-jobs-card__name a:hover {
+  color: #c0392b;
+}
+
+.agency-jobs-card__count {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  color: #999;
+  margin: 4px 0 12px;
+}
+
+.agency-jobs-card__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 7px 12px;
+  background: #c0392b;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.15s ease;
+}
+
+.agency-jobs-card__btn:hover {
+  opacity: 0.88;
+}
+
 /* ── Tablet: 1-column grid ── */
 @media screen and (max-width: 900px) {
   .card-grid {

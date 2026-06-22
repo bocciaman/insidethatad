@@ -1,0 +1,15 @@
+{{- $url := .Permalink }}
+{{- $title := .Title }}
+<div class="admin-share">
+  <span class="admin-share__label">Push this post:</span>
+  <a class="admin-share__btn admin-share__btn--facebook"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ $url | urlquery }}"
+     target="_blank" rel="noopener noreferrer">
+    <i class="fa-brands fa-facebook"></i> Share to Facebook Page
+  </a>
+  <a class="admin-share__btn admin-share__btn--x"
+     href="https://twitter.com/intent/tweet?url={{ $url | urlquery }}&text={{ $title | urlquery }}"
+     target="_blank" rel="noopener noreferrer">
+    <i class="fa-brands fa-x-twitter"></i> Post to X
+  </a>
+</div>

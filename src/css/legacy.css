@@ -1079,6 +1079,53 @@ a:hover {
   cursor: default;
 }
 
+/* ── Admin share buttons (push post to ITA's own Facebook/X) ── */
+.admin-share {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 2rem 0 0;
+  padding: 1rem;
+  background: #faf7f7;
+  border: 1px dashed #ddd;
+  border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+}
+
+.admin-share__label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #999;
+}
+
+.admin-share__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+  transition: opacity 0.15s ease;
+}
+
+.admin-share__btn:hover {
+  opacity: 0.88;
+}
+
+.admin-share__btn--facebook {
+  background: #1877f2;
+}
+
+.admin-share__btn--x {
+  background: #000;
+}
+
 .post-nav__btn--home {
   border-left: none;
   border-right: none;

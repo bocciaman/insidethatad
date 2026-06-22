@@ -563,6 +563,10 @@
   .hero__title {
     font-size: 1.3rem;
   }
+  .admin-share__row {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
 
 
@@ -1317,12 +1321,8 @@ a:hover {
 
 
 .admin-share {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 10px;
   margin: 2rem 0 0;
-  padding: 1rem;
+  padding: 0.75rem;
   background: #faf7f7;
   border: 1px dashed #ddd;
   border-radius: 8px;
@@ -1330,22 +1330,31 @@ a:hover {
 }
 
 
+.admin-share__row {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 6px;
+}
+
+
 .admin-share__label {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.03em;
   color: #999;
+  white-space: nowrap;
 }
 
 
 .admin-share__btn {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 8px 16px;
-  border-radius: 6px;
-  font-size: 0.85rem;
+  gap: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 0.72rem;
   font-weight: 600;
   -webkit-text-decoration: none;
   text-decoration: none;
@@ -1353,6 +1362,7 @@ a:hover {
   border: none;
   cursor: pointer;
   font-family: inherit;
+  white-space: nowrap;
   transition: opacity 0.15s ease;
 }
 
@@ -1378,10 +1388,9 @@ a:hover {
 
 
 .admin-share__hint {
-  flex-basis: 100%;
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   color: #999;
-  margin-top: 4px;
+  margin: 6px 0 0;
 }
 
 

@@ -7,8 +7,9 @@
      target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-facebook"></i> Share to Facebook Page
   </a>
+  {{- $xText := printf "%s %s" $title $url }}
   <a class="admin-share__btn admin-share__btn--x"
-     href="https://twitter.com/intent/tweet?url={{ $url | urlquery }}&text={{ $title | urlquery }}"
+     href="https://x.com/intent/post?text={{ $xText | urlquery }}"
      target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-x-twitter"></i> Post to X
   </a>

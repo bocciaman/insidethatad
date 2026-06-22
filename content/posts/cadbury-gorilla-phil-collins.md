@@ -1,14 +1,13 @@
 +++
-draft = true
 title = "Cadbury Gorilla: The Drum Solo That Changed British Advertising"
-date = "2026-06-22T10:00:00+00:00"
+date = "2026-06-21T19:00:00+00:00"
 slug = "cadbury-gorilla-phil-collins"
 categories = ["TV spot", "Creative"]
 tags = ["Cadbury", "Fallon London", "gorilla", "Phil Collins", "British advertising", "Dairy Milk"]
 agency = "Fallon London"
 brand = "Cadbury Dairy Milk"
 [cover]
-  image = "/img/2024/cadbury-gorilla.jpg"
+  image = "/img/2024/05/cadbury-gorilla.jpg"
 +++
 
 There is a moment in the Cadbury Gorilla commercial — you'll know it if you've seen it — where the gorilla's eyes close and the drums begin in earnest. The first crash of Phil Collins' "In The Air Tonight" hits, and the gorilla, with an expression of absolute transported joy, begins to play. And something extraordinary happens: you stop watching an advertisement and start watching something that is genuinely, inexplicably moving.
@@ -51,7 +50,7 @@ Cadbury's sales increased by 9% in the weeks following the launch. More signific
 
 **The Industry Response**
 
-British advertising had spent years in the grip of what critics called "purpose fatigue" — the tendency of brands to justify their existence through social messaging rather than pure entertainment. The Gorilla was a reaction to that tendency. It was joyful without being saccharine. It was absurd without being stupid. It trusted the audience to feel something without explaining why they should feel it.
+British advertising had spent years in the grip of what critics called "purpose fatigue" — the tendency of brands to justify their existence through social messaging rather than pure entertainment. The Gorilla was a reaction to that tendency. It was joyful without being saccharine. It was absurd without being stupid. It trusted the audience to feel something without explaining why they should feel it. In that sense it belongs in the same conversation as [Volvo's "The Epic Split"](/posts/volvo-epic-split-van-damme/) — another spot that earns its emotional payoff through a single sustained idea rather than a list of product features.
 
 Ad industry publication Campaign named it the best British commercial of the decade. Fallon London won numerous awards, and Juan Cabral's reputation as one of the most distinctive creative voices in British advertising was firmly established. He went on to direct the equally celebrated Sony "Balls" spot, but the Gorilla remains the pinnacle.
 
@@ -64,3 +63,5 @@ Cadbury followed the Gorilla with additional ads featuring eyebrow-dancing child
 **Creative Director:** Juan Cabral
 **Performer:** Garon Michael
 **Year:** 2007
+
+For more on the campaign's background and legacy, see the [Wikipedia entry on the Cadbury Gorilla advertisement](https://en.wikipedia.org/wiki/Gorilla_(advertisement)).

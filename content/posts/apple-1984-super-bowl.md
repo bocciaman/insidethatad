@@ -1,14 +1,13 @@
 +++
-draft = true
 title = "Apple 1984: The Commercial That Only Aired Once and Changed Everything"
-date = "2026-06-23T10:00:00+00:00"
+date = "2026-06-21T19:15:00+00:00"
 slug = "apple-1984-super-bowl"
 categories = ["TV spot", "Creative"]
 tags = ["Apple", "Chiat Day", "1984", "Ridley Scott", "Macintosh", "Super Bowl"]
 agency = "Chiat/Day"
 brand = "Apple"
 [cover]
-  image = "/img/2024/apple-1984.jpg"
+  image = "/img/2024/05/apple-1984.jpg"
 +++
 
 January 22, 1984. Super Bowl XVIII. The Los Angeles Raiders were leading the Washington Redskins in the third quarter when a 60-second commercial aired that would be analyzed, debated, and referenced for the next four decades. It was called "1984." It aired nationally exactly once. And it changed what advertising could be.
@@ -57,8 +56,12 @@ What "1984" established was the possibility — and the commercial viability —
 
 The commercial set the template for virtually every major product launch in technology advertising that followed. The idea that a tech company could position itself not just as a vendor but as a force for human liberation — against conformity, against corporate power, for the individual — runs directly from this film through two generations of Apple advertising and into the broader culture of Silicon Valley self-mythology.
 
+Of course, a piece of advertising this iconic eventually attracts its own parodies and tributes. See [Goodbye 1984: Making Fun of Apple](/posts/goodbye-1984-making-fun-of-apple/) on this site for a look at how the ad's legacy has been riffed on since.
+
 **Client:** Apple Computer
 **Agency:** Chiat/Day
 **Creative Directors:** Steve Hayden, Brent Thomas
 **Director:** Ridley Scott
 **Year:** 1984
+
+For more on the commercial's production and legacy, see the [Wikipedia entry on Apple's "1984" advertisement](https://en.wikipedia.org/wiki/1984_(advertisement)).

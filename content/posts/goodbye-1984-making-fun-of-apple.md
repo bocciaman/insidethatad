@@ -17,6 +17,8 @@ The ad above for Motorola makes is an attempt, in my opinion to make fun of Appl
 
 The ad agency behind the spot is Anomaly. See if you can spot the similarities. Please let me know what you think by commenting below.
 
+If you're unfamiliar with the original, see [our full breakdown of Apple's "1984" commercial](/posts/apple-1984-super-bowl/) — the ad this Motorola spot is riffing on.
+
 <div class="video-container">
 <iframe title="YouTube video player" width="422" height="347" src="https://www.youtube-nocookie.com/embed/OYecfV3ubP8" frameborder="0" allowfullscreen></iframe>
 </div>

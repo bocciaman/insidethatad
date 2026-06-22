@@ -1111,6 +1111,9 @@ a:hover {
   font-weight: 600;
   text-decoration: none;
   color: #fff;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
   transition: opacity 0.15s ease;
 }
 
@@ -1124,6 +1127,17 @@ a:hover {
 
 .admin-share__btn--x {
   background: #000;
+}
+
+.admin-share__btn--copy {
+  background: #c0392b;
+}
+
+.admin-share__hint {
+  flex-basis: 100%;
+  font-size: 0.78rem;
+  color: #999;
+  margin-top: 4px;
 }
 
 .post-nav__btn--home {

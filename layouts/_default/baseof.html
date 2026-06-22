@@ -5,7 +5,16 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{ block "title" . }}{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ .Site.Title }}{{ end }}</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
+	{{- $metaDescription := "" }}
+	{{- if .IsHome }}
+		{{- $metaDescription = .Site.Params.description }}
+	{{- else if .Params.description }}
+		{{- $metaDescription = .Params.description }}
+	{{- else }}
+		{{- $metaDescription = .Summary | plainify | htmlUnescape | truncate 160 }}
+	{{- end }}
+	<meta name="description" content="{{ $metaDescription }}">
+	<link rel="canonical" href="{{ .Permalink }}">
 	{{- $ogImage := .Params.cover.image | default .Site.Params.logo.image }}
 	{{- with $ogImage }}
 	<meta property="og:image" content="{{ . | absURL }}">
@@ -16,6 +25,25 @@
 	{{- end }}
 	{{- if .Site.Params.schema }}
 		{{ template "_internal/schema.html" . }}
+	{{- end }}
+	{{- if and .IsPage (eq .Type "posts") }}
+	{{- $schemaData := dict
+		"@context" "https://schema.org"
+		"@type" "Article"
+		"headline" .Title
+		"description" $metaDescription
+		"image" (slice ($ogImage | absURL))
+		"datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+		"dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+		"author" (dict "@type" "Person" "name" "Inside That Ad")
+		"publisher" (dict
+			"@type" "Organization"
+			"name" "Inside That Ad"
+			"logo" (dict "@type" "ImageObject" "url" (.Site.Params.logo.image | absURL))
+		)
+		"mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+	}}
+	<script type="application/ld+json">{{ $schemaData | jsonify (dict "indent" "  ") | safeJS }}</script>
 	{{- end }}
 	{{- if .Site.Params.twitter_cards }}
 		{{ template "_internal/twitter_cards.html" . }}

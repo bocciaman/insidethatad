@@ -581,6 +581,28 @@ body {
 }
 
 
+.post__brand-agency {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #888;
+  margin: 4px 0 0;
+}
+
+
+.post__brand-agency a {
+  color: #c0392b;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+
+.post__brand-agency a:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+
 /* Drop cap on first paragraph of posts */
 
 

@@ -9,6 +9,19 @@
 			{{ with partial "post_meta.html" . -}}
 			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
+			{{- $brandTerms := .GetTerms "brand" }}
+			{{- $agencyTerms := .GetTerms "agency" }}
+			{{- $brandTerm := "" }}
+			{{- $agencyTerm := "" }}
+			{{- if gt (len $brandTerms) 0 }}{{ $brandTerm = index $brandTerms 0 }}{{ end }}
+			{{- if gt (len $agencyTerms) 0 }}{{ $agencyTerm = index $agencyTerms 0 }}{{ end }}
+			{{- if or $brandTerm (and $agencyTerm (ne $agencyTerm.Title "Unknown")) }}
+			<p class="post__brand-agency">
+				{{- with $brandTerm }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{- end }}
+				{{- if and $brandTerm $agencyTerm (ne $agencyTerm.Title "Unknown") }} &middot; {{ end }}
+				{{- with $agencyTerm }}{{ if ne .Title "Unknown" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{- end }}
+			</p>
+			{{- end }}
 		</header>
 		{{- with .Params.cover.image }}
 		<figure class="post__cover">

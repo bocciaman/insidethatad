@@ -9,6 +9,7 @@ summaryLength = 70
 [params]
   description = "Have you ever walked by, driven past, or seen an advertisement and wondered who done it? I know I have. So please enjoy the answers right here at Inside That Ad."
   opengraph = true
+  schema = true
   twitter_cards = true
   readmore = true
   authorbox = false
@@ -79,6 +80,8 @@ summaryLength = 70
 [taxonomies]
   category = "categories"
   tag = "tags"
+  brand = "brand"
+  agency = "agency"
 
 [markup]
   [markup.goldmark]

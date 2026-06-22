@@ -9,17 +9,21 @@
 		</div>
 		{{- $exclude := slice "Unknown" "Various Agencies" "In-House" }}
 		{{- $taxPage := .Site.GetPage "taxonomyTerm" "agency" }}
+		{{- $careersData := hugo.Data.agency_careers.urls }}
 		<div class="agency-jobs-grid">
 			{{- range $taxPage.Pages.ByTitle }}
 				{{- if not (in $exclude .Title) }}
 				{{- $count := len .Pages }}
+				{{- $careersURL := index $careersData .Title }}
+				{{- $isVerified := false }}
+				{{- if $careersURL }}{{ $isVerified = true }}{{ else }}{{ $careersURL = printf "https://www.google.com/search?q=%s" (printf "%s careers" .Title | urlquery) }}{{ end }}
 				<div class="agency-jobs-card">
 					<div class="agency-jobs-card__body">
 						<h2 class="agency-jobs-card__name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 						<p class="agency-jobs-card__count">{{ $count }} article{{ if ne $count 1 }}s{{ end }} on ITA</p>
 					</div>
-					<a class="agency-jobs-card__btn" href="https://www.google.com/search?q={{ printf "%s careers" .Title | urlquery }}" target="_blank" rel="noopener noreferrer">
-						<i class="fa-solid fa-briefcase"></i> Search Openings
+					<a class="agency-jobs-card__btn{{ if not $isVerified }} agency-jobs-card__btn--search{{ end }}" href="{{ $careersURL }}" target="_blank" rel="noopener noreferrer">
+						<i class="fa-solid fa-briefcase"></i> {{ if $isVerified }}Careers Page{{ else }}Search Openings{{ end }}
 					</a>
 				</div>
 				{{- end }}

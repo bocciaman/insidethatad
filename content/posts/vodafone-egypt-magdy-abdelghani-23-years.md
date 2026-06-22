@@ -11,7 +11,7 @@ brand = "Vodafone Egypt"
   image = "/img/2026/06/vodafone-magdy-abdelghani.jpg"
 +++
 
-There's a very specific kind of national joke that only works if the person at the center of it is in on it. Egypt has had one of those for over two decades: Magdy Abdelghani's penalty goal against the Netherlands at Italia '90, which remained the country's only World Cup goal for 23 straight years. Vodafone Egypt and J. Walter Thompson Cairo built an entire commercial around the fact that everyone in Egypt has heard about that goal approximately one million times — and they got Abdelghani himself to play along.
+There's a very specific kind of national joke that only works if the person at the center of it is in on it. Egypt has had one of those for over two decades: Magdy Abdelghani's penalty goal against the Netherlands at Italia '90, which remained the country's only World Cup goal for 23 straight years. That is until today when [Mohamad Salah and the Egypt's National Football Team](https://www.nytimes.com/athletic/7381907/2026/06/21/new-zealand-egypt-world-cup-2026-score-results-takeaways-salah/) won their first ever World Cup match against New Zealand. Vodafone Egypt and J. Walter Thompson Cairo built an entire commercial around the fact that everyone in Egypt has heard about that goal approximately one million times — and they got Abdelghani himself to play along.
 
 <div class="video-container">
 <iframe src="https://www.youtube-nocookie.com/embed/TbcHKPGeRUw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

@@ -1,7 +1,8 @@
 {{ define "main" }}
 <main class="main" role="main">
 
-  {{- $pager := .Paginator }}
+  {{- $posts := where .Site.RegularPages "Type" "posts" }}
+  {{- $pager := .Paginate $posts }}
   <div class="card-grid">
     {{- range $pager.Pages }}
     {{ partial "post-card.html" . }}

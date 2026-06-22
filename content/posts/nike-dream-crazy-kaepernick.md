@@ -1,14 +1,14 @@
 +++
-draft = true
 title = "Nike Dream Crazy: The Ad That Risked Everything and Won"
-date = "2026-06-22T10:15:00+00:00"
+date = "2026-06-22T08:00:00+00:00"
 slug = "nike-dream-crazy-kaepernick"
 categories = ["Campaigns", "TV spot"]
 tags = ["Nike", "Wieden Kennedy", "Kaepernick", "Dream Crazy", "Just Do It", "protest"]
+description = "Nike's Dream Crazy ad with Colin Kaepernick risked a boycott and won anyway. Here's why the bet on Wieden+Kennedy's boldest campaign paid off."
 agency = "Wieden+Kennedy Portland"
 brand = "Nike"
 [cover]
-  image = "/img/2024/nike-dream-crazy.jpg"
+  image = "/img/2024/06/nike-dream-crazy.jpg"
 +++
 
 On September 3, 2018, Nike posted a black-and-white close-up photograph of Colin Kaepernick's face with the words: "Believe in something. Even if it means sacrificing everything. Just Do It." Within hours, the internet had split. Nike's stock dropped two percent. Videos of people burning their Nike shoes circulated on social media. The hashtag #BoycottNike trended nationally.
@@ -53,9 +53,11 @@ The result was a film that worked simultaneously as a sports film, a brand film,
 
 More significantly, it demonstrated that brand purpose advertising could work even in polarizing territory — perhaps especially in polarizing territory — if the brand was willing to accept that it couldn't speak to everyone. Nike's decision was a calculated bet that authenticity and courage would resonate more strongly with its core audience than political neutrality.
 
-It was a bet that paid off in every measurable way.
+It was a bet that paid off in every measurable way, the same way [Always' #LikeAGirl](/posts/always-like-a-girl/) proved that a brand willing to take an unambiguous stance on a cultural issue can build more loyalty than one that plays it safe.
 
 **Client:** Nike
 **Agency:** Wieden+Kennedy Portland
 **Director:** Melina Matsoukas
 **Year:** 2018
+
+For more on the campaign's background and reception, see the [Wikipedia entry on Nike's Dream Crazy advertisement](https://en.wikipedia.org/wiki/Dream_Crazy).

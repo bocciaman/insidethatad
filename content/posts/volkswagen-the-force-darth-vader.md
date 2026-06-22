@@ -1,14 +1,14 @@
 +++
-draft = true
 title = "Volkswagen The Force: How a Kid in a Darth Vader Suit Sold a Million Cars"
-date = "2026-06-23T10:15:00+00:00"
+date = "2026-06-22T08:15:00+00:00"
 slug = "volkswagen-the-force-darth-vader"
 categories = ["TV spot", "Super Bowl"]
 tags = ["Volkswagen", "Deutsch LA", "Darth Vader", "Star Wars", "Super Bowl", "Passat"]
+description = "Volkswagen's The Force used a kid in a Darth Vader suit and a pre-release strategy to become Super Bowl history. Here's how Deutsch LA pulled it off."
 agency = "Deutsch LA"
 brand = "Volkswagen"
 [cover]
-  image = "/img/2024/vw-the-force.jpg"
+  image = "/img/2024/06/vw-the-force.jpg"
 +++
 
 Every now and then an advertisement emerges that feels less like something crafted in a meeting room and more like something that had always existed, waiting to be discovered. Volkswagen's "The Force" is that kind of commercial. Released in the week before Super Bowl XLV in 2011 and created by Deutsch LA, it became the most watched commercial in Super Bowl history at the time — not because it aired during the game, but because it went viral before the game even happened.
@@ -31,7 +31,7 @@ The child cast in the role was Max Page, then six years old and shortly to begin
 
 What distinguished "The Force" from most Super Bowl advertising was the decision to release it publicly five days before the game. This was 2011, and the Super Bowl pre-release strategy was not yet standard practice. Deutsch LA and Volkswagen uploaded the film to YouTube on February 2nd, and it was shared by over a million people before it aired on television.
 
-The early release generated the kind of media coverage that money can't buy. Television morning shows aired the clip. News websites embedded it. By game day, most of the country had already seen it — but watched it again during the broadcast anyway, because it was that good.
+The early release generated the kind of media coverage that money can't buy. Television morning shows aired the clip. News websites embedded it. By game day, most of the country had already seen it — but watched it again during the broadcast anyway, because it was that good. It's the same calculated bet that paid off years later for [Michelob ULTRA's "Pass for the Ages"](/posts/michelob-ultra-pass-for-the-ages/) — let the work travel on its own before the big stage even arrives.
 
 By the end of Super Bowl Sunday, the film had over 17 million YouTube views. It was the most-shared Super Bowl commercial in history at that point.
 
@@ -58,3 +58,5 @@ Deutsch LA is the Los Angeles outpost of the New York-founded Deutsch agency, an
 **Director:** Lance Acord
 **Production:** Park Pictures
 **Year:** 2011
+
+For more on the campaign's background and reception, see the [Wikipedia entry on Volkswagen's "The Force" advertisement](https://en.wikipedia.org/wiki/The_Force_(advertisement)).

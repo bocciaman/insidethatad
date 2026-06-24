@@ -26,7 +26,7 @@ Fallon London, the British arm of the Minneapolis-founded creative agency, had b
 
 What emerged from that brief was something no brief could have anticipated.
 
-**The Idea**
+## The Idea
 
 Creative director Juan Cabral had an image in his head: a gorilla at a drum kit, alone in a purple room, preparing to perform the drum intro to "In The Air Tonight." Nothing else. No explanation, no connection to chocolate, no narrative setup. Just the gorilla, the anticipation, and then the performance.
 
@@ -34,7 +34,7 @@ The reasoning — to the extent that advertising ever requires linear reasoning 
 
 The idea was almost killed multiple times. Brand managers wanted to understand the connection between the gorilla and the chocolate. Cabral's answer was essentially: there isn't one, and that's the point. The connection is the feeling.
 
-**The Production**
+## The Production
 
 The gorilla suit was performed by Garon Michael, a professional actor who spent weeks working with the Fallon team to perfect the physical performance. The challenge was conveying the gorilla's emotional journey — from quiet anticipation through to complete musical surrender — through a rubber suit.
 
@@ -42,19 +42,19 @@ The choice of "In The Air Tonight" was integral rather than incidental. The song
 
 The production also made a deliberate decision about realism. The gorilla looked like a gorilla rather than a cartoon or a cute mascot. The setting — a purple-lit room that suggested a backstage area — was minimal and slightly surreal. The cinematography was patient and respectful, treating the performance as a performance rather than a joke.
 
-**The Response**
+## The Response
 
 When the commercial aired for the first time on August 31, 2007, during the UK broadcast of Big Brother, the response was immediate and overwhelming. Television switchboards lit up. People called to ask what they had just watched. By morning, the clip was spreading online — this was 2007, before social media had its current infrastructure, but YouTube was already established, and the video spread rapidly.
 
 Cadbury's sales increased by 9% in the weeks following the launch. More significantly, the brand's emotional metrics — consumer warmth, brand love, purchase intent — all moved sharply upward. The salmonella damage was repaired not by a rational reassurance campaign but by a gorilla playing drums.
 
-**The Industry Response**
+## The Industry Response
 
 British advertising had spent years in the grip of what critics called "purpose fatigue" — the tendency of brands to justify their existence through social messaging rather than pure entertainment. The Gorilla was a reaction to that tendency. It was joyful without being saccharine. It was absurd without being stupid. It trusted the audience to feel something without explaining why they should feel it. In that sense it belongs in the same conversation as [Volvo's "The Epic Split"](/posts/volvo-epic-split-van-damme/) — another spot that earns its emotional payoff through a single sustained idea rather than a list of product features.
 
 Ad industry publication Campaign named it the best British commercial of the decade. Fallon London won numerous awards, and Juan Cabral's reputation as one of the most distinctive creative voices in British advertising was firmly established. He went on to direct the equally celebrated Sony "Balls" spot, but the Gorilla remains the pinnacle.
 
-**The Sequels**
+## The Sequels
 
 Cadbury followed the Gorilla with additional ads featuring eyebrow-dancing children and a truck race — spots that recycled the spirit of the original (joy, music, pure feeling) without quite capturing its singular strangeness. The sequels were successful, but they demonstrated a truth about advertising: lightning rarely strikes twice in the same form.
 

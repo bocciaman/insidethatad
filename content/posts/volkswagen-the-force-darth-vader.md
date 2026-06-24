@@ -19,7 +19,7 @@ The film is 60 seconds long. A small boy in a Darth Vader costume moves through 
 <iframe src="https://www.youtube-nocookie.com/embed/hBuQopNu2Is" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-**The Idea**
+## The Idea
 
 The brief to Deutsch LA was to promote the 2012 Volkswagen Passat to American families. The Passat had historically been positioned as a sophisticated European sedan, but VW wanted to expand its appeal to mainstream American buyers — families, parents, people who thought of a car as a practical purchase rather than a lifestyle statement.
 
@@ -27,7 +27,7 @@ Creative Director Ryan Delehanty and his team landed on a concept rooted in univ
 
 The child cast in the role was Max Page, then six years old and shortly to begin playing a character on the soap opera The Young and the Restless. He performed the role entirely without dialogue, communicating through body language and the increasingly determined set of his shoulders.
 
-**The Pre-Release Strategy**
+## The Pre-Release Strategy
 
 What distinguished "The Force" from most Super Bowl advertising was the decision to release it publicly five days before the game. This was 2011, and the Super Bowl pre-release strategy was not yet standard practice. Deutsch LA and Volkswagen uploaded the film to YouTube on February 2nd, and it was shared by over a million people before it aired on television.
 
@@ -35,19 +35,19 @@ The early release generated the kind of media coverage that money can't buy. Tel
 
 By the end of Super Bowl Sunday, the film had over 17 million YouTube views. It was the most-shared Super Bowl commercial in history at that point.
 
-**Why Families Responded**
+## Why Families Responded
 
 The film worked on parents at a level that was almost biological. The boy's absolute conviction — the way he stands in front of the washing machine with total seriousness, arms outstretched, willing the Force to come — is both funny and tender. The humor was never at the child's expense. The father's decision to use the remote start, to make the boy's fantasy real for one moment, was a piece of storytelling about parental love that had nothing to do with car specifications.
 
 And yet the car was central. The Passat's remote start feature was the entire mechanism of the story. The product feature drove the plot — which is the ideal relationship between brand and narrative in automotive advertising.
 
-**Max Page and the Cultural Afterlife**
+## Max Page and the Cultural Afterlife
 
 Max Page, the boy who played the little Darth Vader, became something of a celebrity in the weeks following the Super Bowl. News coverage revealed that he had a congenital heart defect and had undergone open heart surgery — a detail that gave his determined little performance an additional emotional resonance for many viewers. He made appearances on morning shows and later became an advocate for the American Heart Association's children's heart programs.
 
 The commercial spawned dozens of parody videos, a sequel featuring a dog attempting to use the Force, and has been referenced and homaged in popular culture so frequently that it has become part of the shared language of contemporary advertising.
 
-**Deutsch LA**
+## Deutsch LA
 
 Deutsch LA is the Los Angeles outpost of the New York-founded Deutsch agency, and had spent the years leading up to "The Force" building a reputation for emotionally intelligent work across automotive, food, and technology clients. The commercial represented their highest-profile achievement and established the agency as one of the top creative shops in the country.
 

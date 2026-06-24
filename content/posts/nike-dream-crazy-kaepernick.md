@@ -21,7 +21,7 @@ It was, by almost any measure, one of the boldest and most consequential commerc
 <iframe src="https://www.youtube-nocookie.com/embed/ekZRoSCINLA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-**The Background**
+## The Background
 
 Colin Kaepernick had been unsigned in the NFL since March 2017, following a 2016 season in which his decision to kneel during the national anthem in protest of police brutality against Black Americans had made him one of the most polarizing figures in American sports. He was widely believed to have been effectively blacklisted by team owners.
 
@@ -29,7 +29,7 @@ Nike, which had been Kaepernick's sponsor since he was a college athlete, had ma
 
 The choice of Kaepernick was not made lightly. Internal discussions at Nike included analysis of brand risk, demographic targeting, and long-term cultural positioning. The decision ultimately came down to a clear strategic insight: Nike's core customer — young, diverse, urban, culturally progressive — supported Kaepernick by a significant margin. The people burning Nike shoes were not, by and large, Nike's primary consumers.
 
-**The Film**
+## The Film
 
 "Dream Crazy" was directed by Melina Matsoukas, one of the most celebrated music video directors in the industry, known for Beyoncé's "Formation" and Rihanna's "We Found Love." Her visual sensibility gave the film a cinematic quality that elevated it above standard sports advertising.
 
@@ -39,7 +39,7 @@ Each individual story was extraordinary on its own terms. Together, assembled wi
 
 The film's final image was Kaepernick himself, staring directly into the camera as he delivered the closing line: "Don't ask if your dreams are crazy. Ask if they're crazy enough."
 
-**Wieden+Kennedy's Craft**
+## Wieden+Kennedy's Craft
 
 Wieden+Kennedy Portland has been Nike's creative partner since 1982 and is responsible for many of the most celebrated advertising campaigns in American history: "Just Do It" itself, "Bo Knows," "If You Let Me Play," Michael Jordan's entire advertising persona. The agency's relationship with Nike is one of the longest and most creatively productive partnerships in the industry.
 
@@ -47,7 +47,7 @@ For "Dream Crazy," the team worked to ensure that the political dimension of Kae
 
 The result was a film that worked simultaneously as a sports film, a brand film, and a cultural statement — each layer reinforcing the others rather than competing.
 
-**The Aftermath**
+## The Aftermath
 
 "Dream Crazy" won the Emmy Award for Outstanding Commercial in 2019. It won Cannes Lions. It dominated every major advertising awards season and generated more industry discussion than any commercial of its year.
 

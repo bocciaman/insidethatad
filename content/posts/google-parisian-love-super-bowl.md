@@ -19,7 +19,7 @@ The commercial cost almost nothing by Super Bowl standards. It was conceived by 
 <iframe src="https://www.youtube-nocookie.com/embed/UejEaBAYIbc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-**The Story**
+## The Story
 
 The film opens on a blank Google search bar. A hand types: "study abroad paris france." Results appear. Then: "cafes near the louvre." More results. Then: "translate tu es tres mignon." Then: "impress a french girl." Then: "chocolate shops near the sacre coeur." Then: "long distance relationship tips."
 
@@ -29,7 +29,7 @@ And then, after another pause, one final search: "churches in paris." And over i
 
 An entire life, a complete love story — meeting, courting, falling, separating, deciding, moving, building a family, marrying — told through nothing but a search box and the things one person typed into it over the course of a few years. The final card: Google. Search On.
 
-**The Origin**
+## The Origin
 
 "Parisian Love" was created by Google's own in-house creative studio, Google Creative Lab, and was initially produced not as a Super Bowl commercial but as a demo video for an internal campaign called "Search Stories" — a series of short films designed to show how people actually used Google in their daily lives.
 
@@ -37,7 +37,7 @@ The film was not originally intended for television at all. It was created to be
 
 The decision to air it during the Super Bowl was made relatively late and represented Google's first-ever television commercial. The company had built its brand almost entirely through product excellence and word of mouth. "Parisian Love" was their announcement that they were ready to speak directly to the broadest possible audience.
 
-**Why It Worked**
+## Why It Worked
 
 The genius of "Parisian Love" is its understanding that Google is not a technology product — or at least not primarily one. It is the tool through which people navigate the most important moments of their lives. The searches in the film are not demonstrations of features. They are the actual language of a real human experience: curiosity, desire, confusion, decision, love.
 
@@ -45,13 +45,13 @@ By showing the search bar doing what people actually use it for — not academic
 
 The restraint of the production — no music until the very end, no images beyond the search results page, no narrator — gave the film a quality of documentary truth. It felt like something discovered rather than manufactured.
 
-**The Response**
+## The Response
 
 The commercial generated enormous emotional response. Social media in 2010 was not what it is now, but the comment sections of the YouTube upload filled with people sharing their own love stories, expressing surprise at being moved by an advertisement for a search engine, and simply writing "I'm not crying, you're crying."
 
 It won numerous advertising awards and appeared on virtually every list of the best Super Bowl commercials of the decade. It was discussed in journalism and media schools as an example of brand storytelling at its most economical and powerful.
 
-**The Lesson for Advertisers**
+## The Lesson for Advertisers
 
 "Parisian Love" offered a lesson that most advertisers were too accustomed to conventional production value to fully absorb: the most powerful advertisement might be the one that most closely resembles the truth. Not the embellished, produced, celebrity-endorsed truth of advertising, but the actual texture of how real people use real products in the real moments of their lives.
 

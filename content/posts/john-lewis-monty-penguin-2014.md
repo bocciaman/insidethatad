@@ -19,7 +19,7 @@ In Britain, the release of the John Lewis Christmas advertisement has become som
 <iframe src="https://www.youtube-nocookie.com/embed/TE2J4Jxx614" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-**The Story**
+## The Story
 
 The film opens on a boy, Sam, who is clearly deeply attached to his penguin companion Monty. We see them together through the seasons — at the beach in summer, playing in autumn leaves, watching television on rainy evenings. Monty is always present, always part of Sam's world.
 
@@ -29,7 +29,7 @@ Christmas morning arrives. Sam rushes downstairs to find, alongside the tree, a 
 
 The final card: "Give someone the gift they've been dreaming of this Christmas."
 
-**Adam&EveDDB's Creative Approach**
+## Adam&EveDDB's Creative Approach
 
 Adam&EveDDB, the London agency formed in 2008 from the merger of Adam & Eve and DDB London, had been creating John Lewis Christmas films since 2009, steadily building what had become the most anticipated annual advertising event in British television. Each year's film was built on the same basic architecture: a simple emotional story, a carefully chosen cover of a well-known song, a child's perspective, and a reveal that recontextualized everything that had come before.
 
@@ -39,13 +39,13 @@ Creative Director Richard Brim led the team that developed the concept. Director
 
 Tom Odell's cover of John Lennon's "Real Love" — a song about the desire for connection and love — threaded through the film with a naturalness that suggested it had been written for this purpose.
 
-**The Commercial Strategy**
+## The Commercial Strategy
 
 John Lewis's Christmas campaigns had by 2014 evolved into a fully integrated marketing event. The film was supported by an in-store experience — a real Monty the Penguin plush toy, which sold out within days of the film's release. There was a "Monty's Den" in John Lewis stores where children could interact with Monty content. The hashtag #MontyThePenguin generated millions of social media interactions.
 
 This integration of the film into a product, an in-store experience, and a social campaign represented the full realization of John Lewis's commercial Christmas strategy: the film was not just advertising, it was the engine of an entire retail moment.
 
-**Why These Films Matter**
+## Why These Films Matter
 
 John Lewis's Christmas campaigns have become something more than advertising over their fifteen-year run. They have become part of British Christmas culture — a marker of the season's beginning, a conversation starter, a shared national experience. The anticipation they generate — "Have you seen the John Lewis ad?" — is genuine and extends well beyond the brand's customer base.
 

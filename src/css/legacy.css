@@ -302,6 +302,17 @@
   background: #922b21;
 }
 
+/* ── Homepage h1 (SEO, visually subdued) ── */
+.home__title {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #888;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem;
+  padding: 0;
+}
+
 /* ── Card grid ── */
 .card-grid {
   display: grid;

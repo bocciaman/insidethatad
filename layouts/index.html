@@ -1,6 +1,8 @@
 {{ define "main" }}
 <main class="main" role="main">
 
+  <h1 class="home__title">Ad Campaign Analysis &amp; Creative Breakdowns</h1>
+
   {{- $posts := where .Site.RegularPages "Type" "posts" }}
   {{- $pager := .Paginate $posts }}
   <div class="card-grid">

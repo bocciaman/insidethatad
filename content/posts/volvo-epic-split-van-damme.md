@@ -18,7 +18,7 @@ The premise sounds simple on paper: Jean-Claude Van Damme, the Belgian martial a
 <iframe src="https://www.youtube-nocookie.com/embed/M7FIvfx5J10" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-**The Idea Behind the Split**
+## The Idea Behind the Split
 
 The ad was part of Volvo Trucks' broader "Live Tests" campaign, a series of films designed to demonstrate the engineering precision and reliability of Volvo's latest trucks. Earlier entries in the series had included a truck balancing on a suspension bridge cable and a truck being directed by a hamster — creative, but nothing approaching the cultural impact of what was coming.
 
@@ -34,7 +34,7 @@ The agency's approach was grounded in a belief that the best brand storytelling 
 
 Creative direction came from Björn Engström and Sophia Lindholm, with production handled by Lief Films. The spot was directed by Andreas Nilsson, a Swedish director known for combining the absurd with the visually beautiful.
 
-**Why It Worked**
+## Why It Worked
 
 The genius of "The Epic Split" lies in what it doesn't do. It doesn't overexplain. It doesn't list features. It barely speaks. Instead, it trusts the image — an aging action star, silhouetted against a pink-and-gold Spanish sunrise, holding an impossibly perfect horizontal split between two massive moving trucks — to do everything.
 
@@ -42,7 +42,7 @@ The casting was deliberate. Van Damme had been out of the mainstream spotlight f
 
 The internet responded instantly. Within days of its release on November 13, 2013, the video had been shared millions of times. Late night hosts referenced it. Parody videos appeared within hours, the most famous being "The Epic Split — Feat. Van Damme (PARODY)" starring Chuck Norris doing the splits between two fighter jets. Volvo had achieved what most B2B brands only dream of: they made people who would never buy a truck stop and watch their advertisement twice.
 
-**Awards and Legacy**
+## Awards and Legacy
 
 "The Epic Split" became one of the most decorated commercials of 2014. It won the Titanium Grand Prix at Cannes Lions — the most prestigious individual award in advertising. It picked up Grand Prix honors in the Film and Cyber categories as well. Ad trade publications across the world named it the best commercial of the year.
 
@@ -50,7 +50,7 @@ More importantly, it changed how people thought about truck advertising. Volvo h
 
 Forsman & Bodenfors followed up the campaign with additional "Live Tests" that also generated millions of views, but none matched the cultural impact of the split. Some ideas are simply lightning in a bottle, and this was one of them.
 
-**What Brands Can Learn**
+## What Brands Can Learn
 
 The lesson brands continue to take from this campaign is deceptively simple: if you have something real to say about your product, find the most visually extraordinary way to say it. Don't hide your product truth behind lifestyle imagery or celebrity associations that have nothing to do with what you sell. Find the intersection of genuine capability and human drama, and film it beautifully.
 

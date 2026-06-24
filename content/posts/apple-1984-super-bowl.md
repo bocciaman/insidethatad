@@ -18,7 +18,7 @@ Apple's "1984" commercial, conceived by Steve Hayden and Brent Thomas at Chiat/D
 <iframe src="https://www.youtube-nocookie.com/embed/cWBiOd5XlV4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-**The Context**
+## The Context
 
 By late 1983, Apple was preparing to launch the Macintosh — the first personal computer with a graphical user interface designed for mass consumers. IBM had entered the personal computer market in 1981 and was rapidly dominating it, and Apple's position was precarious. The Macintosh needed to make an immediate, massive cultural impact to have any chance.
 
@@ -28,7 +28,7 @@ The concept, drawn from George Orwell's novel Nineteen Eighty-Four, depicted a d
 
 The allegory was blunt: IBM was Big Brother, the conformist monolith of corporate computing. Apple — represented by the hammer-wielding athlete — was freedom, individuality, and the future.
 
-**Ridley Scott's Vision**
+## Ridley Scott's Vision
 
 Ridley Scott was hired to direct the film with a budget that was, by 1983 standards, staggering. The commercial cost approximately $900,000 to produce — the equivalent of roughly $2.7 million today — with additional millions spent on the Super Bowl media buy.
 
@@ -36,13 +36,13 @@ Scott assembled a cast of 200 extras to play the drone-like masses, many of them
 
 The single female athlete was portrayed by Anya Major, a British hammer discus thrower and actress. Her casting was deliberate: she needed to be physically capable of actually throwing a large hammer, and she needed to project the quality of defiant, unstoppable energy that the commercial demanded.
 
-**The Internal Battle**
+## The Internal Battle
 
 Chiat/Day's Steve Jobs and Steve Wozniak had approved the concept. Apple's board of directors had not. When they saw a rough cut, the board's reaction was reportedly one of horror. John Sculley, Apple's CEO, wanted to sell back the Super Bowl time slot. The company had paid $800,000 for a 60-second placement and was seriously considering not using it.
 
 Chiat/Day's co-founder Jay Chiat had other ideas. He sold only part of the time back to the network, ensuring that enough of the buy remained to air the commercial. The rest, as they say, is advertising history.
 
-**The Response**
+## The Response
 
 The commercial aired once — once — during Super Bowl XVIII, and was mentioned the following morning in over 5 minutes of news coverage across all three major television networks. By some estimates, the earned media value of that coverage was worth more than 50 times the cost of the original media buy.
 
@@ -50,7 +50,7 @@ The reaction was split between those who were moved and those who were confused.
 
 That year, Chiat/Day swept the advertising awards season. The commercial was inducted into the Clio Hall of Fame. Advertising Age named it the best commercial of the decade, then the best commercial of the century.
 
-**The Legacy**
+## The Legacy
 
 What "1984" established was the possibility — and the commercial viability — of treating a product launch as a cultural event. Apple did not simply advertise the Macintosh. They announced a revolution. And they did it in the most expensive, audacious, cinematically serious way possible.
 

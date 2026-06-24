@@ -1,7 +1,6 @@
 +++
-draft = true
 title = "Budweiser Puppy Love: The Super Bowl Ad That Made America Weep"
-date = "2026-06-26T10:00:00+00:00"
+date = "2026-06-24T10:00:00+00:00"
 slug = "budweiser-puppy-love-2014"
 categories = ["TV spot", "Super Bowl"]
 tags = ["Budweiser", "Anomaly", "Super Bowl", "Clydesdales", "puppy", "emotional"]

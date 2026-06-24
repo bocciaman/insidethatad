@@ -650,7 +650,7 @@ body {
 .footer__column {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 4px;
 }
 
 .footer__column-label {
@@ -669,7 +669,7 @@ body {
 
 .footer__nav--stacked {
   flex-direction: column;
-  gap: 2px;
+  gap: 0;
 }
 
 .footer__nav-link {

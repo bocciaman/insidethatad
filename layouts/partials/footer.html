@@ -1,10 +1,22 @@
 <footer class="footer">
   <div class="footer__main">
-    <nav class="footer__nav">
-      <a href="/privacy-policy/" class="footer__nav-link">Privacy Policy</a>
-      <a href="/terms-of-service/" class="footer__nav-link">Terms of Service</a>
-      <a href="/sitemap.xml" class="footer__nav-link">Sitemap</a>
-    </nav>
+    <div class="footer__columns">
+      <div class="footer__column">
+        <nav class="footer__nav">
+          <a href="/privacy-policy/" class="footer__nav-link">Privacy Policy</a>
+          <a href="/terms-of-service/" class="footer__nav-link">Terms of Service</a>
+          <a href="/sitemap.xml" class="footer__nav-link">Sitemap</a>
+        </nav>
+      </div>
+
+      <div class="footer__column">
+        <span class="footer__column-label">Other Properties</span>
+        <nav class="footer__nav">
+          <a href="https://abanwar.com" class="footer__nav-link" target="_blank" rel="noopener noreferrer">AB Anwar</a>
+          <a href="https://homecalcs.net" class="footer__nav-link" target="_blank" rel="noopener noreferrer">HomeCalcs</a>
+        </nav>
+      </div>
+    </div>
 
     <div class="footer__social">
       {{- range .Site.Params.social }}
@@ -13,14 +25,6 @@
       </a>
       {{- end }}
     </div>
-  </div>
-
-  <div class="footer__properties">
-    <span class="footer__properties-label">Other Properties</span>
-    <nav class="footer__properties-nav">
-      <a href="https://abanwar.com" class="footer__nav-link" target="_blank" rel="noopener noreferrer">AB Anwar</a>
-      <a href="https://homecalcs.net" class="footer__nav-link" target="_blank" rel="noopener noreferrer">HomeCalcs</a>
-    </nav>
   </div>
 
   <div class="footer__bottom">

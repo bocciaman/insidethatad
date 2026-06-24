@@ -1,14 +1,14 @@
 +++
-draft = true
 title = "Snickers You're Not You When You're Hungry: Betty White and the Perfect Tagline"
-date = "2026-06-25T10:00:00+00:00"
+date = "2026-06-24T01:00:00+00:00"
 slug = "snickers-betty-white-super-bowl"
 categories = ["TV spot", "Super Bowl"]
 tags = ["Snickers", "BBDO", "Betty White", "Super Bowl", "hungry", "tagline"]
+description = "Snickers' You're Not You When You're Hungry, starring Betty White, became one of advertising's most successful global taglines. Here's why it still works."
 agency = "BBDO New York"
 brand = "Snickers"
 [cover]
-  image = "/img/2024/snickers-betty-white.jpg"
+  image = "/img/2024/08/snickers-betty-white.jpg"
 +++
 
 There is a certain kind of advertising idea that seems obvious in retrospect, so inevitable and perfectly constructed that you can't understand why nobody thought of it before. "You're Not You When You're Hungry" is that kind of idea. And when it launched during Super Bowl XLIV in February 2010 — starring 88-year-old Betty White getting tackled in the mud during a football game — it became one of the most celebrated advertisements of the decade.
@@ -49,8 +49,10 @@ The commercial contributed directly to a significant late-career resurgence for 
 
 "You're Not You When You're Hungry" is studied in business schools as one of the most effective product-benefit taglines in advertising history. It is simultaneously a product claim (Snickers satisfies hunger), a personality observation (hunger changes who you are), and an invitation to self-recognition (we've all been there). It works in every language, in every culture, across every demographic group.
 
-The campaign won the Grand Prix at Cannes Lions and has been recognized by virtually every major advertising awards organization. Snickers' market share grew measurably in the years following its launch.
+The campaign won the Grand Prix at Cannes Lions and has been recognized by virtually every major advertising awards organization. Snickers' market share grew measurably in the years following its launch. It's the same durability that made [Volkswagen's "The Force"](/posts/volkswagen-the-force-darth-vader/) a campaign people still reference years later — both built something simple enough to travel across markets and outlast the news cycle that launched them.
 
 **Client:** Snickers / Mars
 **Agency:** BBDO New York
 **Year:** 2010 Super Bowl XLIV
+
+For more on the campaign's background, see the [Wikipedia entry on the Snickers "You're Not You When You're Hungry" campaign](https://en.wikipedia.org/wiki/Snickers_(bar)#Marketing).

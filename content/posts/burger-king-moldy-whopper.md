@@ -1,14 +1,14 @@
 +++
-draft = true
 title = "Burger King's Moldy Whopper: The Most Disgusting Ad Ever Made That Won Everything"
-date = "2026-06-25T10:15:00+00:00"
+date = "2026-06-24T01:15:00+00:00"
 slug = "burger-king-moldy-whopper"
 categories = ["Campaigns", "Creative"]
 tags = ["Burger King", "INGO", "DAVID Miami", "Moldy Whopper", "preservatives", "controversial"]
+description = "Burger King's Moldy Whopper showed a real burger decaying for 34 days — and won every major award in advertising. Here's why the disgust was the proof."
 agency = "INGO / DAVID Miami / Publicis Bucharest"
 brand = "Burger King"
 [cover]
-  image = "/img/2024/burger-king-moldy-whopper.jpg"
+  image = "/img/2024/08/burger-king-moldy-whopper.jpg"
 +++
 
 On February 19, 2020, Burger King released what many considered the most revolting advertisement ever produced by a major fast food brand. "The Moldy Whopper" showed a real Burger King Whopper decaying over 34 days — timelapse footage of a burger growing blue-green mold, going soft, collapsing, becoming genuinely and viscerally disgusting — set to "What the World Needs Now Is Love" by Lena Horne.
@@ -16,7 +16,7 @@ On February 19, 2020, Burger King released what many considered the most revolti
 It won the Grand Prix at Cannes Lions. It won the Grand Prix at the One Show. It was named the most awarded campaign of 2020 by The Gunn Report. And it effectively communicated a product claim — that Burger King had removed artificial preservatives from its Whoppers — more memorably than any conventional food advertising could have.
 
 <div class="video-container">
-<iframe src="https://www.youtube-nocookie.com/embed/oSDC4C3_16Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/f9B9HGQsx0k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 **The Context**
@@ -51,9 +51,11 @@ Fernando Machado, then Burger King's Global Chief Marketing Officer, had spent y
 
 **The Legacy**
 
-The campaign influenced how the food and beverage industry approached clean-label and natural ingredient claims for years afterward. It demonstrated that consumer skepticism about brand claims could be overcome not by assertion but by evidence — and that advertising could deliver evidence in a way that was more memorable and credible than any product label or press release.
+The campaign influenced how the food and beverage industry approached clean-label and natural ingredient claims for years afterward. It demonstrated that consumer skepticism about brand claims could be overcome not by assertion but by evidence — and that advertising could deliver evidence in a way that was more memorable and credible than any product label or press release. It's a similar bet to the one [Cadbury made with its Gorilla ad](/posts/cadbury-gorilla-phil-collins/): trust that audiences will reward a brand willing to risk discomfort over playing it safe.
 
 **Client:** Burger King
 **Agencies:** INGO (Stockholm), DAVID Miami, Publicis Bucharest
 **Global CMO:** Fernando Machado
 **Year:** 2020
+
+For more on the campaign's background and reception, see the [Wikipedia entry on the Whopper](https://en.wikipedia.org/wiki/Whopper).

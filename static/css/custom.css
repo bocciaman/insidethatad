@@ -780,16 +780,10 @@ body {
 
 
 .footer__column-label {
-  color: #aaa;
+  color: #fff;
   font-size: 0.85rem;
   font-weight: 500;
   letter-spacing: 0.03em;
-}
-
-
-.footer__nav--stacked {
-  flex-direction: column;
-  gap: 2px;
 }
 
 
@@ -798,6 +792,12 @@ body {
   gap: 24px;
   flex-wrap: wrap;
   justify-content: flex-start;
+}
+
+
+.footer__nav--stacked {
+  flex-direction: column;
+  gap: 2px;
 }
 
 

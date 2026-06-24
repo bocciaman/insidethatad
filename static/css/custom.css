@@ -768,7 +768,7 @@ body {
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
-  gap: 2.5rem;
+  gap: 24px;
 }
 
 
@@ -783,8 +783,13 @@ body {
   color: #555;
   font-size: 0.75rem;
   font-weight: 700;
-  text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+
+.footer__nav--stacked {
+  flex-direction: column;
+  gap: 10px;
 }
 
 

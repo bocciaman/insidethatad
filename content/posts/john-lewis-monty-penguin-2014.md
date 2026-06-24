@@ -1,14 +1,14 @@
 +++
-draft = true
 title = "John Lewis Monty the Penguin: Britain's Most Beloved Christmas Ad"
-date = "2026-06-24T10:00:00+00:00"
+date = "2026-06-23T18:00:00+00:00"
 slug = "john-lewis-monty-penguin-2014"
 categories = ["TV spot", "Campaigns"]
 tags = ["John Lewis", "Adam Eve DDB", "Christmas", "UK advertising", "penguin", "emotional"]
+description = "John Lewis's Monty the Penguin became Britain's most-watched Christmas ad of 2014. Here's how Adam&EveDDB turned a CGI penguin into a national event."
 agency = "Adam&EveDDB"
 brand = "John Lewis"
 [cover]
-  image = "/img/2024/john-lewis-monty-penguin.jpg"
+  image = "/img/2024/07/john-lewis-monty-penguin.jpg"
 +++
 
 In Britain, the release of the John Lewis Christmas advertisement has become something close to a national event. Schools discuss it. Newspapers carry front-page stories about it. Social media stops for an hour. And in 2014, when John Lewis and agency Adam&EveDDB released "Monty's Christmas," the reaction was one of the most extraordinary responses any British advertisement had ever generated.
@@ -16,7 +16,7 @@ In Britain, the release of the John Lewis Christmas advertisement has become som
 "Monty's Christmas" is a story about a boy and his penguin companion — the penguin's desire for love and connection mirroring the boy's own emotional growth. Directed by Dougal Wilson with a cover of "Real Love" by Tom Odell on the soundtrack, the two-minute film was watched by over 23 million people online in its first week and generated £132 million in earned media coverage, according to Thinkbox.
 
 <div class="video-container">
-<iframe src="https://www.youtube-nocookie.com/embed/RSxOjBIjyhI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/TE2J4Jxx614" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 **The Story**
@@ -51,7 +51,7 @@ John Lewis's Christmas campaigns have become something more than advertising ove
 
 That cultural position is extraordinarily valuable, and it was built year by year through consistent emotional intelligence, craft excellence, and a willingness to commit resources to storytelling without guarantee of immediate commercial return.
 
-"Monty's Christmas" represents the moment when the John Lewis Christmas film became something it was possible to take seriously as art — not just as advertising.
+"Monty's Christmas" represents the moment when the John Lewis Christmas film became something it was possible to take seriously as art — not just as advertising. It belongs in the same conversation as [Thai Life Insurance's "Unsung Hero"](/posts/thai-life-insurance-unsung-hero/) — both trust a slow, patient emotional build over any kind of product pitch, and both became cultural events well beyond their original markets.
 
 **Client:** John Lewis
 **Agency:** Adam&EveDDB, London
@@ -59,3 +59,5 @@ That cultural position is extraordinarily valuable, and it was built year by yea
 **Director:** Dougal Wilson
 **Music:** Tom Odell covering "Real Love" (John Lennon)
 **Year:** 2014
+
+For more on the campaign's background and impact, see the [Wikipedia entry on John Lewis Christmas advertising](https://en.wikipedia.org/wiki/John_Lewis_Christmas_advert).

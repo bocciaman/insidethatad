@@ -1,14 +1,14 @@
 +++
-draft = true
 title = "Google Parisian Love: The Search Engine Ad That Made America Cry"
-date = "2026-06-24T10:15:00+00:00"
+date = "2026-06-23T18:15:00+00:00"
 slug = "google-parisian-love-super-bowl"
 categories = ["TV spot", "Super Bowl"]
 tags = ["Google", "Google Creative Lab", "Super Bowl", "search", "love story", "2010"]
+description = "Google's Parisian Love told a love story through search queries alone. Here's why this no-budget Super Bowl ad still ranks among the best ever made."
 agency = "Google Creative Lab"
 brand = "Google"
 [cover]
-  image = "/img/2024/google-parisian-love.jpg"
+  image = "/img/2024/07/google-parisian-love.jpg"
 +++
 
 It is a love story told entirely through a series of Google searches. There is no actor. No dialogue. No music until the very end. Just a search bar, a series of queries, and the sound of keys clicking. In 60 seconds, Google's "Parisian Love" — created by the company's own in-house creative team and aired during Super Bowl XLIV in February 2010 — made millions of people feel something profound about a software product they used every single day without ever thinking about it.
@@ -55,8 +55,10 @@ It won numerous advertising awards and appeared on virtually every list of the b
 
 "Parisian Love" offered a lesson that most advertisers were too accustomed to conventional production value to fully absorb: the most powerful advertisement might be the one that most closely resembles the truth. Not the embellished, produced, celebrity-endorsed truth of advertising, but the actual texture of how real people use real products in the real moments of their lives.
 
-Google had an advantage that most brands don't: their product really was present in the most important moments of millions of lives. "Parisian Love" simply made that visible.
+Google had an advantage that most brands don't: their product really was present in the most important moments of millions of lives. "Parisian Love" simply made that visible. It's the same instinct behind [Always #LikeAGirl](/posts/always-like-a-girl/) — find the truth your brand already has a genuine claim to, and trust the audience to recognize it without embellishment.
 
 **Client:** Google
 **Agency:** Google Creative Lab
 **Year:** 2010
+
+For more on the campaign's background, see the [Wikipedia entry on Google's Parisian Love advertisement](https://en.wikipedia.org/wiki/Parisian_Love).

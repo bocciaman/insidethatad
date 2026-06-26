@@ -52,6 +52,10 @@ summaryLength = 70
     name = "Agency Jobs"
     url = "/agency-jobs/"
     weight = 4
+  [[menu.main]]
+    name = "Store"
+    url = "/store/"
+    weight = 5
 
 [[params.social]]
   name = "Twitter"

@@ -7,7 +7,7 @@ tags = ["Budweiser", "Anomaly", "Super Bowl", "Clydesdales", "puppy", "emotional
 agency = "Anomaly"
 brand = "Budweiser"
 [cover]
-  image = "/img/2024/budweiser-puppy-love.jpg"
+  image = "/img/2024/02/budweiser-puppy-love.jpg"
 +++
 
 Budweiser has spent decades building one of the most emotionally resonant advertising franchises in Super Bowl history around a breed of horse that most Americans will never ride and a product they may or may not drink. The Budweiser Clydesdales, introduced in 1933 to celebrate the end of Prohibition, have appeared in Super Bowl spots that have made grown adults cry in stadiums full of strangers. "Puppy Love," which aired during Super Bowl XLVIII in February 2014, may be the high point of that entire tradition.

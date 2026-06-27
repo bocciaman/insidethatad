@@ -1,3 +1,22 @@
+{{ define "head_extra" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Ad Creative Brief Template",
+    "description": "A fully fillable PDF creative brief for agencies and marketing professionals. 80 fields, 5 pages, instant download.",
+    "image": "{{ .Site.BaseURL }}img/store/ad-creative-brief-cover.png",
+    "brand": { "@type": "Brand", "name": "Inside That Ad" },
+    "offers": {
+      "@type": "Offer",
+      "price": "13.99",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://bocciaman.gumroad.com/l/AdCreativeBrief"
+    }
+  }
+  </script>
+{{ end }}
 {{ define "main" }}
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <main class="main" role="main">

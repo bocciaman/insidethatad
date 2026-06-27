@@ -79,6 +79,7 @@
 	{{- if not $server }}
 		{{ template "_internal/google_analytics.html" . }}
 	{{- end }}
+	{{ block "head_extra" . }}{{ end }}
 </head>
 <body class="body">
 	<div class="container container--outer">

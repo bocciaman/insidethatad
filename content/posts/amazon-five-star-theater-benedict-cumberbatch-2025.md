@@ -1,8 +1,8 @@
 +++
-title = "Amazon's Five Star Theater: How Benedict Cumberbatch Made Customer Reviews Into Drama"
+title = "Amazon Five Star Theater: Benedict Cumberbatch Performs Customer Reviews"
 date = "2026-06-25T09:15:00+00:00"
 slug = "amazon-five-star-theater-benedict-cumberbatch-2025"
-description = "Amazon's 2025 holiday campaign cast Benedict Cumberbatch to perform real five-star customer reviews as theatrical monologues. Here's why the joke lands and the strategy is smarter than it looks."
+description = "Amazon's 2025 holiday campaign cast Benedict Cumberbatch to perform real five-star customer reviews as theatrical monologues. Here's why it works."
 categories = ["Campaigns", "TV spot"]
 tags = ["Amazon", "Benedict Cumberbatch", "holiday", "2025", "humor", "in-house"]
 agency = "Amazon In-House"

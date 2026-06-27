@@ -1,5 +1,5 @@
 +++
-title = "HOKA's 'Together We Fly Higher' Is a Running Ad That Isn't Really About Running"
+title = "HOKA 'Together We Fly Higher': A Running Ad About Community"
 date = "2026-06-25T09:00:00+00:00"
 slug = "hoka-together-we-fly-higher-2025"
 description = "HOKA's 2025 global campaign by Anomaly reframes performance footwear around community, not speed. Here's why the emotional pivot lands."

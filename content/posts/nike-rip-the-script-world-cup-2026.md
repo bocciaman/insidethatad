@@ -1,6 +1,6 @@
 +++
 title = "Nike 'Rip the Script': The World Cup Ad That Rewrites the Hero"
-date = "2026-06-10T09:00:00+00:00"
+date = "2026-06-28T09:00:00+00:00"
 slug = "nike-rip-the-script-world-cup-2026"
 description = "Nike's 2026 World Cup campaign by Wieden+Kennedy flips the familiar football hero narrative. Here's why this ad resets what sport can say."
 categories = ["Campaigns", "TV spot"]

@@ -1,6 +1,6 @@
 +++
 title = "Dove 'The Game Is Ours': A Super Bowl Ad About Girls in Sport"
-date = "2026-02-10T09:00:00+00:00"
+date = "2026-06-28T09:30:00+00:00"
 slug = "dove-the-game-is-ours-super-bowl-2026"
 description = "Dove's Super Bowl LX ad by Ogilvy confronts the dropout crisis in girls' sports with a film that earns its emotion. Here's the breakdown."
 categories = ["Campaigns", "TV spot"]

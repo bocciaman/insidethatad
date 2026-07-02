@@ -1,13 +1,13 @@
 +++
 title = "Nike 'So Win': Doechii and the Super Bowl Ad About Doubters"
-date = "2025-02-10T09:00:00+00:00"
+date = "2026-06-29T09:30:00+00:00"
 slug = "nike-so-win-super-bowl-2025"
 description = "Nike's Super Bowl LIX spot voiced by Doechii, directed by Kim Gehrig, reclaims the doubters' narrative for women in sport. Here's the breakdown."
 categories = ["Campaigns", "TV spot"]
 tags = ["Nike", "Wieden+Kennedy", "Super Bowl", "Doechii", "women in sport", "2025", "Kim Gehrig"]
 agency = "Wieden+Kennedy"
 brand = "Nike"
-draft = true
+draft = false
 [cover]
   image = "/img/2025/02/nike-so-win.jpg"
 +++

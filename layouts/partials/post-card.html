@@ -20,9 +20,6 @@
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </h2>
     {{- $agency := .Params.agency | default "Unknown" }}
-    {{- if findRE "(?i)super.?bowl" .Title }}
-      {{- $agency = "Various Agencies" }}
-    {{- end }}
     {{- if ne $agency "Unknown" }}
     <p class="post-card__agency">Agency: {{ $agency }}</p>
     {{- end }}

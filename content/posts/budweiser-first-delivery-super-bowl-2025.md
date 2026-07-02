@@ -1,6 +1,6 @@
 +++
 title = "Budweiser 'First Delivery': The Clydesdale Foal's Super Bowl Debut"
-date = "2026-06-29T09:00:00+00:00"
+date = "2026-07-01T09:00:00+00:00"
 slug = "budweiser-first-delivery-super-bowl-2025"
 description = "Budweiser's Super Bowl LIX ad by FCB New York follows a Clydesdale foal on its first delivery — the 47th Super Bowl Clydesdale spot and one of the best."
 categories = ["Campaigns", "TV spot"]
